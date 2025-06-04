@@ -1,0 +1,2001 @@
+Data da Venda,Nome do Produto,Quantidade Vendida,Valor Unitário (R$),Valor Total (R$),Franquia,Nome do Vendedor,Localização da Franquia,Canal de Venda
+2023-06-01,Chocolate Com Amêndoas,2,22.31,44.62,ChocoFranq 1,Dr. Enzo Gabriel Fogaça,BA,Online
+2023-06-06,Chocolate Com Morango,20,29.42,588.4,ChocoFranq 6,Dr. Enzo Gabriel Fogaça,RJ,Franquia
+2023-10-01,Chocolate Vegano,13,26.66,346.58,ChocoFranq 8,Ana Júlia Santos,BA,Online
+2023-01-29,Chocolate Branco,19,43.42,824.98,ChocoFranq 2,Alexandre Freitas,MG,Online
+2023-09-28,Chocolate Com Caramelo,9,20.32,182.88,ChocoFranq 4,Lorenzo Silva,DF,Franquia
+2023-05-23,Chocolate Com Morango,14,17.73,248.22,ChocoFranq 7,Sr. Breno Silva,CE,Franquia
+2023-10-18,Chocolate Trufado,20,16.38,327.6,ChocoFranq 5,Catarina Farias,SC,Online
+2023-05-24,Chocolate Com Caramelo,16,40.05,640.8,ChocoFranq 5,Guilherme Porto,PE,Franquia
+2023-06-29,Chocolate Com Amêndoas,6,30.0,180.0,ChocoFranq 7,Dr. Enzo Gabriel Fogaça,PE,Franquia
+2023-12-08,Chocolate Com Castanha,5,47.04,235.2,ChocoFranq 5,Valentina Teixeira,CE,Franquia
+2023-02-09,Chocolate Com Avelã,4,15.27,61.08,ChocoFranq 5,Alexandre Freitas,RJ,Franquia
+2023-04-16,Chocolate Vegano,14,33.47,468.58,ChocoFranq 2,Luiz Gustavo Carvalho,SP,Online
+2023-06-25,Chocolate Meio Amargo,12,25.86,310.32,ChocoFranq 9,Juliana Pinto,MG,Franquia
+2023-01-13,Chocolate Branco,14,38.92,544.88,ChocoFranq 5,Dr. Enzo Gabriel Fogaça,PR,Online
+2023-04-17,Chocolate Trufado,20,10.4,208.0,ChocoFranq 9,Henrique Araújo,DF,Franquia
+2023-04-01,Chocolate Com Avelã,17,47.26,803.42,ChocoFranq 9,Leandro Moreira,PE,Franquia
+2024-03-12,Chocolate Diet,17,37.07,630.19,ChocoFranq 8,Calebe Freitas,RJ,Franquia
+2023-05-17,Chocolate Vegano,4,16.32,65.28,ChocoFranq 1,Rafael Moura,PR,Franquia
+2024-02-04,Chocolate Com Avelã,7,11.99,83.93,ChocoFranq 4,Juliana Pinto,CE,Online
+2023-06-17,Chocolate Com Castanha,17,18.79,319.43,ChocoFranq 2,Lorenzo Silva,CE,Online
+2023-04-06,Chocolate Zero Açúcar,7,7.96,55.72,ChocoFranq 4,Catarina Farias,BA,Franquia
+2024-02-28,Chocolate 70% Cacau,6,19.12,114.72,ChocoFranq 1,Isaac Costa,SC,Franquia
+2023-01-02,Chocolate Zero Açúcar,14,44.03,616.42,ChocoFranq 4,Juliana Farias,RS,Franquia
+2023-05-23,Chocolate Meio Amargo,12,20.08,240.96,ChocoFranq 10,Isaac Costa,RS,Franquia
+2024-01-19,Chocolate Com Menta,3,38.05,114.15,ChocoFranq 8,Henrique Araújo,RS,Franquia
+2023-10-12,Chocolate Diet,15,49.97,749.55,ChocoFranq 7,Guilherme Porto,SC,Online
+2023-03-02,Chocolate Com Morango,13,44.94,584.22,ChocoFranq 10,Fernando Silva,CE,Online
+2023-07-21,Chocolate Com Caramelo,14,8.62,120.68,ChocoFranq 6,Catarina Farias,BA,Franquia
+2023-05-06,Chocolate Diet,7,42.64,298.48,ChocoFranq 4,João Gabriel Cavalcanti,PE,Franquia
+2023-03-31,Chocolate Com Avelã,8,32.25,258.0,ChocoFranq 4,Rafaela Peixoto,PE,Online
+2024-03-27,Chocolate Vegano,16,36.72,587.52,ChocoFranq 5,Davi Lucas Costa,CE,Franquia
+2024-02-09,Chocolate Diet,15,18.03,270.45,ChocoFranq 3,Henrique Araújo,RJ,Online
+2023-01-14,Chocolate Com Amêndoas,5,16.38,81.9,ChocoFranq 6,Dr. Ryan Caldeira,PR,Franquia
+2023-05-08,Chocolate Recheado,17,5.9,100.3,ChocoFranq 1,Dr. Ryan Caldeira,DF,Online
+2023-01-21,Chocolate Com Avelã,7,7.77,54.39,ChocoFranq 1,Lorenzo Silva,CE,Online
+2024-01-04,Chocolate Com Menta,15,22.7,340.5,ChocoFranq 6,Alexandre Freitas,BA,Franquia
+2023-04-15,Chocolate Ao Leite,11,27.16,298.76,ChocoFranq 5,Rafaela Peixoto,MG,Online
+2023-09-18,Chocolate Com Morango,20,7.16,143.2,ChocoFranq 9,Dr. Ryan Caldeira,SP,Franquia
+2023-08-21,Chocolate Meio Amargo,12,49.76,597.12,ChocoFranq 8,Leandro Moreira,MG,Online
+2023-07-14,Chocolate Com Amêndoas,17,44.01,748.17,ChocoFranq 6,Juliana Farias,RS,Online
+2023-07-19,Chocolate Zero Açúcar,15,25.65,384.75,ChocoFranq 2,Leandro Oliveira,DF,Franquia
+2023-10-27,Chocolate Trufado,17,34.37,584.29,ChocoFranq 1,Luiz Gustavo Carvalho,PE,Franquia
+2023-12-21,Chocolate Ao Leite,8,44.15,353.2,ChocoFranq 5,Juliana Farias,SC,Franquia
+2023-05-07,Chocolate Recheado,12,38.95,467.4,ChocoFranq 7,Maria Fernanda Costa,RJ,Franquia
+2023-11-01,Chocolate Vegano,5,13.62,68.1,ChocoFranq 3,Lorenzo Silva,PE,Online
+2023-07-09,Chocolate Branco,11,38.63,424.93,ChocoFranq 6,Valentina Teixeira,CE,Franquia
+2024-04-07,Chocolate Diet,7,7.39,51.73,ChocoFranq 9,Dr. Enzo Gabriel Fogaça,SP,Franquia
+2023-09-21,Chocolate Com Caramelo,4,49.14,196.56,ChocoFranq 3,Fernando Silva,MG,Online
+2023-11-09,Chocolate Com Amêndoas,12,24.19,290.28,ChocoFranq 5,Alexandre Freitas,BA,Online
+2024-01-06,Chocolate Meio Amargo,12,43.14,517.68,ChocoFranq 8,Lorenzo Silva,RJ,Online
+2023-07-16,Chocolate Diet,3,23.1,69.3,ChocoFranq 2,Henrique Araújo,PR,Online
+2024-03-11,Chocolate Recheado,1,41.36,41.36,ChocoFranq 9,Alexandre Freitas,PR,Franquia
+2023-08-14,Chocolate Vegano,16,16.92,270.72,ChocoFranq 10,Leandro Moreira,MG,Online
+2023-05-17,Chocolate Com Castanha,14,48.32,676.48,ChocoFranq 2,Calebe Freitas,CE,Franquia
+2023-08-06,Chocolate Vegano,6,6.25,37.5,ChocoFranq 6,Leandro Oliveira,PR,Online
+2024-02-19,Chocolate Vegano,12,38.46,461.52,ChocoFranq 5,Lorenzo Silva,CE,Franquia
+2023-09-22,Chocolate Diet,4,10.03,40.12,ChocoFranq 3,Ana Júlia Santos,SP,Franquia
+2024-05-12,Chocolate Branco,4,47.94,191.76,ChocoFranq 7,Lorenzo Silva,BA,Franquia
+2023-09-21,Chocolate Com Caramelo,15,40.74,611.1,ChocoFranq 3,Maria Fernanda Costa,RS,Online
+2023-02-14,Chocolate Com Caramelo,16,19.5,312.0,ChocoFranq 4,Dr. Ryan Caldeira,MG,Online
+2023-02-05,Chocolate Com Castanha,20,29.67,593.4,ChocoFranq 5,Luiz Gustavo Carvalho,RJ,Franquia
+2024-03-04,Chocolate Trufado,19,21.25,403.75,ChocoFranq 6,Kamilly Sales,PE,Franquia
+2024-03-29,Chocolate Zero Açúcar,17,9.69,164.73,ChocoFranq 9,Guilherme Porto,RS,Online
+2023-01-13,Chocolate Com Castanha,2,49.12,98.24,ChocoFranq 9,Olivia da Mota,DF,Online
+2023-04-04,Chocolate Recheado,16,41.06,656.96,ChocoFranq 9,Catarina Farias,BA,Online
+2023-11-21,Chocolate Com Menta,4,6.0,24.0,ChocoFranq 4,Alexandre Freitas,DF,Franquia
+2023-03-14,Chocolate Com Avelã,2,34.84,69.68,ChocoFranq 4,Davi Lucas Costa,PE,Franquia
+2023-09-23,Chocolate Com Morango,20,40.59,811.8,ChocoFranq 6,Rafaela Peixoto,PR,Online
+2024-01-31,Chocolate Zero Açúcar,16,34.73,555.68,ChocoFranq 1,Valentina Teixeira,SC,Franquia
+2023-02-16,Chocolate Com Amêndoas,3,48.56,145.68,ChocoFranq 4,Marcela Dias,RS,Online
+2023-08-29,Chocolate Trufado,20,34.97,699.4,ChocoFranq 3,Maria Fernanda Costa,PR,Online
+2023-06-03,Chocolate Zero Açúcar,10,13.21,132.1,ChocoFranq 1,Alexandre Freitas,MG,Online
+2023-05-29,Chocolate Branco,18,24.61,442.98,ChocoFranq 9,Juliana Pinto,PE,Online
+2024-02-24,Chocolate Diet,19,41.62,790.78,ChocoFranq 3,Alexandre Freitas,RS,Online
+2023-08-31,Chocolate Com Amêndoas,13,7.27,94.51,ChocoFranq 1,Sr. Breno Silva,SP,Franquia
+2023-05-06,Chocolate Com Caramelo,15,49.71,745.65,ChocoFranq 9,Ana Júlia Santos,SP,Franquia
+2023-07-25,Chocolate Com Castanha,15,23.69,355.35,ChocoFranq 9,Nicole Rodrigues,RS,Franquia
+2023-11-01,Chocolate Trufado,4,36.65,146.6,ChocoFranq 3,Catarina Farias,SC,Franquia
+2023-05-08,Chocolate Com Morango,8,29.66,237.28,ChocoFranq 5,Valentina Teixeira,SP,Franquia
+2023-01-11,Chocolate Recheado,5,46.48,232.4,ChocoFranq 9,Nicolas Rezende,MG,Franquia
+2023-01-23,Chocolate Ao Leite,7,47.29,331.03,ChocoFranq 2,Dr. Enzo Gabriel Fogaça,BA,Online
+2024-01-17,Chocolate Branco,3,39.32,117.96,ChocoFranq 2,Rafael Moura,PE,Online
+2023-09-07,Chocolate Diet,10,9.48,94.8,ChocoFranq 10,Guilherme Porto,SP,Online
+2024-01-19,Chocolate Com Castanha,11,12.36,135.96,ChocoFranq 4,Juliana Pinto,MG,Franquia
+2023-09-09,Chocolate Com Castanha,13,25.72,334.36,ChocoFranq 5,Juliana Farias,SP,Franquia
+2024-04-06,Chocolate Com Avelã,2,19.35,38.7,ChocoFranq 2,Valentina Teixeira,SC,Franquia
+2024-03-14,Chocolate 70% Cacau,3,45.08,135.24,ChocoFranq 6,Sr. Breno Silva,CE,Franquia
+2023-12-05,Chocolate Zero Açúcar,10,42.18,421.8,ChocoFranq 5,Sr. Breno Silva,DF,Franquia
+2023-10-30,Chocolate Branco,5,23.74,118.7,ChocoFranq 8,Henrique Araújo,PR,Franquia
+2023-05-03,Chocolate Trufado,5,10.83,54.15,ChocoFranq 4,Guilherme Porto,DF,Franquia
+2024-03-29,Chocolate Trufado,17,35.17,597.89,ChocoFranq 2,Isadora Moura,MG,Online
+2024-01-18,Chocolate Com Amêndoas,15,45.14,677.1,ChocoFranq 7,Kamilly Sales,CE,Online
+2023-01-19,Chocolate Zero Açúcar,1,42.84,42.84,ChocoFranq 5,Rafaela Peixoto,PE,Franquia
+2023-02-25,Chocolate Zero Açúcar,20,13.25,265.0,ChocoFranq 7,Marcela Dias,RJ,Online
+2023-12-13,Chocolate 70% Cacau,13,12.92,167.96,ChocoFranq 1,Isadora Moura,RJ,Online
+2024-05-04,Chocolate Meio Amargo,3,33.28,99.84,ChocoFranq 9,Sr. Breno Silva,PE,Online
+2023-05-06,Chocolate Diet,7,34.6,242.2,ChocoFranq 6,Henrique Araújo,PR,Franquia
+2024-01-08,Chocolate Com Morango,12,30.04,360.48,ChocoFranq 8,Ana Júlia Santos,SP,Franquia
+2023-06-16,Chocolate Trufado,5,23.08,115.4,ChocoFranq 7,Valentina Teixeira,CE,Online
+2024-03-12,Chocolate Recheado,14,24.88,348.32,ChocoFranq 1,Marcela Dias,RS,Online
+2023-05-02,Chocolate Com Caramelo,10,27.71,277.1,ChocoFranq 1,Isaac Costa,SC,Online
+2023-08-09,Chocolate Com Menta,8,17.85,142.8,ChocoFranq 1,Fernando Silva,BA,Franquia
+2023-12-27,Chocolate Diet,2,28.87,57.74,ChocoFranq 3,Calebe Freitas,DF,Franquia
+2024-03-04,Chocolate 70% Cacau,16,43.26,692.16,ChocoFranq 2,Dr. Ryan Caldeira,DF,Franquia
+2023-05-12,Chocolate Ao Leite,13,42.74,555.62,ChocoFranq 3,Ana Júlia Santos,BA,Online
+2023-11-02,Chocolate Recheado,11,48.66,535.26,ChocoFranq 7,Alexandre Freitas,MG,Online
+2023-11-14,Chocolate Meio Amargo,7,12.32,86.24,ChocoFranq 5,Rafael Moura,PR,Franquia
+2023-10-31,Chocolate Com Amêndoas,19,19.55,371.45,ChocoFranq 8,Lorenzo Silva,BA,Online
+2023-05-15,Chocolate Com Caramelo,2,43.05,86.1,ChocoFranq 3,Maria Fernanda Costa,MG,Franquia
+2023-03-30,Chocolate Com Caramelo,13,9.49,123.37,ChocoFranq 1,Dr. Enzo Gabriel Fogaça,DF,Franquia
+2024-02-04,Chocolate Meio Amargo,12,42.33,507.96,ChocoFranq 1,Isadora Moura,PR,Franquia
+2023-10-02,Chocolate Com Avelã,17,45.24,769.08,ChocoFranq 2,Nicolas Rezende,DF,Online
+2023-11-18,Chocolate Ao Leite,12,15.3,183.6,ChocoFranq 1,Ana Júlia Santos,SC,Franquia
+2023-01-14,Chocolate 70% Cacau,18,29.64,533.52,ChocoFranq 2,Rafaela Peixoto,CE,Online
+2024-04-26,Chocolate Branco,20,25.19,503.8,ChocoFranq 4,Catarina Farias,PR,Online
+2023-10-22,Chocolate Com Amêndoas,19,5.09,96.71,ChocoFranq 10,Henrique Araújo,PE,Online
+2023-12-27,Chocolate Vegano,11,20.61,226.71,ChocoFranq 5,Henrique Araújo,BA,Online
+2023-12-09,Chocolate Branco,8,26.66,213.28,ChocoFranq 2,Kamilly Sales,CE,Online
+2023-06-07,Chocolate Zero Açúcar,2,6.13,12.26,ChocoFranq 3,Fernando Silva,DF,Franquia
+2023-03-07,Chocolate Branco,14,44.19,618.66,ChocoFranq 5,Leandro Moreira,SC,Online
+2023-07-27,Chocolate Diet,3,36.52,109.56,ChocoFranq 6,Maria Fernanda Costa,SC,Online
+2023-01-13,Chocolate Com Amêndoas,1,20.68,20.68,ChocoFranq 6,Guilherme Porto,BA,Online
+2024-02-04,Chocolate Com Castanha,2,6.28,12.56,ChocoFranq 9,Henrique Araújo,DF,Online
+2024-01-10,Chocolate Com Avelã,19,12.05,228.95,ChocoFranq 2,Alexandre Freitas,SC,Franquia
+2023-12-04,Chocolate Com Morango,15,36.73,550.95,ChocoFranq 3,Olivia da Mota,PE,Online
+2024-02-12,Chocolate Recheado,12,44.9,538.8,ChocoFranq 3,Rafaela Peixoto,PE,Franquia
+2024-01-13,Chocolate Vegano,1,41.74,41.74,ChocoFranq 4,Dr. Enzo Gabriel Fogaça,RS,Online
+2024-03-09,Chocolate Meio Amargo,17,12.35,209.95,ChocoFranq 9,Alexandre Freitas,SC,Online
+2024-03-31,Chocolate Com Caramelo,11,40.41,444.51,ChocoFranq 7,Catarina Farias,SC,Franquia
+2023-07-05,Chocolate Vegano,8,25.44,203.52,ChocoFranq 2,Lorenzo Silva,RJ,Online
+2023-05-15,Chocolate Ao Leite,16,15.64,250.24,ChocoFranq 9,João Gabriel Cavalcanti,RJ,Online
+2023-12-12,Chocolate Diet,11,45.18,496.98,ChocoFranq 8,Davi Lucas Costa,SP,Online
+2024-04-28,Chocolate Com Caramelo,1,14.09,14.09,ChocoFranq 1,Olivia da Mota,PE,Online
+2023-06-07,Chocolate Com Avelã,6,34.02,204.12,ChocoFranq 7,Davi Lucas Costa,RS,Franquia
+2023-01-18,Chocolate Com Morango,15,14.98,224.7,ChocoFranq 5,Dr. Ryan Caldeira,MG,Franquia
+2023-01-28,Chocolate Vegano,14,31.6,442.4,ChocoFranq 8,Fernando Silva,RJ,Franquia
+2023-07-07,Chocolate Ao Leite,20,24.94,498.8,ChocoFranq 6,Isadora Moura,DF,Online
+2023-09-25,Chocolate Com Avelã,13,31.06,403.78,ChocoFranq 7,Juliana Farias,PE,Online
+2023-05-22,Chocolate Vegano,15,41.49,622.35,ChocoFranq 6,Leandro Oliveira,CE,Franquia
+2024-04-24,Chocolate Zero Açúcar,6,25.25,151.5,ChocoFranq 3,Davi Lucca da Cunha,MG,Online
+2023-12-20,Chocolate Com Menta,14,29.13,407.82,ChocoFranq 7,Henrique Araújo,CE,Franquia
+2023-12-04,Chocolate Vegano,14,8.58,120.12,ChocoFranq 5,Kamilly Sales,DF,Franquia
+2024-01-14,Chocolate Zero Açúcar,8,17.14,137.12,ChocoFranq 6,Guilherme Porto,PR,Franquia
+2023-09-02,Chocolate Com Castanha,11,32.44,356.84,ChocoFranq 10,Nicole Rodrigues,SP,Franquia
+2024-04-22,Chocolate Branco,4,12.62,50.48,ChocoFranq 9,Henrique Araújo,DF,Franquia
+2023-07-30,Chocolate Diet,8,26.22,209.76,ChocoFranq 2,Rafaela Peixoto,CE,Online
+2024-04-22,Chocolate Com Caramelo,15,39.51,592.65,ChocoFranq 6,Catarina Farias,BA,Franquia
+2023-10-06,Chocolate 70% Cacau,7,33.23,232.61,ChocoFranq 4,Guilherme Porto,RS,Franquia
+2024-02-14,Chocolate Com Castanha,8,32.7,261.6,ChocoFranq 4,Ana Júlia Santos,SC,Franquia
+2023-06-05,Chocolate Com Morango,17,38.46,653.82,ChocoFranq 5,Isaac Costa,PE,Franquia
+2023-08-30,Chocolate Trufado,1,8.78,8.78,ChocoFranq 8,Nicolas Rezende,MG,Online
+2023-04-19,Chocolate Vegano,18,14.17,255.06,ChocoFranq 8,Juliana Pinto,RS,Franquia
+2023-03-27,Chocolate Branco,14,29.0,406.0,ChocoFranq 3,Dr. Enzo Gabriel Fogaça,RJ,Online
+2024-04-30,Chocolate Com Menta,15,40.45,606.75,ChocoFranq 1,Guilherme Porto,RJ,Franquia
+2023-06-06,Chocolate Diet,7,49.41,345.87,ChocoFranq 8,Marcela Dias,BA,Franquia
+2023-03-05,Chocolate Diet,8,28.98,231.84,ChocoFranq 8,Nicolas Rezende,DF,Online
+2024-02-14,Chocolate Vegano,12,8.74,104.88,ChocoFranq 10,Davi Lucas Costa,DF,Online
+2024-04-03,Chocolate Com Morango,13,32.39,421.07,ChocoFranq 2,Lorenzo Silva,RJ,Franquia
+2024-02-02,Chocolate Diet,18,25.48,458.64,ChocoFranq 3,Calebe Freitas,SP,Online
+2023-05-19,Chocolate Zero Açúcar,20,12.09,241.8,ChocoFranq 1,Dr. Ryan Caldeira,DF,Online
+2023-07-02,Chocolate Com Avelã,4,22.88,91.52,ChocoFranq 10,Guilherme Porto,PR,Franquia
+2023-11-24,Chocolate Com Morango,16,14.5,232.0,ChocoFranq 7,Leandro Oliveira,SC,Online
+2024-05-12,Chocolate 70% Cacau,8,18.99,151.92,ChocoFranq 9,Alexandre Freitas,BA,Online
+2024-01-08,Chocolate Meio Amargo,18,7.68,138.24,ChocoFranq 2,Lorenzo Silva,DF,Franquia
+2023-11-08,Chocolate Branco,15,11.16,167.4,ChocoFranq 3,Fernando Silva,PE,Online
+2023-10-10,Chocolate Com Menta,5,30.38,151.9,ChocoFranq 2,Juliana Farias,CE,Franquia
+2024-01-16,Chocolate Com Caramelo,12,45.97,551.64,ChocoFranq 10,Rafaela Peixoto,MG,Online
+2023-12-06,Chocolate Com Avelã,4,40.07,160.28,ChocoFranq 3,Dr. Enzo Gabriel Fogaça,PR,Online
+2024-04-24,Chocolate Ao Leite,5,8.24,41.2,ChocoFranq 10,Alexandre Freitas,SC,Online
+2023-06-02,Chocolate Diet,16,40.62,649.92,ChocoFranq 7,Kamilly Sales,PR,Franquia
+2023-06-16,Chocolate Com Menta,15,41.76,626.4,ChocoFranq 10,Maria Fernanda Costa,DF,Franquia
+2023-09-23,Chocolate Ao Leite,2,14.2,28.4,ChocoFranq 8,Ana Júlia Santos,RS,Franquia
+2023-07-26,Chocolate Com Castanha,14,5.47,76.58,ChocoFranq 8,Davi Lucca da Cunha,DF,Online
+2024-03-27,Chocolate Com Caramelo,8,12.96,103.68,ChocoFranq 4,Marcela Dias,PE,Online
+2023-07-06,Chocolate Com Morango,17,9.33,158.61,ChocoFranq 6,Leandro Oliveira,PE,Franquia
+2023-11-09,Chocolate Com Caramelo,19,10.51,199.69,ChocoFranq 4,Valentina Teixeira,PE,Online
+2023-09-17,Chocolate Com Avelã,16,20.87,333.92,ChocoFranq 3,Ana Júlia Santos,PE,Online
+2023-08-17,Chocolate Meio Amargo,7,29.16,204.12,ChocoFranq 4,Guilherme Porto,PR,Online
+2024-04-30,Chocolate Meio Amargo,9,43.53,391.77,ChocoFranq 6,Alexandre Freitas,SP,Franquia
+2024-04-29,Chocolate Recheado,1,28.2,28.2,ChocoFranq 4,Nicolas Rezende,MG,Online
+2023-07-10,Chocolate Vegano,12,33.83,405.96,ChocoFranq 5,Leandro Oliveira,CE,Franquia
+2023-11-19,Chocolate Meio Amargo,12,13.99,167.88,ChocoFranq 4,Leandro Moreira,RJ,Franquia
+2023-06-15,Chocolate Recheado,11,15.67,172.37,ChocoFranq 6,Davi Lucas Costa,BA,Online
+2023-06-26,Chocolate Recheado,10,18.09,180.9,ChocoFranq 9,Dr. Ryan Caldeira,BA,Online
+2023-09-15,Chocolate Meio Amargo,18,37.03,666.54,ChocoFranq 10,Nicolas Rezende,DF,Franquia
+2023-04-23,Chocolate Vegano,19,23.37,444.03,ChocoFranq 1,Alexandre Freitas,PE,Online
+2023-06-08,Chocolate Recheado,8,41.3,330.4,ChocoFranq 1,Davi Lucca da Cunha,CE,Online
+2024-03-09,Chocolate Trufado,5,21.22,106.1,ChocoFranq 5,Isaac Costa,SC,Franquia
+2023-08-07,Chocolate Diet,3,15.91,47.73,ChocoFranq 1,Juliana Pinto,SP,Franquia
+2023-07-12,Chocolate Com Amêndoas,14,34.81,487.34,ChocoFranq 7,Catarina Farias,DF,Online
+2023-08-14,Chocolate Com Morango,17,17.77,302.09,ChocoFranq 10,João Gabriel Cavalcanti,RJ,Franquia
+2023-07-25,Chocolate Com Morango,18,44.25,796.5,ChocoFranq 4,Olivia da Mota,PR,Online
+2023-04-06,Chocolate Com Castanha,13,16.48,214.24,ChocoFranq 2,Leandro Moreira,RS,Franquia
+2023-07-19,Chocolate Com Avelã,5,7.22,36.1,ChocoFranq 7,Juliana Farias,RJ,Online
+2023-12-15,Chocolate Branco,6,16.38,98.28,ChocoFranq 9,Rafaela Peixoto,PE,Online
+2024-01-13,Chocolate Vegano,10,38.76,387.6,ChocoFranq 5,Nicolas Rezende,DF,Online
+2023-09-22,Chocolate Com Morango,18,6.49,116.82,ChocoFranq 3,Nicolas Rezende,PR,Online
+2024-03-28,Chocolate Com Avelã,1,9.46,9.46,ChocoFranq 9,Valentina Teixeira,SC,Franquia
+2023-11-26,Chocolate Com Amêndoas,10,8.28,82.8,ChocoFranq 6,João Gabriel Cavalcanti,PE,Online
+2024-04-22,Chocolate Branco,4,25.89,103.56,ChocoFranq 4,Valentina Teixeira,RJ,Franquia
+2023-11-08,Chocolate Com Morango,11,7.63,83.93,ChocoFranq 3,Juliana Farias,SP,Online
+2023-03-24,Chocolate Com Avelã,18,47.44,853.92,ChocoFranq 1,Valentina Teixeira,PE,Franquia
+2023-11-23,Chocolate Recheado,11,8.04,88.44,ChocoFranq 8,Sr. Breno Silva,SP,Online
+2023-05-12,Chocolate 70% Cacau,8,43.82,350.56,ChocoFranq 1,Isaac Costa,SP,Franquia
+2023-03-25,Chocolate Com Castanha,8,36.54,292.32,ChocoFranq 9,Lorenzo Silva,PR,Online
+2024-04-22,Chocolate Diet,10,30.12,301.2,ChocoFranq 4,Nicolas Rezende,RJ,Online
+2023-12-15,Chocolate Com Avelã,13,37.52,487.76,ChocoFranq 4,Juliana Farias,MG,Franquia
+2024-01-16,Chocolate Com Morango,14,49.53,693.42,ChocoFranq 1,Catarina Farias,DF,Franquia
+2024-01-10,Chocolate 70% Cacau,17,10.44,177.48,ChocoFranq 4,Sr. Breno Silva,SP,Online
+2023-07-01,Chocolate Com Menta,8,43.99,351.92,ChocoFranq 10,Rafaela Peixoto,SC,Franquia
+2024-01-10,Chocolate Diet,19,31.18,592.42,ChocoFranq 8,Isadora Moura,SP,Online
+2023-03-23,Chocolate Diet,14,5.94,83.16,ChocoFranq 2,Alexandre Freitas,PE,Online
+2023-11-20,Chocolate Recheado,4,16.41,65.64,ChocoFranq 5,Leandro Oliveira,DF,Franquia
+2024-04-16,Chocolate Com Morango,4,37.13,148.52,ChocoFranq 9,Lorenzo Silva,PR,Online
+2024-03-01,Chocolate Com Morango,2,43.42,86.84,ChocoFranq 10,Alexandre Freitas,CE,Online
+2023-03-04,Chocolate 70% Cacau,10,11.64,116.4,ChocoFranq 4,Calebe Freitas,RS,Online
+2024-03-02,Chocolate Com Menta,9,9.43,84.87,ChocoFranq 5,Leandro Oliveira,CE,Franquia
+2023-03-09,Chocolate 70% Cacau,5,19.5,97.5,ChocoFranq 8,Catarina Farias,RS,Online
+2023-11-05,Chocolate Com Avelã,6,5.82,34.92,ChocoFranq 2,Kamilly Sales,PR,Franquia
+2023-04-24,Chocolate Com Amêndoas,1,45.37,45.37,ChocoFranq 6,Leandro Oliveira,PE,Franquia
+2023-11-20,Chocolate Ao Leite,9,13.02,117.18,ChocoFranq 4,Calebe Freitas,MG,Franquia
+2023-12-16,Chocolate Com Menta,9,41.57,374.13,ChocoFranq 4,Isaac Costa,RS,Franquia
+2023-06-05,Chocolate Com Avelã,18,5.04,90.72,ChocoFranq 7,Leandro Oliveira,CE,Franquia
+2023-04-09,Chocolate Com Caramelo,14,41.16,576.24,ChocoFranq 4,Olivia da Mota,PE,Online
+2023-01-03,Chocolate Com Morango,4,24.44,97.76,ChocoFranq 10,Davi Lucca da Cunha,PE,Franquia
+2024-04-09,Chocolate Com Avelã,4,38.35,153.4,ChocoFranq 2,Alexandre Freitas,SC,Online
+2023-05-31,Chocolate Recheado,18,32.57,586.26,ChocoFranq 7,Olivia da Mota,BA,Franquia
+2023-12-28,Chocolate Branco,17,18.3,311.1,ChocoFranq 2,Maria Fernanda Costa,DF,Online
+2024-02-15,Chocolate Com Castanha,6,5.59,33.54,ChocoFranq 4,Maria Fernanda Costa,PR,Online
+2024-05-10,Chocolate Recheado,18,35.68,642.24,ChocoFranq 1,Guilherme Porto,DF,Franquia
+2023-09-08,Chocolate Com Morango,3,42.14,126.42,ChocoFranq 2,Alexandre Freitas,CE,Franquia
+2023-04-10,Chocolate Com Castanha,13,26.98,350.74,ChocoFranq 1,Luiz Gustavo Carvalho,RS,Franquia
+2023-04-10,Chocolate Ao Leite,16,14.52,232.32,ChocoFranq 2,Guilherme Porto,PE,Online
+2023-03-09,Chocolate Com Menta,13,18.97,246.61,ChocoFranq 6,Sr. Breno Silva,CE,Franquia
+2023-06-09,Chocolate Com Avelã,3,44.67,134.01,ChocoFranq 3,Alexandre Freitas,SC,Online
+2024-01-01,Chocolate Meio Amargo,16,34.77,556.32,ChocoFranq 6,Nicole Rodrigues,PR,Franquia
+2023-01-18,Chocolate Vegano,7,40.97,286.79,ChocoFranq 1,Rafaela Peixoto,CE,Franquia
+2023-10-02,Chocolate 70% Cacau,10,43.4,434.0,ChocoFranq 9,Nicole Rodrigues,BA,Franquia
+2023-02-15,Chocolate Com Amêndoas,1,38.24,38.24,ChocoFranq 3,Marcela Dias,PE,Franquia
+2023-02-04,Chocolate Branco,16,6.24,99.84,ChocoFranq 1,Calebe Freitas,PE,Franquia
+2024-02-19,Chocolate Com Castanha,4,42.29,169.16,ChocoFranq 9,Dr. Enzo Gabriel Fogaça,CE,Online
+2024-04-03,Chocolate Meio Amargo,4,25.48,101.92,ChocoFranq 6,Alexandre Freitas,PR,Online
+2023-07-11,Chocolate Zero Açúcar,3,10.44,31.32,ChocoFranq 6,Calebe Freitas,CE,Online
+2023-09-26,Chocolate 70% Cacau,6,31.99,191.94,ChocoFranq 1,Isaac Costa,SC,Franquia
+2023-08-23,Chocolate Branco,10,39.8,398.0,ChocoFranq 8,Ana Júlia Santos,PE,Franquia
+2023-01-20,Chocolate Trufado,19,11.39,216.41,ChocoFranq 5,Maria Fernanda Costa,PR,Online
+2023-04-04,Chocolate Com Caramelo,10,43.1,431.0,ChocoFranq 9,Alexandre Freitas,RS,Online
+2024-05-15,Chocolate Com Menta,18,38.09,685.62,ChocoFranq 6,Fernando Silva,PE,Online
+2024-03-30,Chocolate Com Amêndoas,5,42.75,213.75,ChocoFranq 3,Isaac Costa,RJ,Franquia
+2024-04-09,Chocolate Branco,2,5.66,11.32,ChocoFranq 1,Nicolas Rezende,DF,Online
+2023-01-05,Chocolate Meio Amargo,2,39.62,79.24,ChocoFranq 3,Isaac Costa,RS,Online
+2023-06-27,Chocolate Recheado,20,44.3,886.0,ChocoFranq 2,João Gabriel Cavalcanti,MG,Franquia
+2023-04-12,Chocolate Ao Leite,18,6.14,110.52,ChocoFranq 7,Juliana Farias,RS,Franquia
+2023-12-22,Chocolate Com Avelã,12,22.03,264.36,ChocoFranq 1,Marcela Dias,DF,Online
+2023-08-12,Chocolate Com Avelã,16,49.08,785.28,ChocoFranq 2,Davi Lucca da Cunha,RJ,Franquia
+2023-02-06,Chocolate Com Avelã,20,42.67,853.4,ChocoFranq 7,Rafael Moura,MG,Franquia
+2024-04-05,Chocolate Recheado,9,11.23,101.07,ChocoFranq 8,Maria Fernanda Costa,SC,Online
+2024-01-29,Chocolate Zero Açúcar,10,22.48,224.8,ChocoFranq 6,Rafael Moura,RJ,Online
+2023-03-13,Chocolate Diet,7,37.67,263.69,ChocoFranq 1,Catarina Farias,CE,Franquia
+2023-06-25,Chocolate Vegano,16,36.23,579.68,ChocoFranq 6,João Gabriel Cavalcanti,MG,Franquia
+2024-02-25,Chocolate Recheado,13,16.35,212.55,ChocoFranq 3,Luiz Gustavo Carvalho,SP,Franquia
+2023-03-24,Chocolate 70% Cacau,16,5.44,87.04,ChocoFranq 9,Sr. Breno Silva,MG,Online
+2024-04-09,Chocolate Meio Amargo,4,47.55,190.2,ChocoFranq 1,Marcela Dias,RJ,Online
+2023-12-06,Chocolate Vegano,5,39.21,196.05,ChocoFranq 6,Juliana Farias,DF,Online
+2024-04-17,Chocolate Com Castanha,1,13.69,13.69,ChocoFranq 9,Lorenzo Silva,MG,Franquia
+2023-06-29,Chocolate Com Avelã,5,13.73,68.65,ChocoFranq 9,Rafael Moura,PR,Online
+2023-03-25,Chocolate Com Avelã,6,13.09,78.54,ChocoFranq 4,Maria Fernanda Costa,BA,Franquia
+2023-03-19,Chocolate Branco,15,27.99,419.85,ChocoFranq 3,Calebe Freitas,RS,Franquia
+2023-06-26,Chocolate Vegano,6,18.58,111.48,ChocoFranq 9,Valentina Teixeira,RJ,Online
+2023-10-15,Chocolate Com Morango,3,49.34,148.02,ChocoFranq 5,Sr. Breno Silva,CE,Franquia
+2023-11-16,Chocolate Com Castanha,19,41.1,780.9,ChocoFranq 10,Alexandre Freitas,MG,Franquia
+2023-10-12,Chocolate Com Castanha,20,20.05,401.0,ChocoFranq 3,Guilherme Porto,SC,Online
+2024-02-15,Chocolate Com Castanha,8,49.47,395.76,ChocoFranq 2,Valentina Teixeira,RS,Online
+2023-09-21,Chocolate Meio Amargo,8,31.57,252.56,ChocoFranq 5,Kamilly Sales,MG,Online
+2023-01-12,Chocolate Com Morango,16,43.77,700.32,ChocoFranq 3,Fernando Silva,CE,Franquia
+2023-02-04,Chocolate 70% Cacau,7,9.2,64.4,ChocoFranq 1,Rafaela Peixoto,SC,Online
+2023-05-17,Chocolate Com Morango,16,12.08,193.28,ChocoFranq 4,Henrique Araújo,PR,Franquia
+2023-09-14,Chocolate Com Amêndoas,14,27.0,378.0,ChocoFranq 4,Henrique Araújo,SC,Online
+2023-06-15,Chocolate Recheado,8,36.13,289.04,ChocoFranq 5,Dr. Ryan Caldeira,CE,Franquia
+2023-05-08,Chocolate Vegano,8,43.27,346.16,ChocoFranq 1,João Gabriel Cavalcanti,BA,Franquia
+2023-07-14,Chocolate Com Menta,3,24.77,74.31,ChocoFranq 9,Isaac Costa,BA,Online
+2023-12-30,Chocolate Meio Amargo,2,29.4,58.8,ChocoFranq 8,Juliana Farias,DF,Franquia
+2024-04-01,Chocolate Trufado,8,19.72,157.76,ChocoFranq 10,Sr. Breno Silva,RJ,Online
+2024-01-26,Chocolate Com Caramelo,19,24.5,465.5,ChocoFranq 1,Davi Lucca da Cunha,DF,Franquia
+2023-12-09,Chocolate Trufado,10,31.03,310.3,ChocoFranq 10,Dr. Ryan Caldeira,RJ,Online
+2023-11-17,Chocolate Ao Leite,12,27.21,326.52,ChocoFranq 6,Leandro Oliveira,SP,Online
+2024-03-28,Chocolate Com Avelã,8,36.11,288.88,ChocoFranq 2,Nicole Rodrigues,PR,Online
+2024-03-07,Chocolate Recheado,19,43.3,822.7,ChocoFranq 9,Dr. Ryan Caldeira,DF,Online
+2023-11-30,Chocolate Trufado,14,19.95,279.3,ChocoFranq 5,Nicolas Rezende,SP,Franquia
+2023-04-11,Chocolate Zero Açúcar,3,30.45,91.35,ChocoFranq 7,Nicolas Rezende,BA,Franquia
+2023-07-06,Chocolate Diet,3,27.49,82.47,ChocoFranq 10,Leandro Oliveira,PE,Online
+2024-03-10,Chocolate Com Avelã,8,27.68,221.44,ChocoFranq 7,Alexandre Freitas,CE,Franquia
+2024-04-19,Chocolate Com Morango,10,19.71,197.1,ChocoFranq 6,Leandro Moreira,CE,Franquia
+2023-04-18,Chocolate Zero Açúcar,14,37.83,529.62,ChocoFranq 7,Leandro Oliveira,SC,Online
+2024-01-20,Chocolate Com Menta,14,28.5,399.0,ChocoFranq 1,Alexandre Freitas,SC,Franquia
+2024-02-12,Chocolate Branco,8,32.11,256.88,ChocoFranq 5,Maria Fernanda Costa,PE,Online
+2023-01-24,Chocolate Com Morango,11,20.05,220.55,ChocoFranq 7,Leandro Moreira,SP,Online
+2024-04-17,Chocolate Com Caramelo,20,28.25,565.0,ChocoFranq 10,João Gabriel Cavalcanti,MG,Online
+2023-04-13,Chocolate Com Morango,12,13.89,166.68,ChocoFranq 2,Lorenzo Silva,MG,Online
+2024-04-25,Chocolate Diet,16,26.89,430.24,ChocoFranq 9,Rafaela Peixoto,CE,Online
+2023-01-26,Chocolate Ao Leite,17,47.01,799.17,ChocoFranq 8,Marcela Dias,RS,Franquia
+2023-10-19,Chocolate Com Amêndoas,3,44.67,134.01,ChocoFranq 6,Juliana Farias,CE,Online
+2023-10-31,Chocolate Branco,19,30.01,570.19,ChocoFranq 2,Rafael Moura,SC,Online
+2023-07-05,Chocolate Branco,4,24.83,99.32,ChocoFranq 7,Rafael Moura,RJ,Online
+2023-12-01,Chocolate Zero Açúcar,2,30.27,60.54,ChocoFranq 3,Kamilly Sales,DF,Franquia
+2023-01-29,Chocolate Recheado,14,13.49,188.86,ChocoFranq 6,Leandro Moreira,RS,Franquia
+2023-09-13,Chocolate Recheado,16,11.67,186.72,ChocoFranq 3,Alexandre Freitas,BA,Online
+2024-03-10,Chocolate Diet,9,22.76,204.84,ChocoFranq 7,Marcela Dias,CE,Franquia
+2023-09-14,Chocolate Com Amêndoas,1,35.65,35.65,ChocoFranq 5,Kamilly Sales,MG,Online
+2023-02-24,Chocolate Com Castanha,14,7.17,100.38,ChocoFranq 9,Lorenzo Silva,PE,Franquia
+2024-05-09,Chocolate Diet,9,22.52,202.68,ChocoFranq 7,Luiz Gustavo Carvalho,SP,Online
+2023-04-10,Chocolate 70% Cacau,20,37.13,742.6,ChocoFranq 1,Isadora Moura,CE,Online
+2023-01-29,Chocolate Vegano,5,18.27,91.35,ChocoFranq 7,Henrique Araújo,CE,Franquia
+2023-03-07,Chocolate Trufado,10,17.0,170.0,ChocoFranq 8,Dr. Enzo Gabriel Fogaça,MG,Online
+2024-02-03,Chocolate Ao Leite,6,19.71,118.26,ChocoFranq 8,Davi Lucas Costa,RS,Online
+2023-11-06,Chocolate Diet,14,48.89,684.46,ChocoFranq 8,Olivia da Mota,CE,Online
+2023-12-11,Chocolate Branco,7,27.2,190.4,ChocoFranq 6,Fernando Silva,RJ,Online
+2023-08-08,Chocolate Ao Leite,1,24.06,24.06,ChocoFranq 2,Ana Júlia Santos,SP,Online
+2024-04-06,Chocolate Meio Amargo,10,14.87,148.7,ChocoFranq 3,Lorenzo Silva,PE,Online
+2023-11-06,Chocolate Zero Açúcar,17,22.67,385.39,ChocoFranq 8,Maria Fernanda Costa,PE,Online
+2023-06-25,Chocolate Com Menta,12,39.39,472.68,ChocoFranq 9,Juliana Pinto,DF,Franquia
+2024-04-06,Chocolate Com Avelã,18,47.46,854.28,ChocoFranq 8,Lorenzo Silva,MG,Online
+2024-05-04,Chocolate Ao Leite,18,31.23,562.14,ChocoFranq 10,Kamilly Sales,PE,Franquia
+2023-04-13,Chocolate Branco,17,40.72,692.24,ChocoFranq 7,Kamilly Sales,PE,Online
+2023-06-06,Chocolate Branco,7,38.85,271.95,ChocoFranq 1,Maria Fernanda Costa,MG,Franquia
+2023-04-10,Chocolate Meio Amargo,13,36.76,477.88,ChocoFranq 4,Catarina Farias,PR,Online
+2024-03-22,Chocolate 70% Cacau,9,43.21,388.89,ChocoFranq 2,Maria Fernanda Costa,PR,Franquia
+2023-06-15,Chocolate 70% Cacau,8,33.49,267.92,ChocoFranq 4,Guilherme Porto,MG,Franquia
+2024-02-07,Chocolate Com Caramelo,12,44.89,538.68,ChocoFranq 5,Davi Lucca da Cunha,SP,Franquia
+2023-08-16,Chocolate Meio Amargo,1,15.93,15.93,ChocoFranq 7,Davi Lucca da Cunha,RS,Franquia
+2023-04-10,Chocolate Com Amêndoas,17,20.68,351.56,ChocoFranq 4,Dr. Enzo Gabriel Fogaça,PR,Online
+2023-07-03,Chocolate Ao Leite,10,37.49,374.9,ChocoFranq 2,Marcela Dias,RS,Online
+2023-08-18,Chocolate 70% Cacau,19,31.11,591.09,ChocoFranq 2,Leandro Oliveira,PE,Franquia
+2024-01-18,Chocolate Com Caramelo,7,48.23,337.61,ChocoFranq 4,Sr. Breno Silva,BA,Franquia
+2024-04-23,Chocolate Com Caramelo,16,27.4,438.4,ChocoFranq 6,João Gabriel Cavalcanti,DF,Franquia
+2023-11-30,Chocolate Com Caramelo,4,38.69,154.76,ChocoFranq 7,Isaac Costa,MG,Online
+2023-08-01,Chocolate Ao Leite,20,9.15,183.0,ChocoFranq 7,Dr. Enzo Gabriel Fogaça,SC,Online
+2023-05-04,Chocolate Com Avelã,15,34.74,521.1,ChocoFranq 4,Davi Lucas Costa,CE,Franquia
+2023-05-05,Chocolate Trufado,11,7.51,82.61,ChocoFranq 1,Nicole Rodrigues,MG,Online
+2023-07-04,Chocolate 70% Cacau,20,22.4,448.0,ChocoFranq 7,Kamilly Sales,MG,Franquia
+2024-04-19,Chocolate Trufado,10,23.69,236.9,ChocoFranq 10,Ana Júlia Santos,SC,Franquia
+2023-03-06,Chocolate Com Morango,2,10.32,20.64,ChocoFranq 8,Rafaela Peixoto,PR,Online
+2024-02-25,Chocolate Meio Amargo,7,47.06,329.42,ChocoFranq 10,Guilherme Porto,RS,Franquia
+2023-10-04,Chocolate 70% Cacau,1,48.76,48.76,ChocoFranq 2,Olivia da Mota,DF,Online
+2023-10-24,Chocolate 70% Cacau,10,48.88,488.8,ChocoFranq 9,Alexandre Freitas,DF,Online
+2023-12-07,Chocolate Diet,9,12.33,110.97,ChocoFranq 5,Rafaela Peixoto,CE,Franquia
+2023-05-29,Chocolate Com Avelã,17,39.04,663.68,ChocoFranq 2,Rafael Moura,BA,Online
+2023-09-16,Chocolate Com Avelã,6,43.08,258.48,ChocoFranq 4,Valentina Teixeira,PE,Franquia
+2023-10-31,Chocolate Com Avelã,11,25.01,275.11,ChocoFranq 3,João Gabriel Cavalcanti,DF,Online
+2023-02-18,Chocolate Branco,19,36.4,691.6,ChocoFranq 5,Marcela Dias,RS,Franquia
+2023-01-07,Chocolate Com Menta,16,44.47,711.52,ChocoFranq 9,Nicole Rodrigues,RJ,Franquia
+2024-03-19,Chocolate Com Avelã,20,39.15,783.0,ChocoFranq 9,Nicole Rodrigues,RJ,Online
+2023-10-21,Chocolate Com Avelã,12,7.07,84.84,ChocoFranq 4,Marcela Dias,SC,Franquia
+2023-04-15,Chocolate Com Amêndoas,7,10.76,75.32,ChocoFranq 2,Lorenzo Silva,SP,Online
+2023-06-21,Chocolate Zero Açúcar,18,10.98,197.64,ChocoFranq 2,Calebe Freitas,MG,Franquia
+2023-09-01,Chocolate Meio Amargo,5,38.77,193.85,ChocoFranq 7,Dr. Enzo Gabriel Fogaça,CE,Online
+2023-01-30,Chocolate Meio Amargo,8,48.16,385.28,ChocoFranq 8,Juliana Pinto,SP,Franquia
+2023-12-06,Chocolate Trufado,5,23.98,119.9,ChocoFranq 6,Fernando Silva,MG,Online
+2023-10-31,Chocolate Com Amêndoas,18,34.88,627.84,ChocoFranq 3,Nicole Rodrigues,PE,Online
+2023-08-16,Chocolate Zero Açúcar,5,48.91,244.55,ChocoFranq 5,João Gabriel Cavalcanti,MG,Online
+2023-12-08,Chocolate Diet,12,13.38,160.56,ChocoFranq 8,Juliana Farias,DF,Online
+2024-02-02,Chocolate Branco,14,33.33,466.62,ChocoFranq 8,Nicolas Rezende,MG,Franquia
+2023-05-31,Chocolate Recheado,15,35.46,531.9,ChocoFranq 1,Catarina Farias,PE,Online
+2024-02-27,Chocolate Vegano,3,10.78,32.34,ChocoFranq 4,Nicole Rodrigues,DF,Online
+2023-12-24,Chocolate Zero Açúcar,1,25.59,25.59,ChocoFranq 3,Leandro Oliveira,MG,Franquia
+2023-09-07,Chocolate 70% Cacau,17,14.37,244.29,ChocoFranq 6,Sr. Breno Silva,SC,Online
+2023-08-24,Chocolate Meio Amargo,13,20.36,264.68,ChocoFranq 1,Maria Fernanda Costa,PR,Online
+2023-12-24,Chocolate Com Caramelo,7,13.03,91.21,ChocoFranq 7,Leandro Oliveira,RS,Online
+2023-06-01,Chocolate Diet,12,7.0,84.0,ChocoFranq 3,Nicolas Rezende,RS,Franquia
+2023-07-20,Chocolate Com Castanha,13,45.55,592.15,ChocoFranq 10,Henrique Araújo,RS,Franquia
+2023-04-22,Chocolate Com Morango,2,9.37,18.74,ChocoFranq 5,Guilherme Porto,RS,Franquia
+2023-08-11,Chocolate Zero Açúcar,11,46.44,510.84,ChocoFranq 5,Fernando Silva,PE,Online
+2023-04-14,Chocolate 70% Cacau,19,45.74,869.06,ChocoFranq 8,Dr. Ryan Caldeira,MG,Online
+2023-10-02,Chocolate Zero Açúcar,14,19.4,271.6,ChocoFranq 5,Isadora Moura,PR,Online
+2023-03-06,Chocolate Ao Leite,6,38.83,232.98,ChocoFranq 5,Catarina Farias,SP,Franquia
+2023-09-14,Chocolate Com Menta,8,7.06,56.48,ChocoFranq 4,Catarina Farias,CE,Franquia
+2024-01-06,Chocolate Meio Amargo,20,8.13,162.6,ChocoFranq 4,Dr. Ryan Caldeira,DF,Franquia
+2023-04-13,Chocolate Com Morango,16,33.94,543.04,ChocoFranq 6,Leandro Moreira,SC,Online
+2023-11-11,Chocolate Diet,7,7.66,53.62,ChocoFranq 1,Maria Fernanda Costa,RS,Online
+2023-01-23,Chocolate Com Amêndoas,19,32.65,620.35,ChocoFranq 5,Kamilly Sales,RS,Online
+2023-01-27,Chocolate Meio Amargo,18,42.68,768.24,ChocoFranq 2,Isaac Costa,RJ,Online
+2023-08-19,Chocolate Recheado,18,28.46,512.28,ChocoFranq 3,Rafaela Peixoto,RJ,Online
+2023-03-04,Chocolate Zero Açúcar,13,16.62,216.06,ChocoFranq 8,Dr. Enzo Gabriel Fogaça,RJ,Franquia
+2023-10-29,Chocolate Com Avelã,18,40.81,734.58,ChocoFranq 3,Isaac Costa,RJ,Franquia
+2024-01-16,Chocolate Vegano,2,30.23,60.46,ChocoFranq 9,Maria Fernanda Costa,RJ,Franquia
+2023-11-02,Chocolate Zero Açúcar,20,11.69,233.8,ChocoFranq 6,Isaac Costa,RS,Franquia
+2024-04-26,Chocolate Ao Leite,7,17.43,122.01,ChocoFranq 2,Rafaela Peixoto,DF,Franquia
+2023-10-02,Chocolate Com Menta,13,23.34,303.42,ChocoFranq 5,Isadora Moura,PR,Franquia
+2023-05-12,Chocolate Recheado,3,30.05,90.15,ChocoFranq 1,Rafael Moura,BA,Franquia
+2023-04-13,Chocolate 70% Cacau,13,17.54,228.02,ChocoFranq 4,Nicolas Rezende,PR,Online
+2023-07-02,Chocolate Com Caramelo,6,6.09,36.54,ChocoFranq 3,Rafael Moura,DF,Franquia
+2023-04-09,Chocolate Branco,9,36.68,330.12,ChocoFranq 9,Valentina Teixeira,MG,Online
+2023-02-09,Chocolate 70% Cacau,19,24.43,464.17,ChocoFranq 3,Luiz Gustavo Carvalho,SP,Online
+2023-06-30,Chocolate 70% Cacau,11,45.73,503.03,ChocoFranq 1,João Gabriel Cavalcanti,PR,Online
+2024-04-15,Chocolate Branco,4,9.02,36.08,ChocoFranq 1,Davi Lucas Costa,BA,Franquia
+2023-12-31,Chocolate Recheado,3,7.0,21.0,ChocoFranq 2,Juliana Farias,PR,Online
+2023-08-01,Chocolate Zero Açúcar,8,17.75,142.0,ChocoFranq 10,João Gabriel Cavalcanti,RS,Online
+2023-10-07,Chocolate Zero Açúcar,18,28.81,518.58,ChocoFranq 7,Davi Lucca da Cunha,PE,Franquia
+2023-03-27,Chocolate Com Amêndoas,11,14.44,158.84,ChocoFranq 2,Leandro Oliveira,CE,Franquia
+2024-04-02,Chocolate Recheado,13,19.1,248.3,ChocoFranq 9,Juliana Pinto,RJ,Online
+2023-08-27,Chocolate Com Caramelo,5,20.46,102.3,ChocoFranq 6,Henrique Araújo,PE,Online
+2023-07-21,Chocolate Com Menta,15,33.77,506.55,ChocoFranq 6,Isadora Moura,SP,Franquia
+2024-05-06,Chocolate Branco,14,9.77,136.78,ChocoFranq 1,Maria Fernanda Costa,PR,Online
+2024-02-25,Chocolate Com Castanha,16,32.28,516.48,ChocoFranq 9,Nicole Rodrigues,DF,Franquia
+2023-02-16,Chocolate Com Menta,2,13.17,26.34,ChocoFranq 7,João Gabriel Cavalcanti,CE,Franquia
+2024-03-24,Chocolate Vegano,19,44.16,839.04,ChocoFranq 8,Sr. Breno Silva,BA,Franquia
+2023-04-27,Chocolate Com Castanha,2,30.37,60.74,ChocoFranq 9,Sr. Breno Silva,PE,Franquia
+2023-11-23,Chocolate Recheado,3,29.56,88.68,ChocoFranq 4,Rafaela Peixoto,RS,Online
+2023-04-14,Chocolate Vegano,10,44.72,447.2,ChocoFranq 3,Maria Fernanda Costa,PE,Online
+2023-03-02,Chocolate Trufado,9,26.0,234.0,ChocoFranq 10,Dr. Enzo Gabriel Fogaça,PR,Online
+2023-01-06,Chocolate Recheado,8,28.52,228.16,ChocoFranq 4,Lorenzo Silva,BA,Franquia
+2024-03-13,Chocolate Branco,17,18.41,312.97,ChocoFranq 10,Alexandre Freitas,RJ,Franquia
+2024-02-20,Chocolate Com Morango,11,44.19,486.09,ChocoFranq 2,Davi Lucca da Cunha,MG,Franquia
+2024-05-10,Chocolate Com Menta,6,35.93,215.58,ChocoFranq 6,Davi Lucca da Cunha,PE,Franquia
+2024-04-27,Chocolate Ao Leite,19,19.9,378.1,ChocoFranq 3,Henrique Araújo,PR,Franquia
+2023-06-12,Chocolate Diet,11,18.52,203.72,ChocoFranq 10,Maria Fernanda Costa,BA,Franquia
+2023-10-29,Chocolate 70% Cacau,2,37.68,75.36,ChocoFranq 10,Leandro Moreira,CE,Online
+2024-01-07,Chocolate Com Caramelo,12,24.98,299.76,ChocoFranq 5,Henrique Araújo,SC,Online
+2023-03-24,Chocolate Ao Leite,12,34.24,410.88,ChocoFranq 2,Fernando Silva,PE,Franquia
+2024-04-05,Chocolate Ao Leite,2,34.09,68.18,ChocoFranq 1,Leandro Oliveira,SC,Franquia
+2023-07-12,Chocolate Com Avelã,6,40.61,243.66,ChocoFranq 10,Sr. Breno Silva,PE,Online
+2024-04-03,Chocolate Vegano,10,47.51,475.1,ChocoFranq 2,Juliana Farias,CE,Franquia
+2023-03-08,Chocolate Trufado,3,30.69,92.07,ChocoFranq 5,Juliana Pinto,SP,Online
+2023-11-05,Chocolate Com Morango,20,5.62,112.4,ChocoFranq 8,Leandro Moreira,RS,Franquia
+2023-07-11,Chocolate Ao Leite,3,23.27,69.81,ChocoFranq 5,Olivia da Mota,DF,Franquia
+2024-05-13,Chocolate Vegano,9,15.38,138.42,ChocoFranq 4,Dr. Ryan Caldeira,PR,Online
+2023-12-27,Chocolate Branco,19,17.03,323.57,ChocoFranq 2,Ana Júlia Santos,SC,Online
+2024-03-23,Chocolate Com Caramelo,11,5.74,63.14,ChocoFranq 4,Nicolas Rezende,BA,Franquia
+2023-08-11,Chocolate Recheado,17,35.09,596.53,ChocoFranq 2,Nicolas Rezende,SC,Online
+2023-12-01,Chocolate 70% Cacau,7,24.77,173.39,ChocoFranq 7,Davi Lucca da Cunha,PR,Franquia
+2023-04-29,Chocolate Branco,1,29.58,29.58,ChocoFranq 5,Rafaela Peixoto,MG,Franquia
+2023-07-30,Chocolate Meio Amargo,2,22.6,45.2,ChocoFranq 3,Maria Fernanda Costa,BA,Franquia
+2023-04-15,Chocolate Com Amêndoas,7,5.13,35.91,ChocoFranq 4,Maria Fernanda Costa,PR,Franquia
+2024-03-22,Chocolate Com Castanha,3,38.93,116.79,ChocoFranq 2,Juliana Farias,PR,Online
+2023-12-04,Chocolate Vegano,7,23.01,161.07,ChocoFranq 4,Juliana Farias,PE,Franquia
+2023-06-23,Chocolate Zero Açúcar,13,22.46,291.98,ChocoFranq 8,Alexandre Freitas,PE,Online
+2023-04-15,Chocolate Com Avelã,8,15.18,121.44,ChocoFranq 2,Rafael Moura,DF,Franquia
+2023-01-28,Chocolate Branco,9,5.33,47.97,ChocoFranq 1,Lorenzo Silva,BA,Online
+2023-10-26,Chocolate Trufado,7,42.28,295.96,ChocoFranq 5,Guilherme Porto,PR,Franquia
+2024-04-02,Chocolate Com Avelã,11,11.92,131.12,ChocoFranq 3,Valentina Teixeira,MG,Online
+2023-06-07,Chocolate Zero Açúcar,7,31.85,222.95,ChocoFranq 4,Marcela Dias,CE,Online
+2023-09-15,Chocolate Com Avelã,3,47.61,142.83,ChocoFranq 9,Guilherme Porto,RJ,Online
+2024-05-08,Chocolate Branco,9,43.31,389.79,ChocoFranq 6,Leandro Moreira,PR,Franquia
+2023-08-23,Chocolate Com Morango,19,39.21,744.99,ChocoFranq 3,Ana Júlia Santos,SP,Franquia
+2024-04-28,Chocolate Com Avelã,3,10.76,32.28,ChocoFranq 1,Henrique Araújo,PE,Franquia
+2023-11-01,Chocolate Branco,10,25.51,255.1,ChocoFranq 6,Marcela Dias,SP,Franquia
+2023-01-20,Chocolate Ao Leite,2,45.92,91.84,ChocoFranq 1,Dr. Enzo Gabriel Fogaça,MG,Online
+2023-09-27,Chocolate Com Avelã,8,17.67,141.36,ChocoFranq 4,Dr. Ryan Caldeira,CE,Franquia
+2023-11-04,Chocolate Branco,9,45.46,409.14,ChocoFranq 1,Isadora Moura,RJ,Franquia
+2023-04-13,Chocolate Zero Açúcar,5,48.34,241.7,ChocoFranq 1,Marcela Dias,RS,Online
+2023-01-29,Chocolate Com Castanha,16,5.0,80.0,ChocoFranq 10,Ana Júlia Santos,PR,Online
+2023-02-16,Chocolate Zero Açúcar,16,36.58,585.28,ChocoFranq 2,Henrique Araújo,PE,Online
+2024-05-08,Chocolate Vegano,20,49.66,993.2,ChocoFranq 6,Nicolas Rezende,RS,Franquia
+2024-04-27,Chocolate Ao Leite,4,36.59,146.36,ChocoFranq 2,Fernando Silva,PR,Franquia
+2023-07-04,Chocolate Com Castanha,2,45.05,90.1,ChocoFranq 2,Maria Fernanda Costa,RS,Online
+2023-04-05,Chocolate Com Castanha,20,40.89,817.8,ChocoFranq 1,Nicole Rodrigues,RS,Franquia
+2023-08-13,Chocolate Ao Leite,4,28.39,113.56,ChocoFranq 2,Juliana Farias,BA,Online
+2023-07-21,Chocolate Meio Amargo,10,17.57,175.7,ChocoFranq 10,Rafael Moura,SP,Franquia
+2023-03-10,Chocolate Com Caramelo,10,41.84,418.4,ChocoFranq 2,Nicole Rodrigues,RJ,Online
+2023-02-07,Chocolate Com Castanha,7,35.32,247.24,ChocoFranq 8,Davi Lucca da Cunha,CE,Franquia
+2024-02-10,Chocolate Zero Açúcar,14,23.09,323.26,ChocoFranq 10,Calebe Freitas,SC,Franquia
+2024-01-29,Chocolate Com Caramelo,4,23.97,95.88,ChocoFranq 1,Leandro Moreira,SP,Franquia
+2023-12-01,Chocolate 70% Cacau,4,38.86,155.44,ChocoFranq 5,Davi Lucca da Cunha,CE,Franquia
+2023-06-01,Chocolate Recheado,6,10.5,63.0,ChocoFranq 3,Sr. Breno Silva,BA,Franquia
+2024-04-15,Chocolate Recheado,18,17.39,313.02,ChocoFranq 5,Davi Lucca da Cunha,RJ,Franquia
+2023-02-08,Chocolate Com Amêndoas,15,19.23,288.45,ChocoFranq 1,Kamilly Sales,SC,Online
+2023-05-13,Chocolate Vegano,9,38.41,345.69,ChocoFranq 9,Fernando Silva,PE,Online
+2023-03-03,Chocolate Com Amêndoas,12,37.99,455.88,ChocoFranq 9,Ana Júlia Santos,RS,Online
+2023-11-15,Chocolate Branco,7,28.57,199.99,ChocoFranq 10,Ana Júlia Santos,PE,Franquia
+2024-05-05,Chocolate Recheado,18,6.69,120.42,ChocoFranq 6,Davi Lucas Costa,CE,Online
+2023-09-26,Chocolate Com Menta,13,17.88,232.44,ChocoFranq 4,Ana Júlia Santos,CE,Franquia
+2024-03-28,Chocolate Recheado,14,20.63,288.82,ChocoFranq 3,Juliana Pinto,PR,Franquia
+2023-07-02,Chocolate 70% Cacau,4,39.53,158.12,ChocoFranq 10,Isadora Moura,DF,Online
+2023-09-16,Chocolate Com Menta,12,6.0,72.0,ChocoFranq 6,Marcela Dias,RJ,Online
+2023-10-24,Chocolate Com Castanha,11,9.47,104.17,ChocoFranq 2,Juliana Pinto,SC,Franquia
+2023-03-21,Chocolate Com Menta,12,24.86,298.32,ChocoFranq 10,Guilherme Porto,SP,Online
+2023-05-03,Chocolate Com Menta,11,32.04,352.44,ChocoFranq 2,Isadora Moura,PE,Franquia
+2023-01-23,Chocolate Com Caramelo,16,13.39,214.24,ChocoFranq 5,Davi Lucca da Cunha,SC,Franquia
+2023-04-20,Chocolate Branco,17,8.53,145.01,ChocoFranq 7,Ana Júlia Santos,CE,Franquia
+2023-08-11,Chocolate Com Menta,20,28.49,569.8,ChocoFranq 2,Calebe Freitas,CE,Online
+2024-05-08,Chocolate Vegano,15,9.49,142.35,ChocoFranq 7,Davi Lucas Costa,PR,Franquia
+2023-06-07,Chocolate Com Castanha,5,20.84,104.2,ChocoFranq 9,Olivia da Mota,RJ,Online
+2023-03-02,Chocolate Zero Açúcar,11,44.38,488.18,ChocoFranq 8,Dr. Ryan Caldeira,CE,Franquia
+2023-02-02,Chocolate Meio Amargo,16,23.37,373.92,ChocoFranq 2,Isadora Moura,MG,Online
+2023-09-05,Chocolate Branco,7,45.48,318.36,ChocoFranq 6,Alexandre Freitas,RS,Online
+2023-05-07,Chocolate Com Avelã,7,24.25,169.75,ChocoFranq 8,Juliana Pinto,RJ,Franquia
+2023-08-02,Chocolate Trufado,16,45.79,732.64,ChocoFranq 9,Davi Lucca da Cunha,CE,Online
+2023-09-15,Chocolate Trufado,12,34.7,416.4,ChocoFranq 4,Leandro Moreira,RS,Online
+2023-11-08,Chocolate Diet,7,35.71,249.97,ChocoFranq 2,Juliana Pinto,RS,Online
+2023-11-05,Chocolate Meio Amargo,15,13.38,200.7,ChocoFranq 6,João Gabriel Cavalcanti,BA,Franquia
+2024-04-22,Chocolate Com Morango,10,38.51,385.1,ChocoFranq 6,Leandro Oliveira,CE,Online
+2023-03-25,Chocolate Meio Amargo,13,41.0,533.0,ChocoFranq 3,Olivia da Mota,SP,Franquia
+2023-01-13,Chocolate Com Avelã,5,25.39,126.95,ChocoFranq 3,Catarina Farias,BA,Franquia
+2024-04-17,Chocolate Com Morango,12,15.53,186.36,ChocoFranq 6,Maria Fernanda Costa,CE,Franquia
+2023-09-03,Chocolate Zero Açúcar,17,31.77,540.09,ChocoFranq 5,Guilherme Porto,DF,Franquia
+2023-09-15,Chocolate Com Caramelo,3,9.76,29.28,ChocoFranq 8,João Gabriel Cavalcanti,MG,Franquia
+2023-12-25,Chocolate Com Castanha,12,11.79,141.48,ChocoFranq 4,Maria Fernanda Costa,SP,Online
+2023-01-02,Chocolate Com Morango,15,33.78,506.7,ChocoFranq 4,Calebe Freitas,SC,Franquia
+2023-03-28,Chocolate Vegano,5,44.04,220.2,ChocoFranq 2,Ana Júlia Santos,MG,Franquia
+2023-11-17,Chocolate Ao Leite,6,41.45,248.7,ChocoFranq 2,Leandro Oliveira,PR,Online
+2023-12-07,Chocolate 70% Cacau,18,15.93,286.74,ChocoFranq 8,Calebe Freitas,BA,Online
+2023-05-02,Chocolate Com Menta,8,47.77,382.16,ChocoFranq 3,Maria Fernanda Costa,PE,Franquia
+2023-07-18,Chocolate Com Avelã,7,15.91,111.37,ChocoFranq 2,Rafaela Peixoto,DF,Online
+2024-02-26,Chocolate Com Caramelo,16,17.07,273.12,ChocoFranq 1,Rafael Moura,CE,Franquia
+2023-10-27,Chocolate Zero Açúcar,8,21.83,174.64,ChocoFranq 1,Calebe Freitas,PR,Franquia
+2023-12-26,Chocolate Com Amêndoas,17,37.87,643.79,ChocoFranq 4,Guilherme Porto,SC,Online
+2023-03-12,Chocolate Com Menta,5,9.67,48.35,ChocoFranq 7,Davi Lucas Costa,CE,Franquia
+2023-09-15,Chocolate Recheado,19,10.78,204.82,ChocoFranq 7,Marcela Dias,SC,Online
+2024-01-05,Chocolate Com Menta,12,11.04,132.48,ChocoFranq 4,Davi Lucas Costa,CE,Online
+2023-02-14,Chocolate Com Morango,16,9.0,144.0,ChocoFranq 6,Rafaela Peixoto,SC,Franquia
+2023-12-13,Chocolate Com Amêndoas,9,23.37,210.33,ChocoFranq 4,Olivia da Mota,SC,Online
+2024-04-25,Chocolate Ao Leite,10,40.33,403.3,ChocoFranq 2,Henrique Araújo,RJ,Franquia
+2023-04-24,Chocolate Com Castanha,13,45.98,597.74,ChocoFranq 8,Olivia da Mota,SC,Franquia
+2024-04-28,Chocolate Ao Leite,6,7.59,45.54,ChocoFranq 5,Nicole Rodrigues,MG,Franquia
+2024-03-27,Chocolate Ao Leite,1,11.45,11.45,ChocoFranq 9,Davi Lucca da Cunha,PE,Franquia
+2024-02-21,Chocolate Com Amêndoas,1,34.43,34.43,ChocoFranq 10,Maria Fernanda Costa,BA,Online
+2024-04-13,Chocolate Vegano,19,47.69,906.11,ChocoFranq 8,Nicolas Rezende,PE,Franquia
+2023-10-25,Chocolate Com Menta,2,36.32,72.64,ChocoFranq 7,Lorenzo Silva,MG,Online
+2023-10-04,Chocolate Com Castanha,18,41.85,753.3,ChocoFranq 7,Valentina Teixeira,BA,Online
+2023-01-06,Chocolate Com Menta,4,11.0,44.0,ChocoFranq 8,Marcela Dias,RJ,Franquia
+2023-10-22,Chocolate Com Avelã,9,23.59,212.31,ChocoFranq 6,Dr. Ryan Caldeira,DF,Online
+2023-03-29,Chocolate Branco,7,36.77,257.39,ChocoFranq 5,Juliana Farias,DF,Online
+2023-10-13,Chocolate Recheado,14,23.38,327.32,ChocoFranq 8,Juliana Pinto,DF,Franquia
+2024-01-19,Chocolate Trufado,2,47.78,95.56,ChocoFranq 3,Valentina Teixeira,RJ,Franquia
+2024-02-25,Chocolate Com Caramelo,11,41.3,454.3,ChocoFranq 7,Davi Lucca da Cunha,DF,Online
+2024-04-28,Chocolate Diet,20,11.88,237.6,ChocoFranq 10,Lorenzo Silva,RS,Online
+2023-07-12,Chocolate Com Avelã,20,36.62,732.4,ChocoFranq 5,Henrique Araújo,SP,Franquia
+2023-05-07,Chocolate Com Avelã,10,44.76,447.6,ChocoFranq 1,Dr. Enzo Gabriel Fogaça,BA,Online
+2024-01-16,Chocolate Vegano,11,20.2,222.2,ChocoFranq 4,Kamilly Sales,RJ,Franquia
+2023-08-25,Chocolate 70% Cacau,13,23.0,299.0,ChocoFranq 3,Maria Fernanda Costa,SP,Online
+2023-11-22,Chocolate Ao Leite,18,49.38,888.84,ChocoFranq 6,João Gabriel Cavalcanti,SP,Franquia
+2023-05-02,Chocolate Com Caramelo,3,16.8,50.4,ChocoFranq 8,Ana Júlia Santos,PR,Franquia
+2023-12-07,Chocolate Meio Amargo,8,28.48,227.84,ChocoFranq 7,Calebe Freitas,PR,Franquia
+2023-01-01,Chocolate Ao Leite,16,5.7,91.2,ChocoFranq 9,Calebe Freitas,SP,Franquia
+2023-06-16,Chocolate Com Amêndoas,3,6.57,19.71,ChocoFranq 3,Sr. Breno Silva,CE,Online
+2024-02-15,Chocolate Zero Açúcar,9,9.02,81.18,ChocoFranq 2,Juliana Farias,SP,Online
+2023-08-18,Chocolate Zero Açúcar,20,49.59,991.8,ChocoFranq 6,Lorenzo Silva,SC,Online
+2023-09-15,Chocolate Diet,7,49.61,347.27,ChocoFranq 2,Nicolas Rezende,PR,Franquia
+2023-05-18,Chocolate Com Caramelo,17,16.35,277.95,ChocoFranq 3,Leandro Moreira,PE,Franquia
+2024-05-04,Chocolate Zero Açúcar,10,33.22,332.2,ChocoFranq 5,Henrique Araújo,PE,Online
+2023-11-22,Chocolate Com Avelã,16,20.37,325.92,ChocoFranq 2,Henrique Araújo,CE,Franquia
+2023-07-24,Chocolate Meio Amargo,15,10.35,155.25,ChocoFranq 8,Marcela Dias,DF,Franquia
+2023-12-20,Chocolate Meio Amargo,2,30.87,61.74,ChocoFranq 4,Valentina Teixeira,RS,Franquia
+2023-11-02,Chocolate Diet,7,26.03,182.21,ChocoFranq 10,Isaac Costa,DF,Franquia
+2023-06-27,Chocolate Com Amêndoas,9,6.77,60.93,ChocoFranq 2,Nicole Rodrigues,BA,Online
+2023-04-15,Chocolate Recheado,1,42.55,42.55,ChocoFranq 2,João Gabriel Cavalcanti,PR,Online
+2023-06-17,Chocolate Com Castanha,4,25.44,101.76,ChocoFranq 10,João Gabriel Cavalcanti,PR,Franquia
+2023-08-30,Chocolate Com Menta,18,9.24,166.32,ChocoFranq 2,Davi Lucas Costa,CE,Franquia
+2023-10-22,Chocolate Com Menta,5,49.27,246.35,ChocoFranq 8,Luiz Gustavo Carvalho,CE,Franquia
+2023-01-18,Chocolate Com Menta,12,45.57,546.84,ChocoFranq 3,Davi Lucca da Cunha,DF,Online
+2023-07-31,Chocolate Ao Leite,8,44.96,359.68,ChocoFranq 8,Kamilly Sales,MG,Franquia
+2024-05-07,Chocolate Meio Amargo,15,19.35,290.25,ChocoFranq 8,Alexandre Freitas,MG,Franquia
+2024-03-23,Chocolate Branco,13,38.88,505.44,ChocoFranq 2,Fernando Silva,MG,Online
+2023-08-06,Chocolate Com Amêndoas,6,46.2,277.2,ChocoFranq 6,Isadora Moura,MG,Online
+2023-01-27,Chocolate Recheado,6,20.93,125.58,ChocoFranq 2,Fernando Silva,PR,Franquia
+2023-07-02,Chocolate Com Castanha,18,24.57,442.26,ChocoFranq 10,Luiz Gustavo Carvalho,CE,Franquia
+2023-10-02,Chocolate Ao Leite,15,33.33,499.95,ChocoFranq 10,Rafael Moura,MG,Online
+2023-12-01,Chocolate Branco,11,36.74,404.14,ChocoFranq 7,Catarina Farias,RJ,Online
+2023-05-03,Chocolate Com Avelã,12,23.93,287.16,ChocoFranq 4,Juliana Farias,SP,Online
+2023-03-07,Chocolate Com Amêndoas,15,23.9,358.5,ChocoFranq 4,Henrique Araújo,PR,Franquia
+2023-01-22,Chocolate Com Morango,15,15.38,230.7,ChocoFranq 8,Isaac Costa,SP,Online
+2024-04-05,Chocolate Vegano,19,40.2,763.8,ChocoFranq 7,João Gabriel Cavalcanti,PE,Franquia
+2023-01-13,Chocolate Trufado,16,15.56,248.96,ChocoFranq 8,Nicolas Rezende,BA,Franquia
+2023-07-23,Chocolate Ao Leite,20,17.47,349.4,ChocoFranq 4,Nicolas Rezende,RJ,Online
+2023-09-26,Chocolate Vegano,11,37.32,410.52,ChocoFranq 10,Rafael Moura,DF,Franquia
+2023-04-28,Chocolate Diet,19,38.9,739.1,ChocoFranq 8,Fernando Silva,DF,Franquia
+2023-08-31,Chocolate Vegano,6,15.75,94.5,ChocoFranq 10,Marcela Dias,BA,Online
+2024-01-14,Chocolate Vegano,12,38.99,467.88,ChocoFranq 10,Henrique Araújo,BA,Online
+2023-07-05,Chocolate Branco,16,20.22,323.52,ChocoFranq 10,Leandro Oliveira,PE,Online
+2024-01-09,Chocolate Com Caramelo,15,39.05,585.75,ChocoFranq 9,Rafaela Peixoto,RJ,Franquia
+2024-04-09,Chocolate 70% Cacau,9,10.4,93.6,ChocoFranq 4,Valentina Teixeira,PR,Online
+2023-07-16,Chocolate Com Caramelo,15,5.89,88.35,ChocoFranq 1,João Gabriel Cavalcanti,BA,Online
+2023-04-10,Chocolate Com Caramelo,1,7.43,7.43,ChocoFranq 6,Leandro Moreira,BA,Franquia
+2023-12-13,Chocolate Branco,8,47.05,376.4,ChocoFranq 6,Nicole Rodrigues,RJ,Online
+2023-12-25,Chocolate Com Amêndoas,2,28.9,57.8,ChocoFranq 1,Davi Lucca da Cunha,PE,Online
+2023-03-01,Chocolate Recheado,8,17.94,143.52,ChocoFranq 9,Lorenzo Silva,SP,Franquia
+2024-01-14,Chocolate Com Morango,20,18.25,365.0,ChocoFranq 2,Nicole Rodrigues,RJ,Online
+2023-04-20,Chocolate Com Avelã,1,47.49,47.49,ChocoFranq 2,Leandro Moreira,CE,Franquia
+2023-10-02,Chocolate Com Amêndoas,12,19.44,233.28,ChocoFranq 6,Henrique Araújo,MG,Franquia
+2024-03-28,Chocolate 70% Cacau,9,31.61,284.49,ChocoFranq 1,Catarina Farias,SP,Online
+2023-01-09,Chocolate Com Morango,17,16.63,282.71,ChocoFranq 8,Isaac Costa,PE,Franquia
+2023-09-08,Chocolate Com Castanha,6,38.88,233.28,ChocoFranq 1,João Gabriel Cavalcanti,MG,Online
+2023-02-16,Chocolate Ao Leite,20,26.05,521.0,ChocoFranq 1,Rafaela Peixoto,PR,Online
+2023-03-07,Chocolate Ao Leite,10,20.78,207.8,ChocoFranq 9,Luiz Gustavo Carvalho,PE,Online
+2024-03-17,Chocolate Com Avelã,17,28.37,482.29,ChocoFranq 8,Juliana Pinto,RJ,Franquia
+2023-01-27,Chocolate Com Avelã,12,42.89,514.68,ChocoFranq 4,Guilherme Porto,SC,Franquia
+2024-01-27,Chocolate Meio Amargo,11,45.88,504.68,ChocoFranq 10,Juliana Farias,RS,Franquia
+2023-11-13,Chocolate Trufado,8,10.69,85.52,ChocoFranq 9,Lorenzo Silva,RJ,Franquia
+2024-03-16,Chocolate Com Amêndoas,1,8.8,8.8,ChocoFranq 4,Marcela Dias,PE,Franquia
+2023-10-11,Chocolate Com Menta,15,16.83,252.45,ChocoFranq 5,Olivia da Mota,BA,Franquia
+2023-11-30,Chocolate Com Menta,12,14.43,173.16,ChocoFranq 5,Marcela Dias,MG,Franquia
+2023-08-23,Chocolate Com Avelã,10,33.91,339.1,ChocoFranq 2,Rafaela Peixoto,RJ,Franquia
+2023-02-26,Chocolate Com Morango,2,48.14,96.28,ChocoFranq 5,João Gabriel Cavalcanti,SP,Online
+2023-09-15,Chocolate Zero Açúcar,11,5.33,58.63,ChocoFranq 3,Leandro Moreira,PE,Online
+2024-03-08,Chocolate Recheado,15,41.33,619.95,ChocoFranq 3,Leandro Oliveira,RJ,Online
+2023-02-25,Chocolate Diet,19,44.22,840.18,ChocoFranq 3,Dr. Ryan Caldeira,DF,Franquia
+2024-04-21,Chocolate Vegano,5,5.99,29.95,ChocoFranq 9,Lorenzo Silva,BA,Online
+2023-01-26,Chocolate Diet,14,36.45,510.3,ChocoFranq 8,Davi Lucca da Cunha,BA,Franquia
+2023-03-20,Chocolate Recheado,5,13.67,68.35,ChocoFranq 3,Isaac Costa,PE,Online
+2023-08-28,Chocolate Zero Açúcar,11,49.72,546.92,ChocoFranq 2,Rafael Moura,RJ,Online
+2024-02-20,Chocolate Com Castanha,1,5.13,5.13,ChocoFranq 10,Catarina Farias,SC,Online
+2024-01-14,Chocolate Meio Amargo,7,19.58,137.06,ChocoFranq 4,Dr. Ryan Caldeira,BA,Franquia
+2023-04-16,Chocolate Com Caramelo,19,14.94,283.86,ChocoFranq 5,Calebe Freitas,RS,Franquia
+2023-03-29,Chocolate Com Avelã,16,30.02,480.32,ChocoFranq 4,Lorenzo Silva,MG,Online
+2024-02-16,Chocolate Com Morango,16,38.18,610.88,ChocoFranq 1,Nicolas Rezende,SC,Online
+2024-01-24,Chocolate Trufado,16,27.94,447.04,ChocoFranq 6,João Gabriel Cavalcanti,RJ,Franquia
+2023-03-14,Chocolate Com Amêndoas,18,5.21,93.78,ChocoFranq 5,Olivia da Mota,SC,Franquia
+2023-04-28,Chocolate Com Morango,5,33.66,168.3,ChocoFranq 10,Juliana Pinto,PE,Online
+2023-08-27,Chocolate Meio Amargo,7,39.72,278.04,ChocoFranq 9,Fernando Silva,BA,Online
+2023-11-28,Chocolate Meio Amargo,17,41.43,704.31,ChocoFranq 8,Valentina Teixeira,RS,Online
+2023-04-12,Chocolate Com Menta,11,24.96,274.56,ChocoFranq 1,Dr. Enzo Gabriel Fogaça,SC,Online
+2023-08-19,Chocolate Trufado,1,14.21,14.21,ChocoFranq 4,Kamilly Sales,PR,Franquia
+2024-05-08,Chocolate Com Avelã,9,43.65,392.85,ChocoFranq 7,Nicolas Rezende,BA,Online
+2023-10-01,Chocolate Zero Açúcar,16,21.69,347.04,ChocoFranq 4,Isadora Moura,RS,Online
+2023-08-24,Chocolate Branco,13,21.9,284.7,ChocoFranq 8,Henrique Araújo,PE,Franquia
+2023-05-19,Chocolate Com Morango,13,45.53,591.89,ChocoFranq 3,Ana Júlia Santos,BA,Franquia
+2024-01-27,Chocolate Com Morango,2,47.03,94.06,ChocoFranq 3,Alexandre Freitas,PR,Online
+2024-01-21,Chocolate Diet,12,26.32,315.84,ChocoFranq 1,Henrique Araújo,RJ,Online
+2024-05-13,Chocolate Com Castanha,16,31.47,503.52,ChocoFranq 7,Juliana Farias,PR,Franquia
+2023-01-25,Chocolate Trufado,14,34.04,476.56,ChocoFranq 8,Nicole Rodrigues,PE,Franquia
+2023-03-01,Chocolate 70% Cacau,4,33.13,132.52,ChocoFranq 1,Juliana Farias,MG,Franquia
+2023-09-26,Chocolate Ao Leite,5,36.06,180.3,ChocoFranq 10,Nicolas Rezende,RS,Online
+2024-01-14,Chocolate Meio Amargo,18,13.11,235.98,ChocoFranq 6,Davi Lucas Costa,DF,Franquia
+2023-12-01,Chocolate Trufado,12,27.74,332.88,ChocoFranq 6,Leandro Moreira,PR,Online
+2023-02-08,Chocolate Com Caramelo,20,35.46,709.2,ChocoFranq 1,Calebe Freitas,PR,Online
+2023-06-09,Chocolate Recheado,10,37.98,379.8,ChocoFranq 3,Juliana Farias,CE,Online
+2024-02-07,Chocolate Diet,15,23.78,356.7,ChocoFranq 6,Ana Júlia Santos,PR,Franquia
+2023-04-21,Chocolate Com Morango,1,44.9,44.9,ChocoFranq 7,Lorenzo Silva,DF,Franquia
+2023-04-24,Chocolate Zero Açúcar,16,42.39,678.24,ChocoFranq 7,Catarina Farias,BA,Franquia
+2024-04-25,Chocolate Ao Leite,10,8.06,80.6,ChocoFranq 1,Davi Lucas Costa,RJ,Franquia
+2023-02-11,Chocolate Com Menta,4,26.01,104.04,ChocoFranq 3,Marcela Dias,CE,Online
+2024-05-05,Chocolate Vegano,8,42.64,341.12,ChocoFranq 10,Maria Fernanda Costa,DF,Franquia
+2023-04-10,Chocolate Diet,16,20.08,321.28,ChocoFranq 2,Leandro Moreira,PE,Franquia
+2023-10-09,Chocolate Meio Amargo,15,14.32,214.8,ChocoFranq 9,Guilherme Porto,RS,Franquia
+2023-09-26,Chocolate Meio Amargo,1,22.76,22.76,ChocoFranq 8,Kamilly Sales,BA,Franquia
+2023-10-22,Chocolate Com Menta,10,10.13,101.3,ChocoFranq 7,Luiz Gustavo Carvalho,DF,Online
+2023-05-06,Chocolate 70% Cacau,9,39.69,357.21,ChocoFranq 7,Kamilly Sales,MG,Online
+2023-09-10,Chocolate 70% Cacau,2,47.89,95.78,ChocoFranq 5,Calebe Freitas,MG,Franquia
+2023-04-10,Chocolate Com Menta,6,10.05,60.3,ChocoFranq 10,João Gabriel Cavalcanti,RJ,Online
+2024-04-15,Chocolate Com Morango,18,36.57,658.26,ChocoFranq 10,Olivia da Mota,RJ,Franquia
+2024-01-18,Chocolate Com Menta,6,49.07,294.42,ChocoFranq 10,Luiz Gustavo Carvalho,PE,Franquia
+2023-08-25,Chocolate Recheado,16,46.2,739.2,ChocoFranq 7,Juliana Pinto,RS,Online
+2023-10-20,Chocolate Diet,18,31.05,558.9,ChocoFranq 2,Leandro Oliveira,SP,Franquia
+2023-07-08,Chocolate Vegano,4,9.98,39.92,ChocoFranq 9,Catarina Farias,DF,Online
+2023-08-24,Chocolate 70% Cacau,5,24.59,122.95,ChocoFranq 6,Dr. Ryan Caldeira,CE,Franquia
+2023-03-08,Chocolate Zero Açúcar,14,39.05,546.7,ChocoFranq 4,Valentina Teixeira,PE,Online
+2023-07-16,Chocolate Diet,12,20.72,248.64,ChocoFranq 8,Rafael Moura,BA,Franquia
+2024-01-21,Chocolate Meio Amargo,6,31.99,191.94,ChocoFranq 7,Catarina Farias,PR,Online
+2023-11-17,Chocolate Branco,6,46.07,276.42,ChocoFranq 6,Valentina Teixeira,BA,Franquia
+2023-06-10,Chocolate Zero Açúcar,13,38.97,506.61,ChocoFranq 5,Rafaela Peixoto,RJ,Online
+2023-10-11,Chocolate Com Menta,20,9.15,183.0,ChocoFranq 5,Nicole Rodrigues,PE,Franquia
+2023-09-21,Chocolate Diet,2,18.5,37.0,ChocoFranq 5,Ana Júlia Santos,RS,Online
+2023-02-21,Chocolate Branco,15,18.39,275.85,ChocoFranq 2,Nicole Rodrigues,PR,Franquia
+2023-12-30,Chocolate Com Avelã,2,38.35,76.7,ChocoFranq 3,Ana Júlia Santos,BA,Franquia
+2023-04-27,Chocolate Com Caramelo,17,22.76,386.92,ChocoFranq 5,Olivia da Mota,BA,Online
+2023-11-13,Chocolate Com Caramelo,18,19.75,355.5,ChocoFranq 1,Isadora Moura,DF,Franquia
+2023-01-17,Chocolate 70% Cacau,1,8.57,8.57,ChocoFranq 5,Davi Lucca da Cunha,SP,Online
+2023-02-23,Chocolate Zero Açúcar,19,5.37,102.03,ChocoFranq 4,Davi Lucca da Cunha,RS,Franquia
+2023-12-19,Chocolate Com Menta,17,5.36,91.12,ChocoFranq 4,Marcela Dias,MG,Online
+2023-04-04,Chocolate Com Amêndoas,7,21.86,153.02,ChocoFranq 2,Catarina Farias,BA,Franquia
+2023-08-25,Chocolate Com Caramelo,10,6.28,62.8,ChocoFranq 7,Nicolas Rezende,PE,Franquia
+2023-12-11,Chocolate Meio Amargo,18,33.82,608.76,ChocoFranq 10,João Gabriel Cavalcanti,PE,Online
+2024-03-09,Chocolate Branco,14,22.39,313.46,ChocoFranq 9,Luiz Gustavo Carvalho,RJ,Online
+2023-10-14,Chocolate Branco,7,46.03,322.21,ChocoFranq 6,Maria Fernanda Costa,BA,Franquia
+2023-07-30,Chocolate Branco,1,27.08,27.08,ChocoFranq 8,Henrique Araújo,SP,Franquia
+2023-11-30,Chocolate Com Caramelo,15,39.89,598.35,ChocoFranq 10,Valentina Teixeira,PR,Franquia
+2023-09-13,Chocolate Com Amêndoas,19,7.55,143.45,ChocoFranq 5,Luiz Gustavo Carvalho,DF,Online
+2023-04-22,Chocolate Com Morango,10,32.29,322.9,ChocoFranq 8,Valentina Teixeira,DF,Online
+2023-02-18,Chocolate Diet,2,43.45,86.9,ChocoFranq 3,Juliana Pinto,MG,Franquia
+2023-10-24,Chocolate Diet,18,32.76,589.68,ChocoFranq 2,Dr. Ryan Caldeira,SP,Franquia
+2023-04-21,Chocolate Com Morango,6,27.9,167.4,ChocoFranq 8,Ana Júlia Santos,SC,Online
+2024-02-17,Chocolate Com Menta,5,32.58,162.9,ChocoFranq 2,Fernando Silva,PR,Online
+2023-02-01,Chocolate 70% Cacau,20,35.8,716.0,ChocoFranq 5,Marcela Dias,PR,Online
+2023-02-16,Chocolate Com Caramelo,17,48.68,827.56,ChocoFranq 1,Isadora Moura,BA,Online
+2023-02-26,Chocolate Meio Amargo,13,36.96,480.48,ChocoFranq 6,Ana Júlia Santos,RJ,Franquia
+2024-01-19,Chocolate Diet,8,37.94,303.52,ChocoFranq 7,Juliana Pinto,BA,Online
+2023-09-21,Chocolate Com Morango,4,45.64,182.56,ChocoFranq 4,Davi Lucas Costa,SP,Online
+2023-09-21,Chocolate Vegano,6,13.86,83.16,ChocoFranq 7,João Gabriel Cavalcanti,PE,Franquia
+2024-03-17,Chocolate Trufado,5,18.3,91.5,ChocoFranq 4,Valentina Teixeira,PE,Franquia
+2023-05-17,Chocolate Meio Amargo,19,21.1,400.9,ChocoFranq 7,Isaac Costa,SC,Online
+2023-01-09,Chocolate Com Morango,14,21.23,297.22,ChocoFranq 9,Luiz Gustavo Carvalho,PE,Franquia
+2023-09-17,Chocolate Com Amêndoas,2,36.11,72.22,ChocoFranq 8,Juliana Pinto,PE,Franquia
+2023-10-01,Chocolate Diet,15,49.44,741.6,ChocoFranq 1,Kamilly Sales,CE,Online
+2023-05-31,Chocolate Com Menta,7,26.08,182.56,ChocoFranq 8,Calebe Freitas,PR,Online
+2023-06-07,Chocolate Ao Leite,11,9.48,104.28,ChocoFranq 9,Kamilly Sales,BA,Online
+2024-01-27,Chocolate Com Avelã,3,40.49,121.47,ChocoFranq 6,Nicole Rodrigues,RJ,Franquia
+2023-09-23,Chocolate Trufado,13,16.53,214.89,ChocoFranq 6,Rafael Moura,SP,Franquia
+2024-02-18,Chocolate Meio Amargo,2,9.77,19.54,ChocoFranq 8,Leandro Moreira,SP,Franquia
+2023-08-04,Chocolate Branco,7,34.98,244.86,ChocoFranq 1,Juliana Farias,CE,Online
+2024-03-28,Chocolate Recheado,17,35.1,596.7,ChocoFranq 5,Fernando Silva,SP,Franquia
+2023-11-27,Chocolate Zero Açúcar,3,23.36,70.08,ChocoFranq 9,Isadora Moura,SP,Online
+2023-10-09,Chocolate Vegano,2,16.47,32.94,ChocoFranq 2,Valentina Teixeira,PR,Online
+2023-10-06,Chocolate Trufado,10,28.76,287.6,ChocoFranq 1,Leandro Oliveira,RS,Franquia
+2024-02-03,Chocolate Vegano,15,11.3,169.5,ChocoFranq 3,Leandro Oliveira,RS,Online
+2024-03-12,Chocolate Com Morango,1,32.67,32.67,ChocoFranq 6,Luiz Gustavo Carvalho,CE,Online
+2023-03-25,Chocolate Meio Amargo,12,42.26,507.12,ChocoFranq 2,Davi Lucca da Cunha,PE,Online
+2023-03-10,Chocolate Ao Leite,19,24.19,459.61,ChocoFranq 10,Sr. Breno Silva,MG,Franquia
+2024-04-03,Chocolate Com Avelã,2,48.88,97.76,ChocoFranq 8,Valentina Teixeira,RS,Franquia
+2023-12-04,Chocolate Ao Leite,14,22.66,317.24,ChocoFranq 3,Olivia da Mota,PR,Franquia
+2023-05-19,Chocolate Com Castanha,13,48.76,633.88,ChocoFranq 3,Isadora Moura,RJ,Franquia
+2024-01-19,Chocolate Com Avelã,14,38.08,533.12,ChocoFranq 2,Dr. Enzo Gabriel Fogaça,PE,Franquia
+2024-01-09,Chocolate Com Avelã,12,37.54,450.48,ChocoFranq 6,Davi Lucas Costa,PE,Online
+2024-05-02,Chocolate Recheado,7,41.36,289.52,ChocoFranq 8,Lorenzo Silva,PE,Franquia
+2023-11-11,Chocolate Branco,17,34.37,584.29,ChocoFranq 4,Nicole Rodrigues,PE,Online
+2024-04-28,Chocolate Zero Açúcar,3,44.48,133.44,ChocoFranq 3,Rafaela Peixoto,DF,Franquia
+2024-01-18,Chocolate 70% Cacau,18,12.64,227.52,ChocoFranq 3,Olivia da Mota,PE,Online
+2024-03-01,Chocolate Branco,8,23.31,186.48,ChocoFranq 3,Leandro Moreira,MG,Online
+2023-07-01,Chocolate Diet,15,12.93,193.95,ChocoFranq 6,Davi Lucas Costa,CE,Franquia
+2024-04-05,Chocolate Com Morango,5,7.02,35.1,ChocoFranq 9,Alexandre Freitas,SC,Online
+2024-01-02,Chocolate Com Avelã,16,9.41,150.56,ChocoFranq 8,Nicolas Rezende,PE,Online
+2024-02-24,Chocolate Zero Açúcar,14,16.46,230.44,ChocoFranq 4,Maria Fernanda Costa,RS,Online
+2024-02-03,Chocolate Zero Açúcar,20,28.84,576.8,ChocoFranq 3,Leandro Moreira,BA,Franquia
+2023-02-09,Chocolate Diet,20,20.51,410.2,ChocoFranq 6,Leandro Moreira,SC,Franquia
+2023-01-17,Chocolate Meio Amargo,15,13.85,207.75,ChocoFranq 1,Isadora Moura,PE,Franquia
+2023-02-09,Chocolate Com Morango,19,25.44,483.36,ChocoFranq 7,Davi Lucca da Cunha,SP,Online
+2023-02-16,Chocolate Trufado,14,24.96,349.44,ChocoFranq 3,Catarina Farias,PR,Online
+2024-02-23,Chocolate Com Morango,11,16.18,177.98,ChocoFranq 1,Davi Lucas Costa,CE,Online
+2024-01-02,Chocolate Com Amêndoas,15,19.67,295.05,ChocoFranq 3,João Gabriel Cavalcanti,RJ,Online
+2023-09-05,Chocolate Diet,5,38.39,191.95,ChocoFranq 6,Nicole Rodrigues,BA,Online
+2024-01-05,Chocolate Com Caramelo,13,13.14,170.82,ChocoFranq 7,Davi Lucca da Cunha,PE,Franquia
+2024-04-06,Chocolate Ao Leite,9,35.79,322.11,ChocoFranq 10,Leandro Oliveira,RS,Franquia
+2023-07-24,Chocolate Com Castanha,12,32.66,391.92,ChocoFranq 5,Lorenzo Silva,BA,Franquia
+2024-02-28,Chocolate Diet,18,12.89,232.02,ChocoFranq 6,Maria Fernanda Costa,DF,Franquia
+2023-06-01,Chocolate Branco,20,16.76,335.2,ChocoFranq 9,Alexandre Freitas,PE,Franquia
+2023-05-25,Chocolate Com Avelã,14,28.01,392.14,ChocoFranq 10,Juliana Pinto,DF,Franquia
+2023-06-07,Chocolate Com Amêndoas,11,44.76,492.36,ChocoFranq 3,Dr. Enzo Gabriel Fogaça,SP,Franquia
+2023-09-29,Chocolate Zero Açúcar,12,14.58,174.96,ChocoFranq 9,Kamilly Sales,BA,Franquia
+2024-03-11,Chocolate Com Menta,7,15.87,111.09,ChocoFranq 1,Fernando Silva,MG,Franquia
+2023-02-24,Chocolate Meio Amargo,10,23.65,236.5,ChocoFranq 6,Juliana Pinto,RJ,Online
+2023-05-18,Chocolate Recheado,5,36.11,180.55,ChocoFranq 10,Dr. Enzo Gabriel Fogaça,BA,Franquia
+2023-01-14,Chocolate Com Amêndoas,3,11.23,33.69,ChocoFranq 3,Juliana Pinto,SC,Online
+2024-05-08,Chocolate Meio Amargo,1,14.11,14.11,ChocoFranq 6,Guilherme Porto,BA,Franquia
+2023-03-27,Chocolate 70% Cacau,14,22.27,311.78,ChocoFranq 10,Dr. Enzo Gabriel Fogaça,MG,Online
+2023-05-21,Chocolate Zero Açúcar,14,42.8,599.2,ChocoFranq 10,Henrique Araújo,SP,Online
+2023-10-27,Chocolate Vegano,17,14.66,249.22,ChocoFranq 7,Isadora Moura,SP,Franquia
+2023-03-13,Chocolate 70% Cacau,12,23.34,280.08,ChocoFranq 5,Dr. Ryan Caldeira,BA,Franquia
+2024-02-07,Chocolate Com Morango,2,22.12,44.24,ChocoFranq 9,Isadora Moura,SC,Online
+2023-08-25,Chocolate Diet,14,24.93,349.02,ChocoFranq 6,Catarina Farias,PR,Online
+2023-03-20,Chocolate Com Caramelo,18,41.67,750.06,ChocoFranq 1,Henrique Araújo,RS,Online
+2023-03-12,Chocolate 70% Cacau,4,10.32,41.28,ChocoFranq 5,Leandro Oliveira,RJ,Online
+2023-08-01,Chocolate Vegano,3,49.45,148.35,ChocoFranq 3,Henrique Araújo,DF,Franquia
+2023-05-19,Chocolate Diet,11,33.43,367.73,ChocoFranq 5,Rafael Moura,RJ,Online
+2024-02-13,Chocolate Trufado,15,16.77,251.55,ChocoFranq 9,Maria Fernanda Costa,BA,Franquia
+2023-02-24,Chocolate Com Avelã,7,14.98,104.86,ChocoFranq 9,Kamilly Sales,RJ,Online
+2024-02-19,Chocolate Trufado,7,14.99,104.93,ChocoFranq 5,Fernando Silva,SC,Online
+2023-11-04,Chocolate Com Caramelo,20,19.57,391.4,ChocoFranq 2,Rafaela Peixoto,PE,Franquia
+2023-04-15,Chocolate Recheado,20,39.29,785.8,ChocoFranq 10,Juliana Pinto,RS,Franquia
+2024-04-01,Chocolate Com Amêndoas,20,8.38,167.6,ChocoFranq 6,Lorenzo Silva,RS,Franquia
+2023-11-19,Chocolate Com Morango,19,24.02,456.38,ChocoFranq 4,Luiz Gustavo Carvalho,BA,Franquia
+2023-11-20,Chocolate Trufado,17,34.06,579.02,ChocoFranq 7,Marcela Dias,CE,Online
+2023-05-11,Chocolate Trufado,15,22.11,331.65,ChocoFranq 1,Valentina Teixeira,SP,Franquia
+2023-07-23,Chocolate Trufado,19,23.65,449.35,ChocoFranq 10,Juliana Pinto,RS,Online
+2023-03-31,Chocolate Com Castanha,18,33.23,598.14,ChocoFranq 6,Kamilly Sales,RJ,Online
+2024-02-09,Chocolate Ao Leite,8,43.33,346.64,ChocoFranq 9,Kamilly Sales,RS,Franquia
+2023-01-20,Chocolate Meio Amargo,3,21.24,63.72,ChocoFranq 1,Luiz Gustavo Carvalho,CE,Franquia
+2023-06-08,Chocolate Recheado,19,24.19,459.61,ChocoFranq 7,Rafael Moura,MG,Online
+2023-12-04,Chocolate Diet,13,15.08,196.04,ChocoFranq 3,Nicolas Rezende,PE,Franquia
+2023-07-14,Chocolate Com Menta,15,7.95,119.25,ChocoFranq 4,João Gabriel Cavalcanti,RJ,Online
+2023-06-16,Chocolate Branco,14,21.5,301.0,ChocoFranq 5,Guilherme Porto,RJ,Franquia
+2023-11-07,Chocolate Com Menta,18,6.29,113.22,ChocoFranq 6,Henrique Araújo,SC,Online
+2024-01-30,Chocolate Trufado,3,13.78,41.34,ChocoFranq 3,Davi Lucca da Cunha,SP,Online
+2023-04-26,Chocolate Com Avelã,9,15.24,137.16,ChocoFranq 5,Nicolas Rezende,RJ,Franquia
+2023-06-11,Chocolate 70% Cacau,5,20.83,104.15,ChocoFranq 4,Isadora Moura,RS,Franquia
+2023-04-06,Chocolate Zero Açúcar,10,26.64,266.4,ChocoFranq 8,Dr. Enzo Gabriel Fogaça,RJ,Online
+2023-06-12,Chocolate Branco,7,19.01,133.07,ChocoFranq 1,Calebe Freitas,DF,Franquia
+2023-02-24,Chocolate Branco,14,38.5,539.0,ChocoFranq 6,Juliana Pinto,RS,Online
+2023-12-05,Chocolate Com Castanha,7,25.02,175.14,ChocoFranq 8,Calebe Freitas,PE,Franquia
+2023-12-12,Chocolate Meio Amargo,13,5.63,73.19,ChocoFranq 4,Juliana Pinto,RJ,Online
+2024-03-18,Chocolate Com Menta,7,21.27,148.89,ChocoFranq 9,Lorenzo Silva,MG,Franquia
+2023-01-27,Chocolate Meio Amargo,19,31.53,599.07,ChocoFranq 2,Maria Fernanda Costa,SP,Franquia
+2023-03-13,Chocolate 70% Cacau,12,20.93,251.16,ChocoFranq 4,Davi Lucca da Cunha,RJ,Franquia
+2023-09-24,Chocolate Vegano,20,19.3,386.0,ChocoFranq 7,Ana Júlia Santos,SP,Franquia
+2023-07-16,Chocolate Zero Açúcar,2,48.56,97.12,ChocoFranq 7,Dr. Ryan Caldeira,PR,Online
+2023-09-13,Chocolate Com Morango,7,38.23,267.61,ChocoFranq 2,Kamilly Sales,CE,Franquia
+2023-02-20,Chocolate Com Caramelo,11,23.84,262.24,ChocoFranq 2,Calebe Freitas,BA,Franquia
+2023-08-19,Chocolate 70% Cacau,19,15.09,286.71,ChocoFranq 4,Maria Fernanda Costa,RS,Franquia
+2023-09-21,Chocolate Com Amêndoas,6,24.92,149.52,ChocoFranq 2,Davi Lucas Costa,SP,Franquia
+2023-09-07,Chocolate Diet,11,16.28,179.08,ChocoFranq 3,Alexandre Freitas,SP,Franquia
+2023-01-17,Chocolate Recheado,12,24.15,289.8,ChocoFranq 2,Lorenzo Silva,DF,Franquia
+2023-10-17,Chocolate Trufado,11,17.12,188.32,ChocoFranq 10,Leandro Oliveira,MG,Franquia
+2024-03-25,Chocolate Com Amêndoas,1,5.29,5.29,ChocoFranq 7,Calebe Freitas,RJ,Franquia
+2023-03-30,Chocolate Trufado,1,37.59,37.59,ChocoFranq 5,Maria Fernanda Costa,MG,Online
+2024-04-19,Chocolate Com Castanha,3,10.34,31.02,ChocoFranq 1,Juliana Farias,BA,Franquia
+2024-01-17,Chocolate Diet,18,40.13,722.34,ChocoFranq 1,Rafaela Peixoto,MG,Franquia
+2023-04-05,Chocolate Com Amêndoas,1,37.17,37.17,ChocoFranq 6,Isadora Moura,SC,Franquia
+2023-09-11,Chocolate Vegano,18,43.38,780.84,ChocoFranq 1,Ana Júlia Santos,PE,Online
+2024-04-10,Chocolate Com Morango,6,29.6,177.6,ChocoFranq 2,Valentina Teixeira,BA,Franquia
+2024-05-13,Chocolate Zero Açúcar,1,21.85,21.85,ChocoFranq 4,Leandro Moreira,RS,Online
+2023-02-18,Chocolate 70% Cacau,4,15.99,63.96,ChocoFranq 1,Isaac Costa,DF,Franquia
+2023-06-27,Chocolate Com Castanha,15,42.17,632.55,ChocoFranq 3,Alexandre Freitas,DF,Franquia
+2023-09-29,Chocolate Vegano,2,33.1,66.2,ChocoFranq 5,Alexandre Freitas,SP,Online
+2023-01-11,Chocolate Vegano,11,27.67,304.37,ChocoFranq 9,Juliana Pinto,PE,Franquia
+2024-04-13,Chocolate Recheado,9,8.59,77.31,ChocoFranq 5,Maria Fernanda Costa,BA,Online
+2023-08-04,Chocolate Com Castanha,10,44.85,448.5,ChocoFranq 5,Dr. Enzo Gabriel Fogaça,SP,Online
+2023-01-14,Chocolate Com Caramelo,15,44.8,672.0,ChocoFranq 9,Rafael Moura,CE,Franquia
+2023-11-19,Chocolate Com Morango,13,26.42,343.46,ChocoFranq 9,Leandro Moreira,CE,Franquia
+2023-02-10,Chocolate Com Amêndoas,12,44.76,537.12,ChocoFranq 1,Maria Fernanda Costa,MG,Franquia
+2023-03-28,Chocolate Diet,7,17.57,122.99,ChocoFranq 2,Ana Júlia Santos,SP,Franquia
+2023-05-10,Chocolate Branco,13,35.14,456.82,ChocoFranq 3,Guilherme Porto,PE,Online
+2023-04-13,Chocolate Com Castanha,3,7.48,22.44,ChocoFranq 6,Lorenzo Silva,CE,Franquia
+2023-01-06,Chocolate Branco,18,47.29,851.22,ChocoFranq 3,Rafael Moura,BA,Online
+2023-01-31,Chocolate Zero Açúcar,12,29.61,355.32,ChocoFranq 8,Juliana Pinto,RJ,Online
+2023-02-16,Chocolate Zero Açúcar,5,28.51,142.55,ChocoFranq 3,Juliana Pinto,CE,Online
+2024-02-02,Chocolate Com Castanha,8,18.19,145.52,ChocoFranq 5,Nicolas Rezende,PE,Franquia
+2024-02-25,Chocolate Recheado,20,29.11,582.2,ChocoFranq 5,Sr. Breno Silva,PR,Online
+2023-11-12,Chocolate Com Castanha,3,18.42,55.26,ChocoFranq 9,Juliana Pinto,DF,Franquia
+2024-05-08,Chocolate Diet,13,10.01,130.13,ChocoFranq 1,Marcela Dias,CE,Franquia
+2023-03-14,Chocolate Zero Açúcar,20,30.91,618.2,ChocoFranq 9,Sr. Breno Silva,MG,Franquia
+2024-02-28,Chocolate 70% Cacau,17,18.94,321.98,ChocoFranq 1,Catarina Farias,CE,Online
+2023-10-29,Chocolate Diet,11,49.38,543.18,ChocoFranq 3,Valentina Teixeira,RS,Franquia
+2023-11-15,Chocolate Vegano,9,48.91,440.19,ChocoFranq 1,Lorenzo Silva,PE,Online
+2023-07-30,Chocolate Trufado,4,24.81,99.24,ChocoFranq 1,João Gabriel Cavalcanti,SC,Franquia
+2024-01-15,Chocolate Vegano,10,45.78,457.8,ChocoFranq 1,Marcela Dias,PR,Online
+2023-04-25,Chocolate Com Avelã,6,9.29,55.74,ChocoFranq 6,Nicolas Rezende,DF,Franquia
+2023-04-24,Chocolate 70% Cacau,16,17.73,283.68,ChocoFranq 4,Rafael Moura,BA,Online
+2024-03-15,Chocolate 70% Cacau,6,14.16,84.96,ChocoFranq 6,Isaac Costa,SP,Franquia
+2024-04-26,Chocolate Ao Leite,7,32.03,224.21,ChocoFranq 10,Kamilly Sales,SP,Franquia
+2024-01-04,Chocolate Com Amêndoas,7,42.23,295.61,ChocoFranq 10,Davi Lucca da Cunha,SC,Franquia
+2024-03-11,Chocolate 70% Cacau,10,15.21,152.1,ChocoFranq 5,Rafael Moura,BA,Online
+2023-08-12,Chocolate Com Morango,6,33.47,200.82,ChocoFranq 7,Davi Lucas Costa,CE,Franquia
+2023-07-14,Chocolate Recheado,2,8.18,16.36,ChocoFranq 10,Isaac Costa,CE,Franquia
+2023-03-23,Chocolate Com Morango,6,26.92,161.52,ChocoFranq 8,Nicole Rodrigues,PE,Online
+2023-09-07,Chocolate 70% Cacau,14,12.88,180.32,ChocoFranq 10,Juliana Pinto,MG,Franquia
+2023-11-26,Chocolate Com Morango,10,26.54,265.4,ChocoFranq 10,Catarina Farias,DF,Franquia
+2023-11-26,Chocolate Zero Açúcar,4,36.9,147.6,ChocoFranq 6,Rafael Moura,SC,Franquia
+2024-02-03,Chocolate Ao Leite,8,23.4,187.2,ChocoFranq 6,Davi Lucca da Cunha,SP,Online
+2023-02-26,Chocolate Diet,2,41.88,83.76,ChocoFranq 2,Sr. Breno Silva,SC,Franquia
+2023-09-18,Chocolate Zero Açúcar,10,29.07,290.7,ChocoFranq 2,Isaac Costa,RS,Online
+2023-05-05,Chocolate Diet,7,42.87,300.09,ChocoFranq 4,Lorenzo Silva,PE,Franquia
+2023-04-03,Chocolate Com Caramelo,14,17.08,239.12,ChocoFranq 10,Catarina Farias,BA,Franquia
+2023-08-14,Chocolate Ao Leite,3,20.26,60.78,ChocoFranq 7,Rafaela Peixoto,RJ,Franquia
+2023-02-22,Chocolate Com Menta,7,15.19,106.33,ChocoFranq 1,Henrique Araújo,MG,Franquia
+2023-10-24,Chocolate 70% Cacau,3,5.72,17.16,ChocoFranq 3,Maria Fernanda Costa,PR,Online
+2023-03-31,Chocolate Trufado,12,40.52,486.24,ChocoFranq 3,Ana Júlia Santos,PE,Online
+2023-12-03,Chocolate Com Menta,3,43.68,131.04,ChocoFranq 5,João Gabriel Cavalcanti,PR,Franquia
+2023-05-08,Chocolate Com Amêndoas,10,23.8,238.0,ChocoFranq 4,Guilherme Porto,DF,Franquia
+2024-05-01,Chocolate Zero Açúcar,5,22.9,114.5,ChocoFranq 5,João Gabriel Cavalcanti,SC,Franquia
+2023-10-03,Chocolate Branco,15,36.77,551.55,ChocoFranq 8,Davi Lucas Costa,PE,Franquia
+2023-10-30,Chocolate Com Avelã,7,19.25,134.75,ChocoFranq 1,Olivia da Mota,PR,Franquia
+2024-02-14,Chocolate Com Menta,18,29.46,530.28,ChocoFranq 9,Maria Fernanda Costa,MG,Franquia
+2023-03-09,Chocolate Com Amêndoas,16,30.39,486.24,ChocoFranq 9,Fernando Silva,CE,Online
+2023-10-03,Chocolate Com Avelã,9,46.91,422.19,ChocoFranq 9,Ana Júlia Santos,BA,Franquia
+2023-08-11,Chocolate Diet,20,26.25,525.0,ChocoFranq 10,Isaac Costa,PE,Franquia
+2023-09-04,Chocolate Com Caramelo,3,44.98,134.94,ChocoFranq 1,Davi Lucas Costa,DF,Franquia
+2023-11-20,Chocolate Meio Amargo,5,12.36,61.8,ChocoFranq 10,Isadora Moura,CE,Online
+2023-12-31,Chocolate Com Castanha,4,12.82,51.28,ChocoFranq 1,Rafael Moura,PE,Online
+2024-03-24,Chocolate Trufado,7,34.37,240.59,ChocoFranq 5,Kamilly Sales,MG,Franquia
+2023-02-13,Chocolate Com Menta,7,29.69,207.83,ChocoFranq 9,Rafaela Peixoto,MG,Online
+2024-02-03,Chocolate 70% Cacau,6,21.93,131.58,ChocoFranq 4,Valentina Teixeira,SP,Online
+2023-06-27,Chocolate Diet,8,8.86,70.88,ChocoFranq 10,Sr. Breno Silva,RS,Online
+2023-01-20,Chocolate Com Caramelo,9,42.86,385.74,ChocoFranq 5,Davi Lucas Costa,DF,Franquia
+2023-05-10,Chocolate Branco,8,30.1,240.8,ChocoFranq 10,Dr. Enzo Gabriel Fogaça,SP,Franquia
+2023-08-02,Chocolate Com Amêndoas,11,16.26,178.86,ChocoFranq 4,Dr. Enzo Gabriel Fogaça,RS,Online
+2023-06-08,Chocolate Ao Leite,15,35.63,534.45,ChocoFranq 5,Guilherme Porto,RJ,Online
+2023-03-12,Chocolate Meio Amargo,4,6.77,27.08,ChocoFranq 7,Davi Lucas Costa,MG,Online
+2024-03-30,Chocolate Ao Leite,19,25.19,478.61,ChocoFranq 3,Fernando Silva,RS,Online
+2023-03-17,Chocolate Com Castanha,18,40.09,721.62,ChocoFranq 4,Juliana Pinto,BA,Online
+2023-10-11,Chocolate Diet,18,22.08,397.44,ChocoFranq 6,Nicole Rodrigues,RJ,Franquia
+2024-05-05,Chocolate Vegano,4,39.79,159.16,ChocoFranq 5,Olivia da Mota,BA,Online
+2024-02-22,Chocolate Com Menta,13,19.87,258.31,ChocoFranq 6,Calebe Freitas,MG,Franquia
+2023-10-10,Chocolate Branco,1,47.89,47.89,ChocoFranq 6,Rafaela Peixoto,MG,Franquia
+2023-09-28,Chocolate Zero Açúcar,14,26.31,368.34,ChocoFranq 10,Catarina Farias,PR,Franquia
+2023-11-30,Chocolate Zero Açúcar,4,9.53,38.12,ChocoFranq 2,Isaac Costa,RJ,Franquia
+2023-01-12,Chocolate Zero Açúcar,1,25.22,25.22,ChocoFranq 2,Juliana Pinto,PR,Franquia
+2023-03-02,Chocolate Meio Amargo,6,48.12,288.72,ChocoFranq 5,Sr. Breno Silva,SP,Online
+2023-01-17,Chocolate Vegano,15,10.87,163.05,ChocoFranq 6,Ana Júlia Santos,BA,Franquia
+2023-07-08,Chocolate Vegano,18,43.48,782.64,ChocoFranq 9,Dr. Ryan Caldeira,RS,Franquia
+2023-05-04,Chocolate Diet,6,29.68,178.08,ChocoFranq 4,Kamilly Sales,SP,Online
+2023-07-16,Chocolate Meio Amargo,19,39.72,754.68,ChocoFranq 9,Maria Fernanda Costa,PR,Online
+2024-04-24,Chocolate Vegano,3,17.54,52.62,ChocoFranq 7,Alexandre Freitas,PE,Franquia
+2023-06-26,Chocolate Trufado,16,22.79,364.64,ChocoFranq 8,Juliana Pinto,PR,Online
+2023-03-09,Chocolate Recheado,18,19.82,356.76,ChocoFranq 4,Nicolas Rezende,MG,Franquia
+2023-05-10,Chocolate 70% Cacau,10,7.21,72.1,ChocoFranq 7,Calebe Freitas,PR,Online
+2024-01-13,Chocolate Com Caramelo,8,24.35,194.8,ChocoFranq 2,Valentina Teixeira,DF,Franquia
+2023-07-20,Chocolate Com Menta,15,38.38,575.7,ChocoFranq 1,Juliana Pinto,BA,Online
+2023-08-10,Chocolate Com Menta,19,28.52,541.88,ChocoFranq 10,Maria Fernanda Costa,SP,Franquia
+2023-07-10,Chocolate Vegano,1,6.02,6.02,ChocoFranq 10,Lorenzo Silva,CE,Franquia
+2023-07-22,Chocolate Com Caramelo,6,47.09,282.54,ChocoFranq 4,Valentina Teixeira,MG,Franquia
+2024-04-11,Chocolate Com Avelã,11,39.37,433.07,ChocoFranq 10,Marcela Dias,MG,Online
+2023-12-20,Chocolate Meio Amargo,13,43.07,559.91,ChocoFranq 5,Guilherme Porto,CE,Franquia
+2023-11-16,Chocolate Trufado,9,42.12,379.08,ChocoFranq 10,Marcela Dias,RJ,Franquia
+2023-10-01,Chocolate Vegano,8,30.12,240.96,ChocoFranq 7,João Gabriel Cavalcanti,SP,Online
+2023-04-25,Chocolate Meio Amargo,16,40.1,641.6,ChocoFranq 10,Isaac Costa,CE,Franquia
+2023-01-16,Chocolate Vegano,10,25.32,253.2,ChocoFranq 6,Valentina Teixeira,DF,Online
+2024-03-07,Chocolate Branco,4,11.5,46.0,ChocoFranq 9,Luiz Gustavo Carvalho,SC,Franquia
+2023-06-01,Chocolate 70% Cacau,8,11.53,92.24,ChocoFranq 6,Henrique Araújo,PE,Franquia
+2024-03-19,Chocolate Trufado,15,12.23,183.45,ChocoFranq 3,Olivia da Mota,RS,Franquia
+2023-04-28,Chocolate Com Castanha,13,6.63,86.19,ChocoFranq 10,Calebe Freitas,RJ,Online
+2023-07-25,Chocolate Com Menta,3,16.72,50.16,ChocoFranq 3,Henrique Araújo,SP,Franquia
+2023-04-29,Chocolate Com Amêndoas,19,38.59,733.21,ChocoFranq 4,Luiz Gustavo Carvalho,CE,Online
+2024-03-01,Chocolate Com Castanha,2,34.56,69.12,ChocoFranq 2,Valentina Teixeira,DF,Online
+2023-05-28,Chocolate Ao Leite,10,21.79,217.9,ChocoFranq 8,Juliana Pinto,PR,Franquia
+2023-11-27,Chocolate Com Amêndoas,9,26.66,239.94,ChocoFranq 2,Rafael Moura,PE,Online
+2024-04-30,Chocolate Com Menta,1,6.45,6.45,ChocoFranq 1,Catarina Farias,CE,Online
+2023-09-25,Chocolate Zero Açúcar,19,44.72,849.68,ChocoFranq 10,Davi Lucca da Cunha,PE,Franquia
+2024-03-07,Chocolate Vegano,9,44.22,397.98,ChocoFranq 8,Guilherme Porto,PR,Franquia
+2024-03-12,Chocolate Vegano,10,28.54,285.4,ChocoFranq 1,Alexandre Freitas,MG,Franquia
+2024-05-03,Chocolate Branco,6,27.16,162.96,ChocoFranq 1,Lorenzo Silva,SP,Online
+2023-07-03,Chocolate Com Caramelo,6,30.04,180.24,ChocoFranq 8,Sr. Breno Silva,BA,Online
+2023-09-29,Chocolate Zero Açúcar,14,33.64,470.96,ChocoFranq 3,Isadora Moura,PR,Online
+2024-01-23,Chocolate Vegano,8,37.32,298.56,ChocoFranq 3,Juliana Pinto,PR,Online
+2023-09-29,Chocolate Zero Açúcar,19,30.57,580.83,ChocoFranq 4,Juliana Farias,PR,Online
+2023-12-02,Chocolate Com Morango,4,17.55,70.2,ChocoFranq 10,Luiz Gustavo Carvalho,RS,Franquia
+2023-09-21,Chocolate Com Avelã,18,19.97,359.46,ChocoFranq 1,Ana Júlia Santos,DF,Online
+2023-02-22,Chocolate Recheado,17,8.91,151.47,ChocoFranq 8,Nicolas Rezende,MG,Franquia
+2024-05-14,Chocolate Trufado,20,39.58,791.6,ChocoFranq 9,Luiz Gustavo Carvalho,RJ,Franquia
+2024-02-20,Chocolate Branco,17,27.41,465.97,ChocoFranq 9,Olivia da Mota,DF,Franquia
+2023-09-13,Chocolate Com Caramelo,6,5.95,35.7,ChocoFranq 10,Isaac Costa,BA,Franquia
+2023-07-25,Chocolate Zero Açúcar,11,22.25,244.75,ChocoFranq 5,Henrique Araújo,MG,Franquia
+2024-05-06,Chocolate 70% Cacau,15,10.93,163.95,ChocoFranq 10,Isadora Moura,SP,Franquia
+2024-04-27,Chocolate Branco,13,34.56,449.28,ChocoFranq 5,Luiz Gustavo Carvalho,SC,Online
+2023-08-20,Chocolate Branco,19,15.92,302.48,ChocoFranq 4,Alexandre Freitas,RJ,Online
+2023-10-24,Chocolate Com Menta,13,19.91,258.83,ChocoFranq 8,Rafael Moura,PE,Online
+2023-12-24,Chocolate 70% Cacau,10,24.29,242.9,ChocoFranq 5,Juliana Farias,PR,Online
+2023-06-18,Chocolate Vegano,18,23.67,426.06,ChocoFranq 1,Juliana Pinto,PR,Online
+2024-02-29,Chocolate Diet,17,15.42,262.14,ChocoFranq 1,Isadora Moura,MG,Online
+2024-01-27,Chocolate Ao Leite,6,32.5,195.0,ChocoFranq 2,Maria Fernanda Costa,BA,Franquia
+2023-11-16,Chocolate Com Caramelo,8,22.21,177.68,ChocoFranq 5,Catarina Farias,MG,Online
+2023-01-11,Chocolate Com Castanha,15,11.77,176.55,ChocoFranq 10,Luiz Gustavo Carvalho,SC,Online
+2024-03-26,Chocolate Com Menta,15,21.13,316.95,ChocoFranq 7,Nicole Rodrigues,PR,Online
+2024-04-22,Chocolate Trufado,13,33.88,440.44,ChocoFranq 1,Davi Lucas Costa,PE,Online
+2023-02-20,Chocolate Vegano,3,32.8,98.4,ChocoFranq 4,Maria Fernanda Costa,CE,Franquia
+2024-04-21,Chocolate Meio Amargo,4,32.61,130.44,ChocoFranq 3,Lorenzo Silva,RJ,Online
+2023-04-27,Chocolate Trufado,16,19.33,309.28,ChocoFranq 7,Dr. Ryan Caldeira,DF,Franquia
+2023-01-22,Chocolate Com Morango,14,30.47,426.58,ChocoFranq 8,Dr. Enzo Gabriel Fogaça,RJ,Online
+2023-07-21,Chocolate Com Morango,3,26.22,78.66,ChocoFranq 6,Kamilly Sales,DF,Online
+2023-05-21,Chocolate Com Menta,5,42.59,212.95,ChocoFranq 4,Catarina Farias,SC,Online
+2023-12-18,Chocolate Recheado,3,26.02,78.06,ChocoFranq 10,Calebe Freitas,MG,Franquia
+2023-10-07,Chocolate Com Amêndoas,18,13.86,249.48,ChocoFranq 9,Catarina Farias,MG,Franquia
+2023-06-20,Chocolate Recheado,5,21.88,109.4,ChocoFranq 7,Fernando Silva,PR,Online
+2024-03-13,Chocolate Com Castanha,14,6.56,91.84,ChocoFranq 5,Rafael Moura,SP,Online
+2023-08-30,Chocolate Com Caramelo,5,46.51,232.55,ChocoFranq 7,Henrique Araújo,SC,Online
+2023-05-12,Chocolate Com Caramelo,11,27.25,299.75,ChocoFranq 9,Luiz Gustavo Carvalho,SC,Online
+2024-01-16,Chocolate Diet,1,28.21,28.21,ChocoFranq 1,Nicolas Rezende,CE,Franquia
+2023-06-06,Chocolate Trufado,2,40.7,81.4,ChocoFranq 3,Lorenzo Silva,CE,Online
+2023-12-04,Chocolate Com Morango,9,37.68,339.12,ChocoFranq 6,Davi Lucas Costa,PR,Franquia
+2023-06-05,Chocolate Com Caramelo,13,25.53,331.89,ChocoFranq 6,Lorenzo Silva,CE,Franquia
+2023-03-09,Chocolate Vegano,6,17.32,103.92,ChocoFranq 6,Juliana Pinto,CE,Online
+2023-01-27,Chocolate Com Caramelo,5,15.1,75.5,ChocoFranq 1,Nicole Rodrigues,DF,Online
+2023-04-29,Chocolate 70% Cacau,18,40.42,727.56,ChocoFranq 6,Juliana Farias,PE,Online
+2023-06-05,Chocolate Meio Amargo,11,29.78,327.58,ChocoFranq 10,Juliana Farias,MG,Online
+2023-09-19,Chocolate Zero Açúcar,1,7.28,7.28,ChocoFranq 2,Nicolas Rezende,RJ,Online
+2024-05-04,Chocolate Branco,8,48.89,391.12,ChocoFranq 9,Juliana Pinto,SC,Online
+2024-03-03,Chocolate Diet,10,10.47,104.7,ChocoFranq 5,Juliana Farias,PR,Online
+2023-05-16,Chocolate Com Morango,16,15.64,250.24,ChocoFranq 2,Rafael Moura,PE,Online
+2023-09-30,Chocolate Trufado,17,35.39,601.63,ChocoFranq 1,Valentina Teixeira,RS,Franquia
+2024-01-19,Chocolate Com Avelã,13,47.15,612.95,ChocoFranq 3,Isaac Costa,PE,Franquia
+2024-03-11,Chocolate Com Caramelo,6,37.74,226.44,ChocoFranq 6,Maria Fernanda Costa,RJ,Online
+2023-03-16,Chocolate Trufado,12,40.76,489.12,ChocoFranq 7,Ana Júlia Santos,MG,Online
+2023-03-26,Chocolate Com Morango,17,44.89,763.13,ChocoFranq 7,Valentina Teixeira,BA,Online
+2023-01-18,Chocolate Com Caramelo,13,38.21,496.73,ChocoFranq 9,Nicole Rodrigues,CE,Online
+2023-11-07,Chocolate Com Castanha,19,19.08,362.52,ChocoFranq 2,Dr. Ryan Caldeira,BA,Franquia
+2023-07-30,Chocolate Com Amêndoas,5,43.38,216.9,ChocoFranq 4,Lorenzo Silva,DF,Online
+2023-06-13,Chocolate Trufado,4,9.34,37.36,ChocoFranq 9,Nicole Rodrigues,SC,Online
+2023-12-17,Chocolate Com Avelã,20,21.62,432.4,ChocoFranq 9,Fernando Silva,BA,Online
+2023-05-18,Chocolate Zero Açúcar,20,48.66,973.2,ChocoFranq 6,Valentina Teixeira,SP,Online
+2023-11-29,Chocolate Meio Amargo,20,10.46,209.2,ChocoFranq 2,Lorenzo Silva,PE,Franquia
+2023-02-10,Chocolate Zero Açúcar,17,27.97,475.49,ChocoFranq 6,Catarina Farias,RS,Online
+2023-05-17,Chocolate Ao Leite,3,24.23,72.69,ChocoFranq 8,Marcela Dias,SP,Franquia
+2023-08-04,Chocolate Com Avelã,10,22.03,220.3,ChocoFranq 1,Marcela Dias,MG,Franquia
+2023-11-28,Chocolate Com Avelã,15,28.5,427.5,ChocoFranq 2,Calebe Freitas,RS,Online
+2024-04-28,Chocolate Com Morango,17,37.23,632.91,ChocoFranq 9,Henrique Araújo,PE,Online
+2023-08-25,Chocolate Com Castanha,16,47.8,764.8,ChocoFranq 3,Leandro Oliveira,RJ,Online
+2024-02-01,Chocolate Com Avelã,9,17.09,153.81,ChocoFranq 9,Maria Fernanda Costa,SP,Online
+2023-08-09,Chocolate Zero Açúcar,11,10.98,120.78,ChocoFranq 1,Rafaela Peixoto,SC,Franquia
+2024-01-20,Chocolate Com Castanha,8,7.08,56.64,ChocoFranq 3,Isaac Costa,PE,Franquia
+2023-07-03,Chocolate Ao Leite,20,48.63,972.6,ChocoFranq 7,Dr. Ryan Caldeira,SP,Franquia
+2023-03-31,Chocolate Meio Amargo,3,8.24,24.72,ChocoFranq 10,Kamilly Sales,PE,Franquia
+2023-10-11,Chocolate 70% Cacau,14,19.13,267.82,ChocoFranq 2,Davi Lucas Costa,PR,Online
+2023-02-19,Chocolate Com Menta,3,12.71,38.13,ChocoFranq 10,Juliana Farias,MG,Online
+2023-08-05,Chocolate Com Caramelo,13,42.76,555.88,ChocoFranq 7,Calebe Freitas,MG,Franquia
+2023-07-09,Chocolate Com Avelã,16,13.95,223.2,ChocoFranq 6,Maria Fernanda Costa,RS,Online
+2023-09-15,Chocolate Meio Amargo,1,9.01,9.01,ChocoFranq 4,Leandro Oliveira,RJ,Online
+2023-03-07,Chocolate Diet,2,30.28,60.56,ChocoFranq 4,Nicole Rodrigues,RS,Franquia
+2023-12-09,Chocolate Recheado,1,42.42,42.42,ChocoFranq 4,João Gabriel Cavalcanti,RJ,Online
+2023-04-22,Chocolate Meio Amargo,11,11.06,121.66,ChocoFranq 3,Isadora Moura,RJ,Online
+2024-01-05,Chocolate Zero Açúcar,16,38.41,614.56,ChocoFranq 7,Catarina Farias,MG,Online
+2023-07-18,Chocolate Com Castanha,7,34.43,241.01,ChocoFranq 7,Guilherme Porto,PR,Franquia
+2023-09-23,Chocolate Ao Leite,10,13.13,131.3,ChocoFranq 4,Davi Lucas Costa,SC,Online
+2023-07-29,Chocolate 70% Cacau,6,34.63,207.78,ChocoFranq 8,Henrique Araújo,DF,Online
+2023-12-05,Chocolate Diet,17,45.26,769.42,ChocoFranq 7,Ana Júlia Santos,RS,Online
+2024-03-01,Chocolate Com Menta,18,48.85,879.3,ChocoFranq 5,Valentina Teixeira,RS,Franquia
+2024-01-17,Chocolate Meio Amargo,3,36.45,109.35,ChocoFranq 1,Lorenzo Silva,RJ,Online
+2023-11-12,Chocolate Com Amêndoas,7,10.72,75.04,ChocoFranq 8,Valentina Teixeira,RJ,Online
+2023-11-07,Chocolate Com Menta,15,42.28,634.2,ChocoFranq 6,Calebe Freitas,RJ,Online
+2023-07-21,Chocolate Com Menta,20,39.21,784.2,ChocoFranq 3,Isadora Moura,SC,Franquia
+2023-12-14,Chocolate Zero Açúcar,10,16.7,167.0,ChocoFranq 4,Leandro Moreira,SC,Online
+2024-04-26,Chocolate Vegano,7,10.98,76.86,ChocoFranq 3,Olivia da Mota,MG,Franquia
+2023-06-15,Chocolate 70% Cacau,15,34.17,512.55,ChocoFranq 3,Rafael Moura,BA,Franquia
+2023-12-12,Chocolate 70% Cacau,1,41.73,41.73,ChocoFranq 8,Alexandre Freitas,PR,Online
+2024-03-04,Chocolate Com Castanha,11,17.74,195.14,ChocoFranq 3,Marcela Dias,SP,Online
+2023-04-30,Chocolate Diet,18,15.04,270.72,ChocoFranq 4,Alexandre Freitas,DF,Online
+2023-12-15,Chocolate 70% Cacau,2,20.74,41.48,ChocoFranq 5,Dr. Enzo Gabriel Fogaça,PE,Franquia
+2023-08-22,Chocolate Branco,13,40.94,532.22,ChocoFranq 10,Nicolas Rezende,RS,Online
+2024-01-03,Chocolate Com Morango,12,37.5,450.0,ChocoFranq 3,João Gabriel Cavalcanti,RS,Online
+2023-12-27,Chocolate Recheado,1,35.56,35.56,ChocoFranq 7,Rafaela Peixoto,SP,Online
+2024-02-10,Chocolate Com Avelã,4,6.8,27.2,ChocoFranq 7,Maria Fernanda Costa,MG,Franquia
+2023-06-27,Chocolate Com Castanha,13,25.01,325.13,ChocoFranq 7,Dr. Enzo Gabriel Fogaça,CE,Online
+2023-09-22,Chocolate Diet,13,26.51,344.63,ChocoFranq 6,Kamilly Sales,PE,Franquia
+2023-10-12,Chocolate Trufado,9,39.53,355.77,ChocoFranq 3,Dr. Ryan Caldeira,RS,Franquia
+2023-12-16,Chocolate Ao Leite,4,22.24,88.96,ChocoFranq 4,Henrique Araújo,CE,Online
+2023-02-28,Chocolate 70% Cacau,16,16.13,258.08,ChocoFranq 5,Rafael Moura,PE,Franquia
+2024-01-02,Chocolate Branco,6,17.46,104.76,ChocoFranq 1,Rafaela Peixoto,RS,Franquia
+2024-03-29,Chocolate Com Menta,10,48.44,484.4,ChocoFranq 9,Sr. Breno Silva,DF,Franquia
+2024-03-26,Chocolate Ao Leite,4,25.79,103.16,ChocoFranq 9,Maria Fernanda Costa,BA,Online
+2023-01-07,Chocolate Com Amêndoas,16,19.02,304.32,ChocoFranq 4,Leandro Oliveira,RS,Online
+2023-05-14,Chocolate Vegano,16,15.7,251.2,ChocoFranq 3,Marcela Dias,SP,Franquia
+2023-10-04,Chocolate Com Caramelo,8,9.71,77.68,ChocoFranq 9,Nicolas Rezende,PR,Online
+2024-05-13,Chocolate Com Castanha,15,22.75,341.25,ChocoFranq 9,Guilherme Porto,SC,Franquia
+2024-04-01,Chocolate Com Avelã,14,46.68,653.52,ChocoFranq 4,Maria Fernanda Costa,SP,Franquia
+2023-10-21,Chocolate Com Avelã,5,42.33,211.65,ChocoFranq 9,Sr. Breno Silva,RS,Online
+2024-01-30,Chocolate Ao Leite,15,40.26,603.9,ChocoFranq 7,Marcela Dias,RS,Franquia
+2023-07-23,Chocolate Branco,10,28.29,282.9,ChocoFranq 5,Dr. Ryan Caldeira,SP,Online
+2024-02-14,Chocolate Com Avelã,16,47.28,756.48,ChocoFranq 5,Rafaela Peixoto,DF,Franquia
+2023-10-26,Chocolate Vegano,19,13.28,252.32,ChocoFranq 5,Calebe Freitas,MG,Online
+2023-05-24,Chocolate Com Caramelo,2,25.61,51.22,ChocoFranq 10,Lorenzo Silva,SC,Franquia
+2023-04-30,Chocolate Diet,11,14.21,156.31,ChocoFranq 2,Fernando Silva,RJ,Online
+2023-12-14,Chocolate Trufado,11,26.97,296.67,ChocoFranq 2,Isadora Moura,BA,Franquia
+2024-02-28,Chocolate Ao Leite,10,27.91,279.1,ChocoFranq 7,Maria Fernanda Costa,BA,Online
+2023-06-29,Chocolate 70% Cacau,13,16.13,209.69,ChocoFranq 4,Fernando Silva,BA,Online
+2023-04-13,Chocolate Com Caramelo,13,48.35,628.55,ChocoFranq 2,Nicolas Rezende,DF,Franquia
+2023-07-26,Chocolate Vegano,15,40.26,603.9,ChocoFranq 5,Luiz Gustavo Carvalho,PE,Online
+2024-02-11,Chocolate Com Morango,5,18.13,90.65,ChocoFranq 3,Juliana Pinto,BA,Franquia
+2023-09-25,Chocolate Com Castanha,12,46.53,558.36,ChocoFranq 2,Guilherme Porto,SC,Online
+2023-12-29,Chocolate Zero Açúcar,8,11.45,91.6,ChocoFranq 8,Fernando Silva,CE,Franquia
+2023-09-04,Chocolate Com Morango,11,40.62,446.82,ChocoFranq 10,Guilherme Porto,SC,Online
+2023-10-17,Chocolate Recheado,2,25.18,50.36,ChocoFranq 7,Dr. Ryan Caldeira,SP,Online
+2024-04-12,Chocolate Com Amêndoas,16,29.96,479.36,ChocoFranq 3,Rafaela Peixoto,PR,Online
+2023-04-27,Chocolate Diet,18,12.74,229.32,ChocoFranq 1,Fernando Silva,DF,Online
+2024-04-14,Chocolate Com Amêndoas,1,40.04,40.04,ChocoFranq 7,Rafael Moura,PE,Franquia
+2023-10-22,Chocolate Diet,1,23.44,23.44,ChocoFranq 2,Juliana Farias,PR,Online
+2024-04-29,Chocolate Trufado,4,43.9,175.6,ChocoFranq 5,Dr. Ryan Caldeira,CE,Franquia
+2023-12-19,Chocolate Recheado,5,8.68,43.4,ChocoFranq 8,Olivia da Mota,RS,Franquia
+2023-11-22,Chocolate Vegano,1,29.5,29.5,ChocoFranq 5,Calebe Freitas,RJ,Online
+2023-07-28,Chocolate Branco,3,38.09,114.27,ChocoFranq 6,Juliana Farias,PE,Franquia
+2024-01-26,Chocolate Com Amêndoas,10,41.46,414.6,ChocoFranq 1,Olivia da Mota,SC,Online
+2023-04-22,Chocolate Com Amêndoas,18,19.89,358.02,ChocoFranq 7,Alexandre Freitas,SP,Franquia
+2024-04-15,Chocolate Recheado,8,49.31,394.48,ChocoFranq 7,Rafael Moura,SP,Online
+2023-05-06,Chocolate Recheado,11,40.46,445.06,ChocoFranq 7,Luiz Gustavo Carvalho,DF,Franquia
+2023-09-02,Chocolate Com Avelã,17,8.52,144.84,ChocoFranq 2,Ana Júlia Santos,RJ,Online
+2024-04-20,Chocolate Com Avelã,18,13.61,244.98,ChocoFranq 10,Rafael Moura,PR,Online
+2023-05-17,Chocolate Zero Açúcar,17,25.81,438.77,ChocoFranq 4,Davi Lucas Costa,SP,Online
+2023-12-07,Chocolate Com Castanha,11,25.86,284.46,ChocoFranq 8,Isaac Costa,PR,Franquia
+2024-05-01,Chocolate Trufado,18,36.48,656.64,ChocoFranq 10,Juliana Farias,RJ,Franquia
+2023-02-05,Chocolate Diet,15,35.04,525.6,ChocoFranq 8,Henrique Araújo,RJ,Franquia
+2023-10-30,Chocolate Meio Amargo,7,29.78,208.46,ChocoFranq 2,Olivia da Mota,PE,Online
+2023-04-29,Chocolate Meio Amargo,3,40.84,122.52,ChocoFranq 8,Calebe Freitas,BA,Franquia
+2023-02-19,Chocolate Trufado,7,44.84,313.88,ChocoFranq 8,Nicole Rodrigues,CE,Franquia
+2023-01-03,Chocolate Recheado,16,49.48,791.68,ChocoFranq 2,Alexandre Freitas,RJ,Franquia
+2024-05-04,Chocolate Com Menta,5,19.45,97.25,ChocoFranq 7,Maria Fernanda Costa,MG,Online
+2023-08-05,Chocolate Com Menta,6,8.03,48.18,ChocoFranq 3,Calebe Freitas,RS,Online
+2023-03-20,Chocolate Vegano,19,27.23,517.37,ChocoFranq 3,Olivia da Mota,PR,Online
+2023-04-30,Chocolate Vegano,18,19.62,353.16,ChocoFranq 8,Leandro Oliveira,PR,Online
+2024-02-16,Chocolate Com Morango,10,27.2,272.0,ChocoFranq 6,Nicole Rodrigues,BA,Franquia
+2023-03-15,Chocolate Vegano,5,8.18,40.9,ChocoFranq 4,Sr. Breno Silva,RS,Online
+2023-07-10,Chocolate Com Menta,5,40.57,202.85,ChocoFranq 8,Olivia da Mota,RS,Franquia
+2024-03-06,Chocolate Com Avelã,5,44.25,221.25,ChocoFranq 9,Isadora Moura,MG,Online
+2024-03-18,Chocolate Com Castanha,2,38.11,76.22,ChocoFranq 2,Davi Lucas Costa,SC,Online
+2023-08-09,Chocolate Com Menta,8,15.06,120.48,ChocoFranq 2,Rafael Moura,SP,Online
+2024-03-29,Chocolate Com Castanha,2,44.62,89.24,ChocoFranq 10,Alexandre Freitas,RS,Franquia
+2024-03-03,Chocolate Com Amêndoas,5,11.18,55.9,ChocoFranq 3,Dr. Ryan Caldeira,BA,Franquia
+2024-04-23,Chocolate Branco,16,46.93,750.88,ChocoFranq 10,Marcela Dias,PE,Franquia
+2024-02-16,Chocolate Recheado,12,44.41,532.92,ChocoFranq 5,Luiz Gustavo Carvalho,RJ,Franquia
+2023-04-03,Chocolate Recheado,9,12.99,116.91,ChocoFranq 2,Lorenzo Silva,RJ,Online
+2024-05-15,Chocolate Trufado,9,22.94,206.46,ChocoFranq 4,Isadora Moura,SP,Online
+2023-03-06,Chocolate Ao Leite,3,18.25,54.75,ChocoFranq 10,Leandro Oliveira,MG,Online
+2023-07-08,Chocolate Diet,11,22.13,243.43,ChocoFranq 10,Sr. Breno Silva,MG,Franquia
+2024-04-10,Chocolate Com Caramelo,7,26.67,186.69,ChocoFranq 2,Juliana Farias,RJ,Franquia
+2023-12-16,Chocolate Meio Amargo,2,36.01,72.02,ChocoFranq 8,Dr. Ryan Caldeira,MG,Franquia
+2023-09-15,Chocolate Ao Leite,17,47.77,812.09,ChocoFranq 4,Calebe Freitas,RJ,Online
+2023-11-01,Chocolate Com Caramelo,15,8.89,133.35,ChocoFranq 4,Juliana Pinto,RJ,Online
+2024-03-26,Chocolate Com Morango,15,26.28,394.2,ChocoFranq 8,Davi Lucca da Cunha,RJ,Online
+2023-11-13,Chocolate 70% Cacau,19,30.27,575.13,ChocoFranq 6,Calebe Freitas,RJ,Online
+2024-03-28,Chocolate Com Caramelo,20,49.83,996.6,ChocoFranq 3,Rafaela Peixoto,SP,Online
+2023-09-29,Chocolate Meio Amargo,9,32.69,294.21,ChocoFranq 4,Calebe Freitas,RS,Franquia
+2023-08-07,Chocolate Branco,8,33.08,264.64,ChocoFranq 7,Leandro Moreira,BA,Online
+2023-04-20,Chocolate Com Morango,9,28.41,255.69,ChocoFranq 4,Rafael Moura,RS,Online
+2023-10-27,Chocolate Meio Amargo,4,47.96,191.84,ChocoFranq 8,Henrique Araújo,PE,Franquia
+2023-12-17,Chocolate Com Morango,5,25.23,126.15,ChocoFranq 4,Juliana Pinto,PE,Online
+2023-11-06,Chocolate Ao Leite,12,10.34,124.08,ChocoFranq 9,Marcela Dias,CE,Franquia
+2023-04-28,Chocolate Com Caramelo,13,10.07,130.91,ChocoFranq 6,Alexandre Freitas,MG,Franquia
+2023-04-22,Chocolate Com Castanha,11,12.34,135.74,ChocoFranq 4,Calebe Freitas,SP,Online
+2023-08-24,Chocolate Diet,1,34.51,34.51,ChocoFranq 1,João Gabriel Cavalcanti,SC,Online
+2023-04-28,Chocolate Trufado,14,17.79,249.06,ChocoFranq 4,Davi Lucas Costa,RS,Franquia
+2024-02-21,Chocolate Meio Amargo,12,6.38,76.56,ChocoFranq 9,Guilherme Porto,RS,Franquia
+2024-05-11,Chocolate Com Avelã,9,15.01,135.09,ChocoFranq 9,Ana Júlia Santos,CE,Online
+2023-11-13,Chocolate Branco,5,38.86,194.3,ChocoFranq 5,Kamilly Sales,BA,Franquia
+2023-07-06,Chocolate Vegano,14,38.58,540.12,ChocoFranq 7,Henrique Araújo,DF,Online
+2024-01-16,Chocolate Diet,18,16.04,288.72,ChocoFranq 6,Guilherme Porto,BA,Franquia
+2023-12-27,Chocolate 70% Cacau,8,44.19,353.52,ChocoFranq 6,Juliana Farias,PR,Online
+2023-04-06,Chocolate Com Caramelo,18,5.74,103.32,ChocoFranq 1,Dr. Enzo Gabriel Fogaça,PE,Online
+2023-11-25,Chocolate Com Morango,16,31.66,506.56,ChocoFranq 1,Olivia da Mota,SP,Franquia
+2024-05-04,Chocolate 70% Cacau,15,31.29,469.35,ChocoFranq 2,Olivia da Mota,RJ,Franquia
+2023-02-24,Chocolate Meio Amargo,1,13.51,13.51,ChocoFranq 3,Luiz Gustavo Carvalho,SC,Online
+2024-02-02,Chocolate Vegano,16,29.4,470.4,ChocoFranq 10,Leandro Oliveira,MG,Online
+2023-11-17,Chocolate Vegano,5,46.26,231.3,ChocoFranq 10,Catarina Farias,SP,Franquia
+2024-04-20,Chocolate Branco,5,17.2,86.0,ChocoFranq 7,Lorenzo Silva,DF,Online
+2023-03-27,Chocolate Branco,13,20.57,267.41,ChocoFranq 3,Calebe Freitas,DF,Franquia
+2024-01-04,Chocolate Meio Amargo,4,31.51,126.04,ChocoFranq 1,Leandro Moreira,CE,Online
+2024-03-15,Chocolate Meio Amargo,15,39.09,586.35,ChocoFranq 2,Fernando Silva,SP,Online
+2023-01-07,Chocolate Com Menta,17,22.94,389.98,ChocoFranq 4,Kamilly Sales,DF,Franquia
+2024-01-31,Chocolate Vegano,20,29.12,582.4,ChocoFranq 9,Ana Júlia Santos,CE,Online
+2023-11-18,Chocolate Com Menta,13,7.87,102.31,ChocoFranq 9,Kamilly Sales,SC,Online
+2024-03-11,Chocolate Com Morango,14,5.62,78.68,ChocoFranq 2,Sr. Breno Silva,MG,Franquia
+2024-03-26,Chocolate Zero Açúcar,3,15.66,46.98,ChocoFranq 5,Juliana Farias,PR,Online
+2023-04-02,Chocolate Zero Açúcar,5,26.05,130.25,ChocoFranq 5,Rafaela Peixoto,SC,Online
+2024-01-15,Chocolate Com Menta,16,33.24,531.84,ChocoFranq 2,Juliana Pinto,RS,Franquia
+2024-04-15,Chocolate Zero Açúcar,7,9.47,66.29,ChocoFranq 4,Marcela Dias,PR,Franquia
+2023-01-30,Chocolate Trufado,18,47.98,863.64,ChocoFranq 9,Lorenzo Silva,RS,Franquia
+2024-01-01,Chocolate Ao Leite,12,27.62,331.44,ChocoFranq 4,Lorenzo Silva,SC,Franquia
+2023-03-16,Chocolate Com Castanha,13,12.53,162.89,ChocoFranq 2,Valentina Teixeira,SC,Online
+2024-03-17,Chocolate Com Avelã,1,25.46,25.46,ChocoFranq 9,Valentina Teixeira,BA,Franquia
+2024-04-16,Chocolate Meio Amargo,11,46.81,514.91,ChocoFranq 6,Valentina Teixeira,SC,Online
+2024-04-06,Chocolate Meio Amargo,8,46.75,374.0,ChocoFranq 6,Olivia da Mota,CE,Online
+2023-04-27,Chocolate Com Morango,20,23.39,467.8,ChocoFranq 2,Dr. Enzo Gabriel Fogaça,BA,Online
+2024-05-09,Chocolate Diet,6,26.43,158.58,ChocoFranq 3,Valentina Teixeira,RS,Franquia
+2024-03-26,Chocolate Vegano,10,8.69,86.9,ChocoFranq 6,Sr. Breno Silva,SP,Franquia
+2023-10-02,Chocolate Branco,7,22.18,155.26,ChocoFranq 6,Leandro Moreira,PR,Franquia
+2023-04-11,Chocolate Vegano,8,18.12,144.96,ChocoFranq 4,Isadora Moura,PR,Online
+2023-05-03,Chocolate Com Morango,8,30.67,245.36,ChocoFranq 3,Nicolas Rezende,MG,Online
+2024-02-08,Chocolate Vegano,5,30.17,150.85,ChocoFranq 8,Dr. Enzo Gabriel Fogaça,PR,Franquia
+2023-07-28,Chocolate Vegano,1,15.42,15.42,ChocoFranq 9,Rafael Moura,BA,Franquia
+2023-11-12,Chocolate Zero Açúcar,5,12.43,62.15,ChocoFranq 1,Maria Fernanda Costa,MG,Franquia
+2023-05-10,Chocolate Com Menta,7,41.76,292.32,ChocoFranq 8,Catarina Farias,CE,Franquia
+2023-01-28,Chocolate Com Caramelo,8,7.36,58.88,ChocoFranq 8,Luiz Gustavo Carvalho,RJ,Online
+2023-12-17,Chocolate Branco,7,30.02,210.14,ChocoFranq 5,Dr. Enzo Gabriel Fogaça,MG,Online
+2023-10-24,Chocolate Com Castanha,14,47.54,665.56,ChocoFranq 1,Alexandre Freitas,RJ,Online
+2023-09-18,Chocolate Diet,17,11.5,195.5,ChocoFranq 1,Luiz Gustavo Carvalho,PR,Online
+2023-08-10,Chocolate Com Castanha,7,48.47,339.29,ChocoFranq 1,Lorenzo Silva,SC,Franquia
+2024-03-16,Chocolate 70% Cacau,19,20.69,393.11,ChocoFranq 3,Sr. Breno Silva,DF,Franquia
+2023-12-19,Chocolate Trufado,10,25.86,258.6,ChocoFranq 1,Calebe Freitas,RS,Online
+2024-04-14,Chocolate 70% Cacau,18,35.12,632.16,ChocoFranq 2,Lorenzo Silva,DF,Franquia
+2023-07-30,Chocolate Com Amêndoas,14,17.94,251.16,ChocoFranq 3,Maria Fernanda Costa,DF,Franquia
+2024-04-05,Chocolate 70% Cacau,10,36.69,366.9,ChocoFranq 10,Juliana Farias,PR,Franquia
+2023-10-22,Chocolate Recheado,15,29.12,436.8,ChocoFranq 3,Rafael Moura,SP,Franquia
+2024-02-19,Chocolate Com Menta,19,25.55,485.45,ChocoFranq 10,João Gabriel Cavalcanti,BA,Franquia
+2024-04-02,Chocolate Branco,13,31.63,411.19,ChocoFranq 5,Maria Fernanda Costa,DF,Online
+2023-10-12,Chocolate Branco,5,43.08,215.4,ChocoFranq 10,Lorenzo Silva,PE,Franquia
+2024-02-28,Chocolate Com Avelã,15,39.15,587.25,ChocoFranq 6,Luiz Gustavo Carvalho,PE,Franquia
+2023-02-27,Chocolate Trufado,14,18.55,259.7,ChocoFranq 4,Nicole Rodrigues,CE,Online
+2024-04-21,Chocolate Com Castanha,3,20.95,62.85,ChocoFranq 7,Sr. Breno Silva,SP,Online
+2023-01-19,Chocolate Com Castanha,8,25.47,203.76,ChocoFranq 2,Davi Lucas Costa,PE,Online
+2023-11-13,Chocolate Com Menta,11,28.39,312.29,ChocoFranq 7,Isaac Costa,SP,Online
+2024-05-14,Chocolate Diet,12,25.31,303.72,ChocoFranq 8,Rafael Moura,PE,Franquia
+2023-03-15,Chocolate Com Avelã,17,33.84,575.28,ChocoFranq 2,Nicolas Rezende,PE,Online
+2024-05-11,Chocolate Com Amêndoas,17,47.74,811.58,ChocoFranq 3,Fernando Silva,RS,Online
+2024-01-02,Chocolate Com Morango,1,49.42,49.42,ChocoFranq 6,Fernando Silva,RS,Franquia
+2023-11-17,Chocolate Recheado,13,16.7,217.1,ChocoFranq 6,Isaac Costa,RS,Online
+2023-02-27,Chocolate Trufado,7,12.99,90.93,ChocoFranq 6,Davi Lucas Costa,RJ,Franquia
+2024-01-06,Chocolate Meio Amargo,16,8.45,135.2,ChocoFranq 7,Kamilly Sales,PR,Franquia
+2023-01-30,Chocolate Meio Amargo,20,35.67,713.4,ChocoFranq 4,Leandro Oliveira,PE,Franquia
+2023-04-30,Chocolate Com Castanha,16,48.77,780.32,ChocoFranq 10,Rafael Moura,RS,Franquia
+2024-04-03,Chocolate Trufado,10,33.6,336.0,ChocoFranq 7,Leandro Moreira,PE,Franquia
+2023-06-15,Chocolate Recheado,3,48.37,145.11,ChocoFranq 1,Dr. Enzo Gabriel Fogaça,RS,Franquia
+2024-05-05,Chocolate Diet,15,9.7,145.5,ChocoFranq 4,Davi Lucca da Cunha,DF,Online
+2023-12-18,Chocolate Recheado,7,44.96,314.72,ChocoFranq 9,Luiz Gustavo Carvalho,PE,Franquia
+2023-07-30,Chocolate Com Amêndoas,11,48.71,535.81,ChocoFranq 1,Lorenzo Silva,PR,Online
+2023-10-08,Chocolate Vegano,6,22.52,135.12,ChocoFranq 8,Davi Lucca da Cunha,RJ,Franquia
+2024-05-05,Chocolate Com Morango,19,28.34,538.46,ChocoFranq 3,Catarina Farias,CE,Franquia
+2023-10-05,Chocolate Zero Açúcar,7,12.84,89.88,ChocoFranq 9,Olivia da Mota,SP,Online
+2023-04-16,Chocolate Trufado,20,8.66,173.2,ChocoFranq 6,Henrique Araújo,RJ,Online
+2023-07-18,Chocolate Trufado,16,17.3,276.8,ChocoFranq 7,Lorenzo Silva,SC,Online
+2023-09-22,Chocolate Com Amêndoas,14,30.48,426.72,ChocoFranq 8,Marcela Dias,SP,Online
+2023-07-14,Chocolate Com Castanha,6,31.57,189.42,ChocoFranq 7,Fernando Silva,CE,Online
+2023-08-02,Chocolate Ao Leite,16,48.67,778.72,ChocoFranq 3,Leandro Oliveira,RJ,Online
+2023-06-04,Chocolate Trufado,13,47.64,619.32,ChocoFranq 5,Dr. Ryan Caldeira,SC,Online
+2024-04-24,Chocolate Zero Açúcar,11,43.31,476.41,ChocoFranq 1,Lorenzo Silva,DF,Online
+2023-12-25,Chocolate Recheado,20,44.29,885.8,ChocoFranq 1,Catarina Farias,RS,Online
+2023-07-10,Chocolate Branco,8,40.22,321.76,ChocoFranq 7,Calebe Freitas,CE,Online
+2024-02-29,Chocolate Trufado,15,45.86,687.9,ChocoFranq 8,Ana Júlia Santos,RJ,Online
+2023-07-24,Chocolate Recheado,2,16.48,32.96,ChocoFranq 10,Juliana Farias,RJ,Online
+2024-01-09,Chocolate Com Castanha,9,5.26,47.34,ChocoFranq 10,Lorenzo Silva,SP,Franquia
+2024-01-12,Chocolate Com Avelã,6,20.96,125.76,ChocoFranq 6,Lorenzo Silva,PE,Online
+2024-01-23,Chocolate Com Caramelo,17,45.56,774.52,ChocoFranq 8,Maria Fernanda Costa,MG,Franquia
+2023-01-02,Chocolate Recheado,7,29.46,206.22,ChocoFranq 8,Henrique Araújo,DF,Franquia
+2023-02-15,Chocolate Meio Amargo,16,12.87,205.92,ChocoFranq 4,Olivia da Mota,DF,Franquia
+2023-10-16,Chocolate Com Castanha,14,42.36,593.04,ChocoFranq 10,Juliana Pinto,RJ,Online
+2023-08-01,Chocolate Com Caramelo,9,9.49,85.41,ChocoFranq 5,Calebe Freitas,CE,Franquia
+2023-11-19,Chocolate Com Morango,11,14.82,163.02,ChocoFranq 7,Isadora Moura,BA,Online
+2024-05-11,Chocolate 70% Cacau,20,7.0,140.0,ChocoFranq 5,Olivia da Mota,RS,Franquia
+2024-01-03,Chocolate Diet,20,7.4,148.0,ChocoFranq 5,Rafaela Peixoto,CE,Franquia
+2023-01-05,Chocolate Diet,5,32.28,161.4,ChocoFranq 4,Catarina Farias,RJ,Online
+2023-11-23,Chocolate Com Menta,4,7.84,31.36,ChocoFranq 5,Alexandre Freitas,CE,Franquia
+2023-04-10,Chocolate Vegano,18,21.32,383.76,ChocoFranq 7,Henrique Araújo,SC,Franquia
+2024-02-10,Chocolate Vegano,20,23.23,464.6,ChocoFranq 7,Juliana Farias,RJ,Franquia
+2023-05-28,Chocolate Ao Leite,8,12.63,101.04,ChocoFranq 6,Luiz Gustavo Carvalho,SC,Online
+2024-01-18,Chocolate 70% Cacau,19,44.77,850.63,ChocoFranq 3,Calebe Freitas,CE,Online
+2024-01-05,Chocolate Com Caramelo,20,9.56,191.2,ChocoFranq 6,Nicolas Rezende,DF,Online
+2023-05-14,Chocolate Zero Açúcar,13,9.21,119.73,ChocoFranq 6,João Gabriel Cavalcanti,CE,Online
+2024-02-01,Chocolate Com Morango,1,43.08,43.08,ChocoFranq 5,Fernando Silva,CE,Online
+2023-07-06,Chocolate Meio Amargo,16,22.89,366.24,ChocoFranq 6,Leandro Oliveira,DF,Franquia
+2023-07-09,Chocolate Com Avelã,19,39.59,752.21,ChocoFranq 1,Leandro Oliveira,PE,Franquia
+2023-01-19,Chocolate Com Caramelo,3,48.92,146.76,ChocoFranq 3,Kamilly Sales,PE,Online
+2023-05-26,Chocolate Trufado,14,19.71,275.94,ChocoFranq 5,Rafael Moura,BA,Franquia
+2024-03-08,Chocolate Zero Açúcar,11,45.4,499.4,ChocoFranq 9,Leandro Moreira,PE,Franquia
+2023-03-08,Chocolate Com Morango,2,13.43,26.86,ChocoFranq 4,Henrique Araújo,SC,Franquia
+2023-08-11,Chocolate Com Avelã,18,33.52,603.36,ChocoFranq 10,João Gabriel Cavalcanti,PR,Online
+2023-03-24,Chocolate Recheado,5,44.46,222.3,ChocoFranq 3,Fernando Silva,PR,Online
+2023-04-06,Chocolate Com Amêndoas,8,41.02,328.16,ChocoFranq 3,Juliana Farias,RS,Online
+2023-09-10,Chocolate Com Morango,11,16.96,186.56,ChocoFranq 3,Marcela Dias,SC,Franquia
+2024-02-14,Chocolate Zero Açúcar,13,42.05,546.65,ChocoFranq 6,Olivia da Mota,PR,Online
+2024-05-06,Chocolate Com Morango,20,10.51,210.2,ChocoFranq 7,Catarina Farias,RS,Online
+2024-03-04,Chocolate Trufado,11,34.45,378.95,ChocoFranq 2,Davi Lucas Costa,DF,Franquia
+2023-01-15,Chocolate Com Amêndoas,19,48.06,913.14,ChocoFranq 3,Juliana Farias,PR,Online
+2023-06-25,Chocolate Com Avelã,18,9.77,175.86,ChocoFranq 6,Alexandre Freitas,MG,Franquia
+2024-05-05,Chocolate Com Avelã,12,37.48,449.76,ChocoFranq 8,Juliana Farias,RS,Franquia
+2023-04-21,Chocolate Diet,10,42.66,426.6,ChocoFranq 1,Marcela Dias,SC,Online
+2023-04-23,Chocolate Recheado,3,11.23,33.69,ChocoFranq 8,Rafael Moura,RS,Franquia
+2023-03-30,Chocolate Trufado,19,27.53,523.07,ChocoFranq 10,Dr. Enzo Gabriel Fogaça,MG,Online
+2023-07-09,Chocolate Branco,18,5.82,104.76,ChocoFranq 7,Rafaela Peixoto,RJ,Online
+2023-02-01,Chocolate Recheado,19,41.89,795.91,ChocoFranq 2,Olivia da Mota,MG,Online
+2023-06-17,Chocolate Com Castanha,8,25.86,206.88,ChocoFranq 10,Henrique Araújo,PE,Online
+2024-04-07,Chocolate Com Caramelo,9,25.42,228.78,ChocoFranq 7,Dr. Ryan Caldeira,DF,Franquia
+2024-05-13,Chocolate Meio Amargo,10,32.85,328.5,ChocoFranq 6,Juliana Pinto,CE,Franquia
+2024-04-02,Chocolate Trufado,1,46.07,46.07,ChocoFranq 9,Juliana Farias,SP,Franquia
+2024-03-03,Chocolate Com Avelã,5,37.84,189.2,ChocoFranq 4,Guilherme Porto,CE,Online
+2024-02-01,Chocolate Meio Amargo,11,33.45,367.95,ChocoFranq 10,Olivia da Mota,PR,Franquia
+2023-10-21,Chocolate Com Avelã,18,22.27,400.86,ChocoFranq 9,Fernando Silva,SC,Franquia
+2024-01-20,Chocolate Com Amêndoas,10,24.27,242.7,ChocoFranq 9,Isaac Costa,BA,Franquia
+2024-01-01,Chocolate Zero Açúcar,15,6.87,103.05,ChocoFranq 1,Isadora Moura,PE,Franquia
+2024-02-15,Chocolate Com Menta,19,28.72,545.68,ChocoFranq 7,Calebe Freitas,SP,Franquia
+2024-01-03,Chocolate Com Menta,10,14.5,145.0,ChocoFranq 2,Rafaela Peixoto,CE,Online
+2023-10-21,Chocolate Recheado,7,34.19,239.33,ChocoFranq 2,Davi Lucca da Cunha,DF,Online
+2023-03-01,Chocolate Com Menta,15,16.93,253.95,ChocoFranq 8,Calebe Freitas,MG,Online
+2023-09-27,Chocolate Com Avelã,20,35.6,712.0,ChocoFranq 3,Calebe Freitas,DF,Online
+2023-02-12,Chocolate Com Avelã,7,10.9,76.3,ChocoFranq 6,Ana Júlia Santos,BA,Franquia
+2023-06-05,Chocolate 70% Cacau,1,24.0,24.0,ChocoFranq 1,Nicolas Rezende,PR,Online
+2024-02-29,Chocolate Com Castanha,14,28.73,402.22,ChocoFranq 5,Luiz Gustavo Carvalho,DF,Franquia
+2023-10-06,Chocolate Branco,8,39.48,315.84,ChocoFranq 7,Rafaela Peixoto,SP,Online
+2023-12-30,Chocolate Ao Leite,8,37.6,300.8,ChocoFranq 6,João Gabriel Cavalcanti,MG,Franquia
+2024-04-16,Chocolate Ao Leite,13,48.2,626.6,ChocoFranq 2,João Gabriel Cavalcanti,MG,Franquia
+2023-10-12,Chocolate Com Castanha,15,43.18,647.7,ChocoFranq 4,Olivia da Mota,MG,Online
+2023-05-25,Chocolate Com Menta,18,30.86,555.48,ChocoFranq 10,Davi Lucas Costa,CE,Franquia
+2023-11-23,Chocolate 70% Cacau,16,19.16,306.56,ChocoFranq 4,Dr. Ryan Caldeira,PR,Franquia
+2023-04-21,Chocolate Com Avelã,5,41.88,209.4,ChocoFranq 1,Dr. Enzo Gabriel Fogaça,SC,Online
+2023-06-25,Chocolate Vegano,5,10.56,52.8,ChocoFranq 8,Davi Lucca da Cunha,SC,Online
+2023-10-27,Chocolate Ao Leite,19,47.3,898.7,ChocoFranq 5,Davi Lucca da Cunha,BA,Online
+2023-05-22,Chocolate Vegano,11,22.03,242.33,ChocoFranq 7,Isadora Moura,PR,Franquia
+2023-04-12,Chocolate Recheado,16,18.86,301.76,ChocoFranq 2,Leandro Oliveira,PR,Online
+2023-03-03,Chocolate Vegano,3,46.76,140.28,ChocoFranq 10,Fernando Silva,RS,Franquia
+2024-05-06,Chocolate Com Morango,17,26.6,452.2,ChocoFranq 7,Nicolas Rezende,MG,Franquia
+2023-10-15,Chocolate Com Amêndoas,2,16.46,32.92,ChocoFranq 4,Alexandre Freitas,RJ,Online
+2023-07-17,Chocolate Com Morango,1,5.55,5.55,ChocoFranq 6,João Gabriel Cavalcanti,DF,Franquia
+2023-01-16,Chocolate Ao Leite,4,18.34,73.36,ChocoFranq 6,Davi Lucas Costa,RJ,Online
+2023-02-09,Chocolate Diet,12,49.23,590.76,ChocoFranq 10,Nicolas Rezende,MG,Franquia
+2023-08-26,Chocolate Ao Leite,15,41.72,625.8,ChocoFranq 4,Leandro Moreira,BA,Online
+2023-04-14,Chocolate Com Caramelo,20,10.31,206.2,ChocoFranq 2,Catarina Farias,RJ,Online
+2024-02-08,Chocolate Vegano,6,33.01,198.06,ChocoFranq 6,Davi Lucas Costa,BA,Online
+2024-03-09,Chocolate Diet,8,7.66,61.28,ChocoFranq 9,Alexandre Freitas,DF,Franquia
+2023-07-12,Chocolate Com Morango,9,34.63,311.67,ChocoFranq 9,Nicolas Rezende,BA,Franquia
+2024-05-09,Chocolate Com Menta,18,46.58,838.44,ChocoFranq 2,Dr. Ryan Caldeira,PR,Online
+2023-04-14,Chocolate Ao Leite,12,6.26,75.12,ChocoFranq 8,João Gabriel Cavalcanti,BA,Franquia
+2023-10-14,Chocolate Com Menta,6,13.16,78.96,ChocoFranq 8,Catarina Farias,SP,Franquia
+2023-05-21,Chocolate Diet,1,17.51,17.51,ChocoFranq 2,Marcela Dias,RS,Franquia
+2023-12-29,Chocolate Zero Açúcar,7,5.92,41.44,ChocoFranq 10,Kamilly Sales,RJ,Franquia
+2023-07-28,Chocolate Branco,17,11.57,196.69,ChocoFranq 6,Calebe Freitas,RS,Online
+2023-11-30,Chocolate Trufado,9,12.28,110.52,ChocoFranq 9,Lorenzo Silva,PR,Online
+2024-01-20,Chocolate Diet,16,24.62,393.92,ChocoFranq 2,Maria Fernanda Costa,RS,Franquia
+2023-02-10,Chocolate Recheado,3,24.83,74.49,ChocoFranq 10,Leandro Oliveira,RS,Franquia
+2024-02-17,Chocolate Com Morango,17,26.91,457.47,ChocoFranq 2,Lorenzo Silva,BA,Online
+2023-04-16,Chocolate Zero Açúcar,10,48.52,485.2,ChocoFranq 9,Luiz Gustavo Carvalho,PE,Franquia
+2023-09-26,Chocolate Recheado,6,18.22,109.32,ChocoFranq 7,Nicolas Rezende,DF,Online
+2024-01-08,Chocolate Com Castanha,3,48.37,145.11,ChocoFranq 1,Luiz Gustavo Carvalho,DF,Franquia
+2023-11-08,Chocolate Com Menta,5,39.97,199.85,ChocoFranq 7,Valentina Teixeira,MG,Franquia
+2023-02-26,Chocolate Diet,15,23.94,359.1,ChocoFranq 3,João Gabriel Cavalcanti,MG,Franquia
+2023-05-25,Chocolate Trufado,14,27.3,382.2,ChocoFranq 6,Leandro Oliveira,BA,Online
+2023-02-04,Chocolate Trufado,18,21.2,381.6,ChocoFranq 9,Guilherme Porto,CE,Franquia
+2023-01-01,Chocolate 70% Cacau,15,5.41,81.15,ChocoFranq 2,Nicole Rodrigues,RJ,Online
+2023-04-13,Chocolate Vegano,6,27.18,163.08,ChocoFranq 5,Davi Lucas Costa,SP,Franquia
+2023-01-07,Chocolate Com Castanha,14,39.7,555.8,ChocoFranq 5,Rafael Moura,BA,Online
+2024-03-02,Chocolate Trufado,19,29.56,561.64,ChocoFranq 1,Isaac Costa,SC,Franquia
+2023-05-12,Chocolate Recheado,10,26.24,262.4,ChocoFranq 7,Alexandre Freitas,CE,Franquia
+2023-05-09,Chocolate Com Morango,4,24.61,98.44,ChocoFranq 3,Henrique Araújo,MG,Franquia
+2023-10-08,Chocolate Zero Açúcar,11,14.21,156.31,ChocoFranq 6,Davi Lucca da Cunha,MG,Online
+2024-01-24,Chocolate Branco,19,14.75,280.25,ChocoFranq 1,Luiz Gustavo Carvalho,RJ,Online
+2023-06-12,Chocolate Trufado,4,24.08,96.32,ChocoFranq 7,Dr. Enzo Gabriel Fogaça,PR,Online
+2023-01-09,Chocolate Com Menta,9,14.96,134.64,ChocoFranq 5,Juliana Farias,BA,Online
+2024-03-17,Chocolate Com Castanha,19,28.98,550.62,ChocoFranq 6,Olivia da Mota,SC,Franquia
+2023-11-14,Chocolate Com Caramelo,9,28.84,259.56,ChocoFranq 9,Leandro Oliveira,RJ,Online
+2023-07-03,Chocolate Com Avelã,3,35.27,105.81,ChocoFranq 8,Henrique Araújo,BA,Online
+2023-03-31,Chocolate Trufado,2,38.1,76.2,ChocoFranq 6,Leandro Oliveira,SC,Online
+2023-01-10,Chocolate Trufado,9,38.57,347.13,ChocoFranq 4,Valentina Teixeira,PR,Online
+2023-10-14,Chocolate Meio Amargo,9,48.65,437.85,ChocoFranq 10,Guilherme Porto,SC,Online
+2023-01-24,Chocolate Com Menta,16,6.59,105.44,ChocoFranq 10,Marcela Dias,CE,Online
+2023-01-29,Chocolate Com Menta,4,47.62,190.48,ChocoFranq 2,Juliana Farias,SC,Franquia
+2023-11-08,Chocolate Meio Amargo,3,46.39,139.17,ChocoFranq 9,Kamilly Sales,SP,Online
+2023-05-01,Chocolate Com Castanha,18,38.74,697.32,ChocoFranq 10,Juliana Farias,SP,Franquia
+2023-03-04,Chocolate Trufado,15,34.59,518.85,ChocoFranq 8,Henrique Araújo,PR,Online
+2023-10-10,Chocolate Recheado,8,16.51,132.08,ChocoFranq 4,Luiz Gustavo Carvalho,RJ,Online
+2024-01-18,Chocolate Meio Amargo,8,24.02,192.16,ChocoFranq 10,Henrique Araújo,SC,Franquia
+2023-04-20,Chocolate Recheado,13,37.58,488.54,ChocoFranq 7,Calebe Freitas,DF,Online
+2023-06-09,Chocolate Ao Leite,18,41.39,745.02,ChocoFranq 5,Rafael Moura,SC,Online
+2023-01-03,Chocolate Ao Leite,12,15.48,185.76,ChocoFranq 4,Nicolas Rezende,MG,Franquia
+2024-03-17,Chocolate Diet,11,8.24,90.64,ChocoFranq 2,Olivia da Mota,DF,Franquia
+2023-06-12,Chocolate Com Avelã,14,17.03,238.42,ChocoFranq 8,Isadora Moura,MG,Online
+2024-02-12,Chocolate Com Castanha,19,23.59,448.21,ChocoFranq 10,Fernando Silva,DF,Franquia
+2023-05-11,Chocolate Diet,12,41.48,497.76,ChocoFranq 9,Maria Fernanda Costa,SC,Online
+2024-05-03,Chocolate Branco,4,48.39,193.56,ChocoFranq 4,Dr. Enzo Gabriel Fogaça,PR,Online
+2023-03-12,Chocolate Recheado,2,35.0,70.0,ChocoFranq 7,Isadora Moura,PR,Online
+2023-04-06,Chocolate Ao Leite,17,13.24,225.08,ChocoFranq 3,Marcela Dias,CE,Franquia
+2024-01-18,Chocolate Ao Leite,12,9.72,116.64,ChocoFranq 5,Rafaela Peixoto,SC,Franquia
+2024-04-20,Chocolate Com Castanha,11,48.87,537.57,ChocoFranq 5,Ana Júlia Santos,MG,Online
+2023-05-08,Chocolate Trufado,10,7.37,73.7,ChocoFranq 3,João Gabriel Cavalcanti,RS,Online
+2023-11-03,Chocolate Diet,2,37.6,75.2,ChocoFranq 8,Rafaela Peixoto,MG,Franquia
+2024-02-01,Chocolate Com Menta,17,44.2,751.4,ChocoFranq 9,Juliana Pinto,PR,Franquia
+2023-11-18,Chocolate Zero Açúcar,5,27.79,138.95,ChocoFranq 5,Isadora Moura,PE,Franquia
+2023-05-07,Chocolate Recheado,10,49.74,497.4,ChocoFranq 4,Calebe Freitas,PR,Franquia
+2024-04-24,Chocolate Vegano,7,49.36,345.52,ChocoFranq 3,Valentina Teixeira,SC,Online
+2024-03-29,Chocolate Com Morango,11,21.52,236.72,ChocoFranq 5,Rafael Moura,PE,Franquia
+2023-04-24,Chocolate Meio Amargo,18,24.76,445.68,ChocoFranq 3,Leandro Oliveira,SP,Franquia
+2023-12-03,Chocolate Com Amêndoas,6,33.13,198.78,ChocoFranq 5,Henrique Araújo,SC,Franquia
+2023-08-28,Chocolate Diet,11,40.74,448.14,ChocoFranq 4,Ana Júlia Santos,SC,Franquia
+2023-10-07,Chocolate Trufado,14,27.12,379.68,ChocoFranq 9,Isadora Moura,SC,Franquia
+2023-10-15,Chocolate Vegano,7,41.68,291.76,ChocoFranq 7,Valentina Teixeira,CE,Online
+2023-02-16,Chocolate Meio Amargo,5,28.79,143.95,ChocoFranq 1,Catarina Farias,SC,Online
+2023-09-25,Chocolate Com Caramelo,15,29.34,440.1,ChocoFranq 1,Sr. Breno Silva,RJ,Online
+2023-01-04,Chocolate Ao Leite,6,15.0,90.0,ChocoFranq 1,Isaac Costa,RS,Online
+2023-12-02,Chocolate Branco,10,35.23,352.3,ChocoFranq 10,Fernando Silva,PE,Online
+2024-04-12,Chocolate Com Morango,10,10.38,103.8,ChocoFranq 6,Marcela Dias,PR,Online
+2023-04-14,Chocolate Com Morango,20,20.3,406.0,ChocoFranq 9,Lorenzo Silva,SP,Online
+2023-04-13,Chocolate Com Morango,7,30.36,212.52,ChocoFranq 7,Ana Júlia Santos,RS,Online
+2024-03-21,Chocolate Meio Amargo,15,20.55,308.25,ChocoFranq 7,Dr. Ryan Caldeira,SC,Franquia
+2023-03-29,Chocolate Com Morango,4,43.3,173.2,ChocoFranq 10,Isadora Moura,DF,Online
+2023-12-27,Chocolate Trufado,6,8.67,52.02,ChocoFranq 9,João Gabriel Cavalcanti,BA,Online
+2024-05-13,Chocolate Com Caramelo,14,37.62,526.68,ChocoFranq 1,Juliana Pinto,BA,Franquia
+2023-03-07,Chocolate Com Caramelo,7,26.74,187.18,ChocoFranq 3,Juliana Pinto,BA,Online
+2023-03-04,Chocolate Recheado,18,20.89,376.02,ChocoFranq 6,Sr. Breno Silva,SC,Franquia
+2023-08-22,Chocolate Diet,3,29.59,88.77,ChocoFranq 9,Lorenzo Silva,RJ,Franquia
+2023-11-10,Chocolate Ao Leite,13,25.63,333.19,ChocoFranq 6,Isadora Moura,RS,Franquia
+2023-11-17,Chocolate Branco,15,23.52,352.8,ChocoFranq 1,Ana Júlia Santos,BA,Franquia
+2024-02-04,Chocolate Recheado,16,11.22,179.52,ChocoFranq 1,Fernando Silva,SP,Online
+2023-03-10,Chocolate Com Morango,10,10.04,100.4,ChocoFranq 8,Luiz Gustavo Carvalho,DF,Online
+2023-06-17,Chocolate Meio Amargo,9,10.77,96.93,ChocoFranq 10,Maria Fernanda Costa,RS,Online
+2023-03-27,Chocolate 70% Cacau,9,22.08,198.72,ChocoFranq 9,Olivia da Mota,DF,Franquia
+2024-04-25,Chocolate Recheado,3,41.79,125.37,ChocoFranq 5,Kamilly Sales,RS,Franquia
+2023-09-20,Chocolate Com Caramelo,7,11.5,80.5,ChocoFranq 2,Juliana Farias,CE,Online
+2024-01-16,Chocolate Com Amêndoas,5,43.16,215.8,ChocoFranq 4,Rafaela Peixoto,CE,Online
+2023-09-19,Chocolate Com Caramelo,6,49.68,298.08,ChocoFranq 5,Maria Fernanda Costa,RJ,Online
+2023-12-18,Chocolate Recheado,1,12.95,12.95,ChocoFranq 9,Lorenzo Silva,BA,Franquia
+2023-06-24,Chocolate Com Caramelo,20,8.23,164.6,ChocoFranq 5,Catarina Farias,SP,Franquia
+2023-07-27,Chocolate Meio Amargo,6,40.52,243.12,ChocoFranq 3,Alexandre Freitas,PE,Franquia
+2024-03-26,Chocolate Zero Açúcar,8,21.36,170.88,ChocoFranq 10,Rafaela Peixoto,MG,Online
+2024-01-30,Chocolate Branco,10,37.39,373.9,ChocoFranq 1,Henrique Araújo,MG,Franquia
+2024-01-19,Chocolate Branco,6,18.53,111.18,ChocoFranq 3,Dr. Enzo Gabriel Fogaça,SC,Franquia
+2023-08-19,Chocolate Trufado,16,29.51,472.16,ChocoFranq 8,Sr. Breno Silva,BA,Franquia
+2023-12-18,Chocolate Com Castanha,11,10.36,113.96,ChocoFranq 2,Dr. Ryan Caldeira,SP,Franquia
+2023-02-14,Chocolate Branco,19,5.57,105.83,ChocoFranq 3,Henrique Araújo,RS,Online
+2023-11-16,Chocolate Branco,5,10.73,53.65,ChocoFranq 10,Catarina Farias,CE,Online
+2023-04-12,Chocolate Recheado,17,47.68,810.56,ChocoFranq 6,Calebe Freitas,MG,Franquia
+2024-04-13,Chocolate Branco,6,48.83,292.98,ChocoFranq 2,Luiz Gustavo Carvalho,PE,Franquia
+2023-03-30,Chocolate Com Caramelo,18,16.26,292.68,ChocoFranq 10,Ana Júlia Santos,CE,Franquia
+2024-03-06,Chocolate Com Morango,18,41.9,754.2,ChocoFranq 10,Olivia da Mota,MG,Franquia
+2024-05-08,Chocolate Com Morango,16,25.45,407.2,ChocoFranq 5,Lorenzo Silva,PR,Franquia
+2023-06-24,Chocolate Diet,4,16.52,66.08,ChocoFranq 6,Alexandre Freitas,RS,Online
+2023-11-03,Chocolate Ao Leite,12,22.31,267.72,ChocoFranq 4,Marcela Dias,CE,Franquia
+2023-09-09,Chocolate Vegano,1,9.05,9.05,ChocoFranq 10,Leandro Moreira,PR,Online
+2023-05-15,Chocolate Branco,12,37.22,446.64,ChocoFranq 7,Leandro Moreira,CE,Online
+2023-01-20,Chocolate Diet,15,19.27,289.05,ChocoFranq 3,Rafaela Peixoto,PE,Franquia
+2024-02-17,Chocolate Com Caramelo,14,16.01,224.14,ChocoFranq 8,Marcela Dias,DF,Online
+2023-03-25,Chocolate Diet,14,37.48,524.72,ChocoFranq 2,Isaac Costa,MG,Franquia
+2023-03-10,Chocolate Ao Leite,20,25.41,508.2,ChocoFranq 2,Leandro Oliveira,BA,Franquia
+2023-05-02,Chocolate Vegano,7,11.22,78.54,ChocoFranq 10,Maria Fernanda Costa,RJ,Online
+2023-08-19,Chocolate Com Avelã,16,27.13,434.08,ChocoFranq 2,Davi Lucca da Cunha,PE,Online
+2024-02-03,Chocolate Com Morango,5,28.65,143.25,ChocoFranq 3,Isaac Costa,DF,Online
+2023-01-19,Chocolate Recheado,10,37.9,379.0,ChocoFranq 5,Isadora Moura,BA,Franquia
+2023-04-19,Chocolate Diet,6,16.02,96.12,ChocoFranq 7,Catarina Farias,RS,Online
+2023-05-28,Chocolate Com Avelã,20,49.16,983.2,ChocoFranq 8,Leandro Moreira,PR,Franquia
+2023-03-28,Chocolate Com Avelã,4,7.91,31.64,ChocoFranq 2,Alexandre Freitas,RS,Franquia
+2023-06-06,Chocolate Com Caramelo,11,16.0,176.0,ChocoFranq 1,Kamilly Sales,SP,Franquia
+2023-04-15,Chocolate Com Morango,3,36.8,110.4,ChocoFranq 9,Leandro Moreira,RJ,Franquia
+2023-08-30,Chocolate Ao Leite,10,41.49,414.9,ChocoFranq 3,Sr. Breno Silva,DF,Online
+2023-05-11,Chocolate Meio Amargo,17,34.2,581.4,ChocoFranq 8,Alexandre Freitas,PR,Franquia
+2023-10-26,Chocolate Ao Leite,12,16.17,194.04,ChocoFranq 8,Nicolas Rezende,BA,Online
+2023-02-14,Chocolate Branco,20,31.5,630.0,ChocoFranq 3,Henrique Araújo,RJ,Online
+2023-07-25,Chocolate Com Morango,6,49.31,295.86,ChocoFranq 4,Davi Lucca da Cunha,SC,Online
+2023-12-04,Chocolate Meio Amargo,20,22.58,451.6,ChocoFranq 3,Nicole Rodrigues,PE,Franquia
+2023-10-06,Chocolate Recheado,6,35.61,213.66,ChocoFranq 8,Catarina Farias,PR,Franquia
+2023-04-21,Chocolate Com Avelã,10,8.34,83.4,ChocoFranq 2,Rafael Moura,BA,Franquia
+2023-12-10,Chocolate Com Caramelo,11,35.08,385.88,ChocoFranq 1,Isadora Moura,DF,Franquia
+2023-03-24,Chocolate Com Avelã,7,16.74,117.18,ChocoFranq 8,Davi Lucas Costa,RS,Franquia
+2024-04-09,Chocolate Com Caramelo,11,13.05,143.55,ChocoFranq 9,Leandro Moreira,CE,Franquia
+2024-04-20,Chocolate Branco,1,41.88,41.88,ChocoFranq 6,Isaac Costa,BA,Franquia
+2024-05-08,Chocolate Com Castanha,14,30.98,433.72,ChocoFranq 8,Kamilly Sales,DF,Online
+2023-03-13,Chocolate 70% Cacau,1,17.84,17.84,ChocoFranq 7,Catarina Farias,RS,Franquia
+2024-02-09,Chocolate Vegano,19,40.05,760.95,ChocoFranq 3,Kamilly Sales,SC,Online
+2023-03-28,Chocolate Com Caramelo,11,26.61,292.71,ChocoFranq 7,Calebe Freitas,RJ,Franquia
+2023-02-04,Chocolate Com Amêndoas,5,34.89,174.45,ChocoFranq 6,Rafaela Peixoto,PR,Online
+2023-07-09,Chocolate Diet,18,30.68,552.24,ChocoFranq 1,Ana Júlia Santos,DF,Online
+2024-01-15,Chocolate Branco,9,26.78,241.02,ChocoFranq 9,Lorenzo Silva,SP,Franquia
+2023-08-25,Chocolate 70% Cacau,11,27.15,298.65,ChocoFranq 1,Alexandre Freitas,CE,Online
+2024-03-30,Chocolate Com Caramelo,1,16.07,16.07,ChocoFranq 8,Fernando Silva,SP,Online
+2023-04-21,Chocolate Ao Leite,2,48.37,96.74,ChocoFranq 6,Olivia da Mota,PR,Franquia
+2023-01-02,Chocolate Com Menta,19,34.9,663.1,ChocoFranq 2,Rafaela Peixoto,MG,Online
+2023-02-19,Chocolate Com Avelã,12,17.23,206.76,ChocoFranq 5,Isaac Costa,SP,Franquia
+2024-02-10,Chocolate Com Avelã,5,45.83,229.15,ChocoFranq 8,Dr. Enzo Gabriel Fogaça,PR,Franquia
+2023-06-05,Chocolate Recheado,3,32.27,96.81,ChocoFranq 9,Lorenzo Silva,RJ,Online
+2024-04-08,Chocolate Branco,9,19.49,175.41,ChocoFranq 3,Rafael Moura,PE,Franquia
+2023-08-14,Chocolate 70% Cacau,14,14.52,203.28,ChocoFranq 4,Dr. Enzo Gabriel Fogaça,PR,Online
+2024-03-07,Chocolate Com Castanha,20,7.86,157.2,ChocoFranq 5,Calebe Freitas,SP,Online
+2023-12-07,Chocolate Com Castanha,3,25.89,77.67,ChocoFranq 5,Luiz Gustavo Carvalho,SC,Franquia
+2024-01-16,Chocolate Branco,3,44.51,133.53,ChocoFranq 3,Isaac Costa,PE,Franquia
+2023-07-17,Chocolate Vegano,10,41.22,412.2,ChocoFranq 7,Valentina Teixeira,CE,Online
+2023-02-18,Chocolate Branco,15,48.27,724.05,ChocoFranq 1,Leandro Moreira,SC,Franquia
+2024-03-05,Chocolate Ao Leite,3,46.46,139.38,ChocoFranq 3,Davi Lucca da Cunha,DF,Franquia
+2024-04-08,Chocolate Com Amêndoas,11,18.37,202.07,ChocoFranq 8,Marcela Dias,SC,Franquia
+2023-10-07,Chocolate Com Amêndoas,10,10.71,107.1,ChocoFranq 2,Alexandre Freitas,PE,Online
+2023-08-31,Chocolate Com Avelã,16,31.5,504.0,ChocoFranq 5,Ana Júlia Santos,PE,Franquia
+2023-12-13,Chocolate Com Morango,16,49.89,798.24,ChocoFranq 5,Leandro Moreira,PE,Online
+2023-11-06,Chocolate Recheado,5,5.9,29.5,ChocoFranq 1,Isadora Moura,MG,Franquia
+2024-05-09,Chocolate Com Avelã,16,9.2,147.2,ChocoFranq 9,Fernando Silva,SC,Online
+2024-01-30,Chocolate Com Menta,16,8.05,128.8,ChocoFranq 3,Leandro Moreira,BA,Franquia
+2023-09-13,Chocolate Com Avelã,12,24.92,299.04,ChocoFranq 10,Fernando Silva,SC,Online
+2023-09-14,Chocolate Vegano,16,36.58,585.28,ChocoFranq 3,Guilherme Porto,BA,Online
+2023-02-23,Chocolate Diet,17,46.08,783.36,ChocoFranq 10,Isadora Moura,BA,Franquia
+2023-10-14,Chocolate Diet,18,16.56,298.08,ChocoFranq 6,Kamilly Sales,SC,Online
+2023-02-06,Chocolate Zero Açúcar,7,19.64,137.48,ChocoFranq 8,Nicole Rodrigues,RS,Franquia
+2023-04-12,Chocolate Recheado,11,42.95,472.45,ChocoFranq 4,Leandro Moreira,MG,Online
+2023-12-31,Chocolate 70% Cacau,7,41.64,291.48,ChocoFranq 4,Ana Júlia Santos,SC,Online
+2023-02-20,Chocolate Trufado,19,22.07,419.33,ChocoFranq 9,Luiz Gustavo Carvalho,RJ,Franquia
+2023-10-29,Chocolate Trufado,3,28.5,85.5,ChocoFranq 8,Dr. Ryan Caldeira,CE,Online
+2023-11-27,Chocolate Com Morango,3,11.53,34.59,ChocoFranq 8,Davi Lucca da Cunha,RJ,Online
+2024-03-05,Chocolate 70% Cacau,19,32.64,620.16,ChocoFranq 9,Juliana Farias,PR,Franquia
+2023-06-29,Chocolate Vegano,19,7.78,147.82,ChocoFranq 9,Kamilly Sales,PR,Online
+2023-09-16,Chocolate Com Castanha,15,36.67,550.05,ChocoFranq 5,Marcela Dias,PR,Franquia
+2024-01-18,Chocolate Meio Amargo,20,23.39,467.8,ChocoFranq 7,Leandro Moreira,RS,Franquia
+2023-12-31,Chocolate Com Caramelo,12,40.02,480.24,ChocoFranq 10,João Gabriel Cavalcanti,RJ,Online
+2023-02-08,Chocolate Meio Amargo,15,19.48,292.2,ChocoFranq 6,Guilherme Porto,CE,Online
+2023-08-07,Chocolate Recheado,11,44.01,484.11,ChocoFranq 4,Marcela Dias,RS,Online
+2023-05-17,Chocolate 70% Cacau,9,6.17,55.53,ChocoFranq 3,Valentina Teixeira,RJ,Online
+2023-06-30,Chocolate Com Amêndoas,13,23.53,305.89,ChocoFranq 6,Leandro Moreira,DF,Online
+2024-04-04,Chocolate Recheado,4,36.25,145.0,ChocoFranq 4,Lorenzo Silva,RS,Online
+2024-04-25,Chocolate Com Avelã,15,17.59,263.85,ChocoFranq 2,Nicolas Rezende,CE,Online
+2023-02-25,Chocolate Com Castanha,18,12.52,225.36,ChocoFranq 10,Juliana Pinto,RJ,Franquia
+2023-12-23,Chocolate Com Amêndoas,11,7.62,83.82,ChocoFranq 6,Juliana Farias,MG,Franquia
+2023-03-01,Chocolate Trufado,17,10.74,182.58,ChocoFranq 4,Alexandre Freitas,SP,Online
+2023-08-23,Chocolate Com Castanha,9,10.84,97.56,ChocoFranq 5,Sr. Breno Silva,CE,Online
+2023-09-24,Chocolate Recheado,4,30.79,123.16,ChocoFranq 5,Valentina Teixeira,SP,Online
+2023-03-26,Chocolate Branco,20,39.01,780.2,ChocoFranq 10,Juliana Farias,RS,Franquia
+2024-03-03,Chocolate Vegano,2,45.58,91.16,ChocoFranq 3,Rafael Moura,RJ,Online
+2023-11-27,Chocolate Branco,19,20.79,395.01,ChocoFranq 1,Catarina Farias,SC,Franquia
+2023-04-03,Chocolate Com Menta,6,23.44,140.64,ChocoFranq 7,Ana Júlia Santos,SC,Franquia
+2023-04-09,Chocolate Com Caramelo,3,17.18,51.54,ChocoFranq 10,Davi Lucas Costa,RS,Online
+2024-02-23,Chocolate Recheado,12,16.69,200.28,ChocoFranq 4,Rafaela Peixoto,CE,Franquia
+2023-07-24,Chocolate Com Morango,16,36.41,582.56,ChocoFranq 9,Isaac Costa,CE,Franquia
+2023-08-01,Chocolate Meio Amargo,10,41.27,412.7,ChocoFranq 7,Nicolas Rezende,DF,Franquia
+2023-06-11,Chocolate Com Castanha,17,39.93,678.81,ChocoFranq 10,Davi Lucca da Cunha,PE,Franquia
+2023-12-25,Chocolate Com Morango,12,35.69,428.28,ChocoFranq 2,Leandro Oliveira,BA,Online
+2023-12-07,Chocolate Com Morango,14,14.83,207.62,ChocoFranq 3,Calebe Freitas,DF,Online
+2023-10-01,Chocolate Meio Amargo,5,39.96,199.8,ChocoFranq 9,Dr. Enzo Gabriel Fogaça,RS,Franquia
+2023-06-07,Chocolate Meio Amargo,18,40.19,723.42,ChocoFranq 4,Davi Lucca da Cunha,MG,Online
+2023-11-24,Chocolate Branco,6,47.13,282.78,ChocoFranq 6,Lorenzo Silva,RS,Online
+2024-02-15,Chocolate Recheado,7,47.61,333.27,ChocoFranq 8,Olivia da Mota,RJ,Online
+2023-04-25,Chocolate Zero Açúcar,3,30.23,90.69,ChocoFranq 5,Henrique Araújo,DF,Franquia
+2024-04-18,Chocolate 70% Cacau,11,27.09,297.99,ChocoFranq 9,Valentina Teixeira,CE,Franquia
+2023-12-28,Chocolate Com Menta,15,47.38,710.7,ChocoFranq 8,Guilherme Porto,CE,Online
+2023-06-22,Chocolate 70% Cacau,18,33.97,611.46,ChocoFranq 8,Valentina Teixeira,SP,Franquia
+2023-11-14,Chocolate Com Menta,19,37.47,711.93,ChocoFranq 6,Henrique Araújo,SC,Franquia
+2024-05-07,Chocolate Com Castanha,15,5.52,82.8,ChocoFranq 7,Kamilly Sales,CE,Online
+2024-03-24,Chocolate 70% Cacau,14,7.23,101.22,ChocoFranq 8,Davi Lucca da Cunha,DF,Online
+2023-10-02,Chocolate Com Caramelo,7,25.84,180.88,ChocoFranq 10,Dr. Ryan Caldeira,SC,Franquia
+2024-03-31,Chocolate Zero Açúcar,18,35.49,638.82,ChocoFranq 6,Leandro Moreira,SC,Online
+2023-12-17,Chocolate Com Avelã,7,49.94,349.58,ChocoFranq 7,Isadora Moura,SP,Franquia
+2023-04-11,Chocolate Com Avelã,17,45.91,780.47,ChocoFranq 7,Henrique Araújo,SC,Online
+2023-07-16,Chocolate Com Castanha,3,44.68,134.04,ChocoFranq 7,Calebe Freitas,PE,Online
+2024-02-23,Chocolate Diet,17,30.85,524.45,ChocoFranq 9,Nicolas Rezende,RJ,Franquia
+2024-01-15,Chocolate Trufado,10,42.97,429.7,ChocoFranq 1,Maria Fernanda Costa,RS,Franquia
+2024-03-09,Chocolate Com Menta,17,15.01,255.17,ChocoFranq 10,Guilherme Porto,SP,Online
+2023-09-27,Chocolate Diet,4,45.95,183.8,ChocoFranq 2,Kamilly Sales,CE,Online
+2023-10-16,Chocolate Com Menta,12,23.05,276.6,ChocoFranq 8,Rafael Moura,RS,Online
+2023-08-14,Chocolate Meio Amargo,19,18.31,347.89,ChocoFranq 4,Dr. Enzo Gabriel Fogaça,SC,Franquia
+2023-07-25,Chocolate Com Amêndoas,10,7.46,74.6,ChocoFranq 5,Kamilly Sales,PE,Online
+2024-02-21,Chocolate Recheado,12,49.04,588.48,ChocoFranq 8,Luiz Gustavo Carvalho,MG,Franquia
+2023-01-18,Chocolate Recheado,3,43.0,129.0,ChocoFranq 1,Olivia da Mota,MG,Franquia
+2023-06-08,Chocolate Meio Amargo,2,25.52,51.04,ChocoFranq 2,Lorenzo Silva,DF,Online
+2023-09-24,Chocolate Trufado,15,30.17,452.55,ChocoFranq 3,Alexandre Freitas,BA,Online
+2023-08-09,Chocolate Com Morango,13,34.72,451.36,ChocoFranq 5,Isadora Moura,PR,Online
+2024-04-06,Chocolate Recheado,5,14.51,72.55,ChocoFranq 4,Davi Lucas Costa,PE,Online
+2023-08-07,Chocolate Com Caramelo,8,27.0,216.0,ChocoFranq 9,Lorenzo Silva,BA,Franquia
+2024-04-08,Chocolate Vegano,5,29.56,147.8,ChocoFranq 6,Calebe Freitas,DF,Online
+2023-04-29,Chocolate Branco,16,9.56,152.96,ChocoFranq 8,Davi Lucca da Cunha,SP,Online
+2024-04-16,Chocolate Zero Açúcar,9,12.17,109.53,ChocoFranq 5,Lorenzo Silva,SC,Franquia
+2023-02-20,Chocolate Meio Amargo,17,7.33,124.61,ChocoFranq 6,Olivia da Mota,CE,Franquia
+2023-12-08,Chocolate Diet,1,5.61,5.61,ChocoFranq 1,Dr. Enzo Gabriel Fogaça,MG,Franquia
+2023-12-05,Chocolate Diet,8,13.98,111.84,ChocoFranq 2,Leandro Moreira,PR,Online
+2023-09-03,Chocolate Zero Açúcar,9,30.0,270.0,ChocoFranq 10,Nicole Rodrigues,DF,Franquia
+2023-12-10,Chocolate Meio Amargo,17,47.59,809.03,ChocoFranq 2,Davi Lucas Costa,RJ,Online
+2023-01-09,Chocolate Diet,16,29.82,477.12,ChocoFranq 9,João Gabriel Cavalcanti,RS,Online
+2024-04-16,Chocolate Com Avelã,8,37.32,298.56,ChocoFranq 1,Marcela Dias,BA,Online
+2023-03-06,Chocolate Trufado,10,35.55,355.5,ChocoFranq 9,Isaac Costa,RJ,Franquia
+2023-07-05,Chocolate Zero Açúcar,2,27.81,55.62,ChocoFranq 1,Sr. Breno Silva,PE,Franquia
+2023-11-07,Chocolate Meio Amargo,16,14.16,226.56,ChocoFranq 2,Dr. Ryan Caldeira,PE,Online
+2023-10-27,Chocolate Com Amêndoas,17,22.31,379.27,ChocoFranq 9,Maria Fernanda Costa,DF,Online
+2023-12-17,Chocolate Zero Açúcar,9,49.12,442.08,ChocoFranq 3,Rafaela Peixoto,MG,Online
+2024-01-28,Chocolate Meio Amargo,19,34.76,660.44,ChocoFranq 6,Olivia da Mota,PR,Online
+2023-09-01,Chocolate Com Menta,15,38.7,580.5,ChocoFranq 7,Alexandre Freitas,MG,Franquia
+2023-09-23,Chocolate Ao Leite,6,25.96,155.76,ChocoFranq 8,Isaac Costa,DF,Online
+2023-05-08,Chocolate Recheado,2,48.23,96.46,ChocoFranq 8,Valentina Teixeira,PE,Online
+2023-04-02,Chocolate Diet,1,24.52,24.52,ChocoFranq 5,Rafaela Peixoto,MG,Franquia
+2023-07-09,Chocolate Meio Amargo,1,27.65,27.65,ChocoFranq 10,Catarina Farias,MG,Franquia
+2024-02-26,Chocolate Com Menta,4,16.32,65.28,ChocoFranq 8,Isadora Moura,PE,Online
+2023-01-10,Chocolate Com Castanha,2,13.75,27.5,ChocoFranq 7,Maria Fernanda Costa,SP,Online
+2023-05-08,Chocolate Recheado,18,34.36,618.48,ChocoFranq 7,Juliana Farias,SC,Online
+2024-03-18,Chocolate Recheado,19,27.31,518.89,ChocoFranq 8,Juliana Farias,DF,Online
+2023-09-19,Chocolate Meio Amargo,6,22.23,133.38,ChocoFranq 2,Fernando Silva,SP,Franquia
+2024-04-29,Chocolate Com Menta,2,25.12,50.24,ChocoFranq 9,Nicole Rodrigues,CE,Franquia
+2023-10-31,Chocolate Branco,13,40.92,531.96,ChocoFranq 3,Ana Júlia Santos,SP,Online
+2024-03-26,Chocolate Diet,6,41.52,249.12,ChocoFranq 6,Alexandre Freitas,SP,Franquia
+2023-01-27,Chocolate Zero Açúcar,7,11.37,79.59,ChocoFranq 3,Catarina Farias,RJ,Online
+2023-02-12,Chocolate Trufado,20,18.83,376.6,ChocoFranq 10,Rafael Moura,PR,Franquia
+2024-05-02,Chocolate Com Avelã,14,38.12,533.68,ChocoFranq 6,Davi Lucca da Cunha,SC,Online
+2023-04-08,Chocolate Branco,20,24.09,481.8,ChocoFranq 7,Guilherme Porto,RJ,Franquia
+2023-08-17,Chocolate Com Menta,8,46.25,370.0,ChocoFranq 6,João Gabriel Cavalcanti,DF,Franquia
+2024-02-09,Chocolate Com Avelã,7,7.11,49.77,ChocoFranq 9,Guilherme Porto,RJ,Online
+2023-11-19,Chocolate Trufado,13,39.2,509.6,ChocoFranq 10,Rafaela Peixoto,BA,Franquia
+2024-03-22,Chocolate Meio Amargo,7,20.53,143.71,ChocoFranq 9,Guilherme Porto,MG,Franquia
+2023-08-18,Chocolate Com Castanha,16,18.82,301.12,ChocoFranq 5,Marcela Dias,SC,Online
+2024-03-08,Chocolate Recheado,17,43.24,735.08,ChocoFranq 8,Calebe Freitas,DF,Franquia
+2023-10-12,Chocolate Com Avelã,7,32.8,229.6,ChocoFranq 5,Luiz Gustavo Carvalho,CE,Franquia
+2023-10-28,Chocolate Ao Leite,8,37.97,303.76,ChocoFranq 9,Guilherme Porto,PE,Online
+2023-10-02,Chocolate Com Caramelo,4,26.09,104.36,ChocoFranq 6,Isadora Moura,RS,Online
+2024-03-15,Chocolate Ao Leite,19,15.58,296.02,ChocoFranq 1,Rafaela Peixoto,CE,Franquia
+2024-01-05,Chocolate Com Menta,17,22.91,389.47,ChocoFranq 7,Olivia da Mota,PE,Online
+2023-05-15,Chocolate Branco,2,40.71,81.42,ChocoFranq 6,Olivia da Mota,PR,Online
+2024-02-24,Chocolate Zero Açúcar,4,5.05,20.2,ChocoFranq 3,Luiz Gustavo Carvalho,RJ,Franquia
+2023-08-01,Chocolate Branco,6,18.94,113.64,ChocoFranq 10,Davi Lucas Costa,DF,Franquia
+2023-06-18,Chocolate Com Caramelo,11,21.8,239.8,ChocoFranq 3,Guilherme Porto,CE,Franquia
+2023-08-14,Chocolate Com Amêndoas,16,18.12,289.92,ChocoFranq 2,Nicole Rodrigues,MG,Online
+2024-01-07,Chocolate Ao Leite,5,44.38,221.9,ChocoFranq 9,Juliana Farias,SC,Franquia
+2024-04-21,Chocolate Com Morango,17,19.75,335.75,ChocoFranq 10,João Gabriel Cavalcanti,SP,Online
+2023-12-29,Chocolate Trufado,3,47.86,143.58,ChocoFranq 5,Lorenzo Silva,MG,Online
+2023-07-25,Chocolate Zero Açúcar,4,42.27,169.08,ChocoFranq 2,Isaac Costa,SC,Online
+2024-03-26,Chocolate Meio Amargo,5,18.42,92.1,ChocoFranq 5,Luiz Gustavo Carvalho,CE,Franquia
+2023-05-30,Chocolate Recheado,6,36.83,220.98,ChocoFranq 1,Olivia da Mota,PE,Franquia
+2024-04-06,Chocolate Zero Açúcar,18,26.5,477.0,ChocoFranq 9,Maria Fernanda Costa,RJ,Online
+2023-06-21,Chocolate Diet,7,6.34,44.38,ChocoFranq 7,Calebe Freitas,SP,Franquia
+2024-03-19,Chocolate Recheado,1,13.33,13.33,ChocoFranq 4,Leandro Oliveira,MG,Online
+2024-04-14,Chocolate Com Caramelo,14,11.66,163.24,ChocoFranq 6,Dr. Enzo Gabriel Fogaça,SC,Franquia
+2023-08-21,Chocolate Zero Açúcar,16,42.23,675.68,ChocoFranq 9,Lorenzo Silva,MG,Online
+2023-10-05,Chocolate Ao Leite,6,25.59,153.54,ChocoFranq 6,Dr. Enzo Gabriel Fogaça,SP,Franquia
+2023-04-29,Chocolate Vegano,5,28.5,142.5,ChocoFranq 7,Juliana Pinto,CE,Franquia
+2023-07-30,Chocolate Com Amêndoas,11,16.86,185.46,ChocoFranq 6,Davi Lucas Costa,SC,Online
+2023-04-18,Chocolate Recheado,18,26.22,471.96,ChocoFranq 3,Lorenzo Silva,CE,Online
+2023-06-20,Chocolate Diet,6,19.26,115.56,ChocoFranq 10,Juliana Farias,CE,Franquia
+2024-05-13,Chocolate Diet,15,8.41,126.15,ChocoFranq 4,Nicole Rodrigues,CE,Franquia
+2023-06-24,Chocolate Com Castanha,13,9.1,118.3,ChocoFranq 5,João Gabriel Cavalcanti,MG,Franquia
+2023-11-21,Chocolate Vegano,4,13.33,53.32,ChocoFranq 5,Juliana Pinto,PE,Online
+2024-05-06,Chocolate 70% Cacau,10,7.78,77.8,ChocoFranq 5,Maria Fernanda Costa,RS,Franquia
+2023-11-29,Chocolate Com Amêndoas,14,11.33,158.62,ChocoFranq 10,Rafael Moura,PR,Online
+2023-05-10,Chocolate Com Caramelo,1,16.42,16.42,ChocoFranq 1,Dr. Ryan Caldeira,RS,Online
+2023-07-20,Chocolate Zero Açúcar,18,19.09,343.62,ChocoFranq 1,Nicolas Rezende,PE,Online
+2023-12-19,Chocolate Com Menta,11,34.85,383.35,ChocoFranq 10,Ana Júlia Santos,BA,Franquia
+2023-07-01,Chocolate 70% Cacau,2,32.11,64.22,ChocoFranq 5,Marcela Dias,DF,Franquia
+2023-02-11,Chocolate Com Morango,6,38.94,233.64,ChocoFranq 6,Leandro Moreira,MG,Online
+2023-06-09,Chocolate Com Morango,20,5.1,102.0,ChocoFranq 1,Ana Júlia Santos,CE,Online
+2023-02-28,Chocolate Vegano,5,15.61,78.05,ChocoFranq 7,Alexandre Freitas,RS,Franquia
+2024-03-23,Chocolate Diet,15,39.4,591.0,ChocoFranq 10,Dr. Enzo Gabriel Fogaça,MG,Online
+2023-02-06,Chocolate Com Avelã,5,41.22,206.1,ChocoFranq 10,Nicolas Rezende,DF,Franquia
+2023-05-11,Chocolate Zero Açúcar,20,44.78,895.6,ChocoFranq 6,Luiz Gustavo Carvalho,BA,Online
+2023-07-24,Chocolate Zero Açúcar,2,34.22,68.44,ChocoFranq 8,Alexandre Freitas,PE,Franquia
+2023-01-08,Chocolate Com Avelã,8,20.56,164.48,ChocoFranq 9,Calebe Freitas,RJ,Franquia
+2024-05-03,Chocolate Meio Amargo,13,42.62,554.06,ChocoFranq 1,Sr. Breno Silva,MG,Online
+2023-12-24,Chocolate Com Avelã,14,45.73,640.22,ChocoFranq 3,Guilherme Porto,PE,Franquia
+2024-04-18,Chocolate Com Amêndoas,6,28.48,170.88,ChocoFranq 10,Lorenzo Silva,RS,Online
+2023-11-30,Chocolate Com Avelã,14,20.47,286.58,ChocoFranq 4,Alexandre Freitas,RJ,Online
+2023-01-13,Chocolate Com Castanha,2,20.58,41.16,ChocoFranq 6,Davi Lucca da Cunha,PE,Franquia
+2024-05-08,Chocolate Trufado,12,15.81,189.72,ChocoFranq 4,Rafaela Peixoto,CE,Online
+2023-12-26,Chocolate Zero Açúcar,19,44.23,840.37,ChocoFranq 6,Fernando Silva,SP,Franquia
+2023-09-04,Chocolate Zero Açúcar,12,22.82,273.84,ChocoFranq 2,Kamilly Sales,BA,Franquia
+2024-02-25,Chocolate Ao Leite,9,34.93,314.37,ChocoFranq 2,Leandro Moreira,DF,Online
+2023-05-18,Chocolate Com Amêndoas,7,6.04,42.28,ChocoFranq 2,Juliana Farias,PE,Franquia
+2023-03-23,Chocolate Com Avelã,12,43.98,527.76,ChocoFranq 7,Olivia da Mota,BA,Online
+2023-11-17,Chocolate Com Morango,2,22.48,44.96,ChocoFranq 10,Kamilly Sales,BA,Online
+2024-02-03,Chocolate Zero Açúcar,16,13.3,212.8,ChocoFranq 1,Maria Fernanda Costa,CE,Franquia
+2023-09-16,Chocolate Meio Amargo,4,49.27,197.08,ChocoFranq 5,Henrique Araújo,SC,Franquia
+2023-02-13,Chocolate Branco,10,18.66,186.6,ChocoFranq 9,Calebe Freitas,PR,Online
+2023-06-30,Chocolate Vegano,18,39.17,705.06,ChocoFranq 9,Kamilly Sales,PR,Franquia
+2023-04-28,Chocolate Com Avelã,7,19.95,139.65,ChocoFranq 2,Isaac Costa,RS,Online
+2023-12-16,Chocolate Com Caramelo,11,28.87,317.57,ChocoFranq 5,Lorenzo Silva,RJ,Franquia
+2023-02-19,Chocolate Com Avelã,19,13.31,252.89,ChocoFranq 4,Davi Lucca da Cunha,PE,Online
+2024-04-22,Chocolate Trufado,8,39.6,316.8,ChocoFranq 1,Olivia da Mota,PR,Online
+2023-10-21,Chocolate Meio Amargo,14,8.65,121.1,ChocoFranq 7,Rafaela Peixoto,RJ,Online
+2023-04-18,Chocolate Branco,14,28.03,392.42,ChocoFranq 6,Olivia da Mota,SC,Franquia
+2023-07-27,Chocolate Branco,7,27.1,189.7,ChocoFranq 8,Catarina Farias,BA,Franquia
+2023-10-03,Chocolate Com Avelã,7,13.4,93.8,ChocoFranq 8,Isaac Costa,CE,Franquia
+2024-02-16,Chocolate Com Caramelo,1,47.03,47.03,ChocoFranq 3,Juliana Pinto,SP,Franquia
+2023-10-10,Chocolate Recheado,15,23.12,346.8,ChocoFranq 6,João Gabriel Cavalcanti,PR,Franquia
+2023-01-27,Chocolate Trufado,8,39.77,318.16,ChocoFranq 1,Dr. Ryan Caldeira,SP,Online
+2023-05-30,Chocolate 70% Cacau,14,10.94,153.16,ChocoFranq 8,Marcela Dias,PE,Online
+2023-10-01,Chocolate Trufado,3,17.29,51.87,ChocoFranq 5,Ana Júlia Santos,SP,Online
+2024-03-18,Chocolate Com Avelã,20,18.43,368.6,ChocoFranq 6,Sr. Breno Silva,RJ,Online
+2023-02-19,Chocolate 70% Cacau,14,35.44,496.16,ChocoFranq 3,Rafaela Peixoto,CE,Franquia
+2023-10-03,Chocolate Meio Amargo,7,34.92,244.44,ChocoFranq 6,Juliana Farias,SP,Online
+2023-07-27,Chocolate Diet,7,36.26,253.82,ChocoFranq 4,Luiz Gustavo Carvalho,BA,Franquia
+2023-09-12,Chocolate Branco,9,14.2,127.8,ChocoFranq 8,Ana Júlia Santos,PR,Online
+2023-09-07,Chocolate Trufado,2,29.74,59.48,ChocoFranq 10,João Gabriel Cavalcanti,CE,Online
+2023-10-05,Chocolate Branco,5,44.95,224.75,ChocoFranq 2,Isaac Costa,MG,Franquia
+2023-06-18,Chocolate Meio Amargo,19,41.63,790.97,ChocoFranq 7,Davi Lucas Costa,PE,Online
+2023-07-31,Chocolate Diet,1,19.11,19.11,ChocoFranq 7,Rafaela Peixoto,PR,Franquia
+2023-11-25,Chocolate Diet,20,40.97,819.4,ChocoFranq 5,Rafael Moura,PR,Franquia
+2023-06-22,Chocolate 70% Cacau,6,36.29,217.74,ChocoFranq 10,Kamilly Sales,RJ,Franquia
+2023-05-25,Chocolate 70% Cacau,3,20.77,62.31,ChocoFranq 8,Nicole Rodrigues,SP,Online
+2023-02-12,Chocolate Com Caramelo,16,35.41,566.56,ChocoFranq 7,Catarina Farias,DF,Franquia
+2023-08-29,Chocolate Com Amêndoas,11,34.96,384.56,ChocoFranq 9,Kamilly Sales,SC,Franquia
+2023-04-25,Chocolate 70% Cacau,14,30.79,431.06,ChocoFranq 5,Fernando Silva,DF,Online
+2024-02-13,Chocolate Ao Leite,8,24.19,193.52,ChocoFranq 7,Catarina Farias,BA,Online
+2023-09-15,Chocolate Trufado,14,32.91,460.74,ChocoFranq 7,Nicolas Rezende,PE,Franquia
+2023-12-08,Chocolate Ao Leite,4,23.33,93.32,ChocoFranq 9,Nicolas Rezende,MG,Online
+2024-05-06,Chocolate Trufado,6,41.6,249.6,ChocoFranq 6,João Gabriel Cavalcanti,PE,Franquia
+2023-06-21,Chocolate Com Amêndoas,7,22.81,159.67,ChocoFranq 1,Fernando Silva,DF,Franquia
+2023-04-18,Chocolate Branco,8,26.56,212.48,ChocoFranq 1,Rafael Moura,SC,Franquia
+2023-04-13,Chocolate Recheado,5,33.02,165.1,ChocoFranq 2,Nicole Rodrigues,MG,Franquia
+2024-04-20,Chocolate Vegano,19,9.06,172.14,ChocoFranq 5,Guilherme Porto,DF,Franquia
+2023-06-11,Chocolate Com Avelã,13,37.08,482.04,ChocoFranq 3,Davi Lucas Costa,DF,Online
+2024-01-28,Chocolate Branco,8,36.62,292.96,ChocoFranq 9,Dr. Ryan Caldeira,RJ,Franquia
+2023-04-12,Chocolate Vegano,11,36.31,399.41,ChocoFranq 10,Guilherme Porto,BA,Online
+2024-05-07,Chocolate Zero Açúcar,1,9.08,9.08,ChocoFranq 10,Luiz Gustavo Carvalho,RJ,Online
+2023-10-24,Chocolate 70% Cacau,13,16.48,214.24,ChocoFranq 5,Alexandre Freitas,MG,Online
+2023-01-29,Chocolate Com Morango,5,15.22,76.1,ChocoFranq 4,Rafaela Peixoto,MG,Online
+2023-07-15,Chocolate Recheado,7,18.53,129.71,ChocoFranq 1,Leandro Moreira,RJ,Franquia
+2023-11-03,Chocolate Com Morango,12,44.0,528.0,ChocoFranq 3,Leandro Oliveira,SC,Online
+2024-02-03,Chocolate Com Castanha,2,22.97,45.94,ChocoFranq 8,João Gabriel Cavalcanti,PE,Franquia
+2023-10-25,Chocolate Com Avelã,11,47.08,517.88,ChocoFranq 9,Lorenzo Silva,CE,Franquia
+2023-09-02,Chocolate Branco,19,17.47,331.93,ChocoFranq 8,Leandro Oliveira,SP,Franquia
+2023-06-18,Chocolate Com Castanha,19,42.81,813.39,ChocoFranq 9,Isaac Costa,SC,Franquia
+2024-02-05,Chocolate Vegano,20,5.47,109.4,ChocoFranq 2,Leandro Moreira,SC,Franquia
+2023-03-18,Chocolate Vegano,14,48.38,677.32,ChocoFranq 3,Lorenzo Silva,RJ,Franquia
+2023-01-17,Chocolate Com Menta,7,41.05,287.35,ChocoFranq 8,Guilherme Porto,BA,Franquia
+2024-01-15,Chocolate 70% Cacau,10,14.81,148.1,ChocoFranq 1,Isaac Costa,MG,Franquia
+2023-08-17,Chocolate Vegano,10,37.17,371.7,ChocoFranq 2,Fernando Silva,RJ,Online
+2024-04-04,Chocolate Diet,15,26.53,397.95,ChocoFranq 7,Marcela Dias,BA,Franquia
+2023-02-12,Chocolate Ao Leite,16,27.76,444.16,ChocoFranq 3,Isaac Costa,CE,Franquia
+2023-09-09,Chocolate Diet,5,17.25,86.25,ChocoFranq 9,Leandro Oliveira,BA,Online
+2023-07-22,Chocolate Com Caramelo,2,42.87,85.74,ChocoFranq 10,Rafael Moura,SP,Online
+2023-04-07,Chocolate Zero Açúcar,3,33.84,101.52,ChocoFranq 9,Leandro Oliveira,PR,Online
+2023-11-30,Chocolate Zero Açúcar,16,39.44,631.04,ChocoFranq 3,Rafaela Peixoto,SP,Online
+2023-04-03,Chocolate Com Menta,5,47.22,236.1,ChocoFranq 9,Maria Fernanda Costa,SC,Franquia
+2023-01-19,Chocolate Com Menta,5,47.68,238.4,ChocoFranq 2,Rafael Moura,PE,Online
+2023-12-23,Chocolate Com Amêndoas,6,10.11,60.66,ChocoFranq 4,Dr. Ryan Caldeira,DF,Online
+2023-02-05,Chocolate Diet,8,20.68,165.44,ChocoFranq 9,Valentina Teixeira,MG,Franquia
+2024-02-10,Chocolate 70% Cacau,17,10.11,171.87,ChocoFranq 7,Olivia da Mota,PR,Franquia
+2023-11-12,Chocolate Com Menta,12,7.51,90.12,ChocoFranq 3,Luiz Gustavo Carvalho,SP,Franquia
+2023-12-16,Chocolate Ao Leite,5,45.26,226.3,ChocoFranq 10,Henrique Araújo,MG,Online
+2023-03-31,Chocolate Vegano,16,39.93,638.88,ChocoFranq 9,Fernando Silva,SP,Franquia
+2023-11-22,Chocolate Vegano,2,27.87,55.74,ChocoFranq 8,Rafaela Peixoto,CE,Online
+2024-01-12,Chocolate Diet,12,39.38,472.56,ChocoFranq 2,Leandro Oliveira,CE,Franquia
+2023-04-05,Chocolate Com Amêndoas,19,28.42,539.98,ChocoFranq 3,Sr. Breno Silva,PR,Online
+2023-01-27,Chocolate Diet,16,22.03,352.48,ChocoFranq 10,Catarina Farias,RJ,Online
+2024-03-04,Chocolate Com Morango,18,18.74,337.32,ChocoFranq 5,Juliana Pinto,RJ,Franquia
+2024-01-12,Chocolate Ao Leite,13,24.93,324.09,ChocoFranq 3,Henrique Araújo,DF,Online
+2023-05-26,Chocolate Ao Leite,4,35.2,140.8,ChocoFranq 3,Guilherme Porto,RJ,Online
+2023-06-21,Chocolate Com Morango,19,28.75,546.25,ChocoFranq 3,Henrique Araújo,PE,Online
+2023-10-14,Chocolate Recheado,8,30.31,242.48,ChocoFranq 4,Isadora Moura,BA,Online
+2024-04-06,Chocolate Com Caramelo,10,18.07,180.7,ChocoFranq 3,Kamilly Sales,DF,Franquia
+2023-03-17,Chocolate 70% Cacau,11,42.01,462.11,ChocoFranq 7,Rafael Moura,PE,Online
+2023-02-15,Chocolate Diet,10,49.49,494.9,ChocoFranq 1,Maria Fernanda Costa,DF,Franquia
+2024-01-28,Chocolate Branco,17,5.94,100.98,ChocoFranq 4,Valentina Teixeira,SP,Franquia
+2023-03-25,Chocolate 70% Cacau,17,19.56,332.52,ChocoFranq 4,Juliana Farias,RS,Online
+2024-02-11,Chocolate Zero Açúcar,3,9.74,29.22,ChocoFranq 4,Alexandre Freitas,DF,Online
+2024-04-27,Chocolate Diet,11,21.23,233.53,ChocoFranq 6,Juliana Farias,RS,Franquia
+2023-12-25,Chocolate Com Avelã,3,37.97,113.91,ChocoFranq 9,Isadora Moura,SP,Online
+2024-01-31,Chocolate Com Castanha,13,7.7,100.1,ChocoFranq 8,Lorenzo Silva,BA,Franquia
+2024-01-23,Chocolate Recheado,18,16.95,305.1,ChocoFranq 10,Juliana Pinto,DF,Online
+2023-07-31,Chocolate Com Avelã,11,11.22,123.42,ChocoFranq 4,Alexandre Freitas,RS,Online
+2023-10-03,Chocolate Com Avelã,19,30.86,586.34,ChocoFranq 10,Sr. Breno Silva,BA,Online
+2023-05-12,Chocolate Zero Açúcar,7,14.08,98.56,ChocoFranq 7,Ana Júlia Santos,PE,Franquia
+2024-04-13,Chocolate Com Menta,18,8.72,156.96,ChocoFranq 7,Lorenzo Silva,SC,Franquia
+2023-08-10,Chocolate Com Caramelo,10,33.71,337.1,ChocoFranq 7,Luiz Gustavo Carvalho,PE,Online
+2023-02-08,Chocolate Meio Amargo,20,18.48,369.6,ChocoFranq 9,Catarina Farias,PR,Franquia
+2023-03-20,Chocolate Meio Amargo,11,17.98,197.78,ChocoFranq 1,Davi Lucas Costa,CE,Franquia
+2023-03-30,Chocolate 70% Cacau,19,9.07,172.33,ChocoFranq 9,Maria Fernanda Costa,SC,Online
+2023-07-10,Chocolate Com Avelã,10,48.16,481.6,ChocoFranq 4,Isadora Moura,DF,Franquia
+2023-09-10,Chocolate Com Avelã,13,10.36,134.68,ChocoFranq 5,Guilherme Porto,SC,Franquia
+2023-06-24,Chocolate Com Menta,1,45.53,45.53,ChocoFranq 8,Rafaela Peixoto,PE,Franquia
+2023-09-11,Chocolate Com Caramelo,19,20.36,386.84,ChocoFranq 8,Leandro Moreira,CE,Franquia
+2023-05-11,Chocolate Meio Amargo,13,40.58,527.54,ChocoFranq 2,Kamilly Sales,SC,Online
+2023-06-01,Chocolate Recheado,4,32.97,131.88,ChocoFranq 5,Calebe Freitas,PR,Online
+2023-06-11,Chocolate Com Menta,6,21.52,129.12,ChocoFranq 1,Nicole Rodrigues,BA,Online
+2023-12-01,Chocolate Com Morango,12,43.22,518.64,ChocoFranq 2,João Gabriel Cavalcanti,MG,Franquia
+2023-08-13,Chocolate Ao Leite,5,28.82,144.1,ChocoFranq 3,Guilherme Porto,SP,Franquia
+2023-04-10,Chocolate Vegano,2,35.14,70.28,ChocoFranq 1,Leandro Oliveira,SP,Franquia
+2023-02-17,Chocolate Diet,5,35.62,178.1,ChocoFranq 1,Davi Lucca da Cunha,RS,Franquia
+2023-02-22,Chocolate 70% Cacau,10,17.36,173.6,ChocoFranq 3,Ana Júlia Santos,RJ,Online
+2024-01-06,Chocolate Com Morango,12,44.6,535.2,ChocoFranq 7,Alexandre Freitas,DF,Franquia
+2023-07-18,Chocolate Com Castanha,14,22.28,311.92,ChocoFranq 2,Maria Fernanda Costa,CE,Franquia
+2023-03-27,Chocolate Com Menta,8,28.94,231.52,ChocoFranq 5,Davi Lucca da Cunha,SC,Online
+2023-05-14,Chocolate Com Amêndoas,17,6.35,107.95,ChocoFranq 1,Guilherme Porto,MG,Franquia
+2023-06-09,Chocolate Ao Leite,6,10.14,60.84,ChocoFranq 1,Davi Lucca da Cunha,RS,Online
+2023-05-04,Chocolate Zero Açúcar,19,46.65,886.35,ChocoFranq 6,Olivia da Mota,SP,Franquia
+2024-01-09,Chocolate Meio Amargo,1,10.98,10.98,ChocoFranq 10,Guilherme Porto,CE,Online
+2024-03-05,Chocolate Com Menta,16,27.97,447.52,ChocoFranq 6,Lorenzo Silva,CE,Online
+2023-03-03,Chocolate 70% Cacau,13,41.81,543.53,ChocoFranq 7,Isadora Moura,CE,Franquia
+2023-12-24,Chocolate Zero Açúcar,3,42.66,127.98,ChocoFranq 10,Sr. Breno Silva,PR,Franquia
+2023-11-23,Chocolate Com Avelã,19,48.48,921.12,ChocoFranq 2,Ana Júlia Santos,RJ,Franquia
+2024-02-15,Chocolate Com Morango,17,43.74,743.58,ChocoFranq 2,Isaac Costa,RS,Online
+2023-02-27,Chocolate Diet,5,39.22,196.1,ChocoFranq 2,Kamilly Sales,BA,Online
+2023-07-07,Chocolate Com Morango,2,39.97,79.94,ChocoFranq 1,Calebe Freitas,CE,Online
+2024-03-18,Chocolate Zero Açúcar,18,39.4,709.2,ChocoFranq 6,João Gabriel Cavalcanti,MG,Online
+2023-06-14,Chocolate Zero Açúcar,8,37.09,296.72,ChocoFranq 9,Henrique Araújo,PR,Franquia
+2024-03-18,Chocolate Zero Açúcar,15,5.52,82.8,ChocoFranq 2,Nicole Rodrigues,RS,Franquia
+2023-12-23,Chocolate Com Amêndoas,8,14.71,117.68,ChocoFranq 10,Guilherme Porto,RJ,Franquia
+2023-02-14,Chocolate 70% Cacau,2,43.39,86.78,ChocoFranq 8,Marcela Dias,RJ,Franquia
+2023-01-12,Chocolate Com Avelã,19,32.29,613.51,ChocoFranq 5,Guilherme Porto,SC,Franquia
+2023-08-28,Chocolate Recheado,20,9.26,185.2,ChocoFranq 6,Calebe Freitas,PE,Franquia
+2023-04-11,Chocolate 70% Cacau,8,32.45,259.6,ChocoFranq 6,João Gabriel Cavalcanti,RS,Online
+2023-09-04,Chocolate Recheado,14,17.4,243.6,ChocoFranq 1,Isadora Moura,PR,Franquia
+2024-02-12,Chocolate Com Amêndoas,5,24.61,123.05,ChocoFranq 6,Catarina Farias,RJ,Online
+2023-01-04,Chocolate Diet,7,37.09,259.63,ChocoFranq 10,Juliana Pinto,MG,Online
+2023-11-28,Chocolate Meio Amargo,1,44.57,44.57,ChocoFranq 8,Ana Júlia Santos,CE,Franquia
+2023-11-01,Chocolate Com Morango,20,31.96,639.2,ChocoFranq 9,Rafael Moura,MG,Franquia
+2023-05-26,Chocolate Com Menta,15,19.93,298.95,ChocoFranq 10,Isaac Costa,SC,Franquia
+2023-07-17,Chocolate Com Amêndoas,10,37.74,377.4,ChocoFranq 8,Leandro Oliveira,DF,Franquia
+2024-05-08,Chocolate Branco,19,31.6,600.4,ChocoFranq 8,Luiz Gustavo Carvalho,CE,Franquia
+2024-01-17,Chocolate Com Amêndoas,17,26.29,446.93,ChocoFranq 2,Sr. Breno Silva,PR,Online
+2023-01-19,Chocolate Trufado,18,20.93,376.74,ChocoFranq 3,Catarina Farias,BA,Online
+2024-01-15,Chocolate Zero Açúcar,3,5.31,15.93,ChocoFranq 4,Valentina Teixeira,RS,Franquia
+2023-02-15,Chocolate Com Castanha,17,49.94,848.98,ChocoFranq 7,Marcela Dias,PR,Franquia
+2024-03-18,Chocolate Diet,9,6.78,61.02,ChocoFranq 9,Catarina Farias,MG,Online
+2024-02-28,Chocolate Vegano,12,43.33,519.96,ChocoFranq 7,Leandro Oliveira,RJ,Franquia
+2023-07-02,Chocolate Trufado,15,18.2,273.0,ChocoFranq 3,Sr. Breno Silva,RS,Online
+2024-02-16,Chocolate 70% Cacau,14,15.25,213.5,ChocoFranq 2,Henrique Araújo,MG,Franquia
+2023-07-01,Chocolate Trufado,15,43.06,645.9,ChocoFranq 7,Luiz Gustavo Carvalho,DF,Franquia
+2023-08-13,Chocolate Com Caramelo,11,12.14,133.54,ChocoFranq 7,Leandro Oliveira,MG,Franquia
+2023-03-07,Chocolate Recheado,9,7.67,69.03,ChocoFranq 10,Dr. Enzo Gabriel Fogaça,PE,Franquia
+2023-07-26,Chocolate Com Avelã,2,22.57,45.14,ChocoFranq 1,Davi Lucca da Cunha,MG,Online
+2023-07-23,Chocolate Com Amêndoas,6,28.45,170.7,ChocoFranq 7,Lorenzo Silva,SP,Online
+2023-07-19,Chocolate 70% Cacau,15,22.18,332.7,ChocoFranq 3,Leandro Oliveira,SC,Franquia
+2024-03-12,Chocolate Trufado,4,9.1,36.4,ChocoFranq 6,Catarina Farias,BA,Franquia
+2023-07-01,Chocolate Com Amêndoas,20,14.45,289.0,ChocoFranq 5,Nicolas Rezende,CE,Franquia
+2024-01-18,Chocolate Vegano,16,24.45,391.2,ChocoFranq 4,João Gabriel Cavalcanti,PE,Online
+2023-03-27,Chocolate Ao Leite,3,48.6,145.8,ChocoFranq 1,Fernando Silva,RS,Franquia
+2023-07-01,Chocolate Branco,18,11.7,210.6,ChocoFranq 10,Isaac Costa,SC,Franquia
+2023-07-09,Chocolate Com Amêndoas,4,15.13,60.52,ChocoFranq 1,Davi Lucca da Cunha,PE,Online
+2023-11-30,Chocolate Vegano,10,35.59,355.9,ChocoFranq 10,Nicolas Rezende,RJ,Online
+2023-08-28,Chocolate Branco,7,15.11,105.77,ChocoFranq 10,Olivia da Mota,DF,Franquia
+2023-03-29,Chocolate 70% Cacau,14,11.1,155.4,ChocoFranq 3,Henrique Araújo,SP,Franquia
+2023-06-08,Chocolate Com Amêndoas,7,28.38,198.66,ChocoFranq 5,Catarina Farias,SC,Franquia
+2023-03-19,Chocolate Trufado,2,21.22,42.44,ChocoFranq 9,Isaac Costa,RJ,Franquia
+2023-05-08,Chocolate 70% Cacau,20,21.55,431.0,ChocoFranq 10,Fernando Silva,SC,Online
+2023-03-15,Chocolate Zero Açúcar,7,19.01,133.07,ChocoFranq 8,Davi Lucca da Cunha,CE,Online
+2024-01-07,Chocolate Com Avelã,18,38.42,691.56,ChocoFranq 10,Nicolas Rezende,RS,Online
+2023-09-24,Chocolate Vegano,6,37.83,226.98,ChocoFranq 7,Rafael Moura,PR,Online
+2024-01-31,Chocolate Recheado,6,29.9,179.4,ChocoFranq 8,Nicole Rodrigues,DF,Franquia
+2023-12-26,Chocolate Com Amêndoas,9,24.76,222.84,ChocoFranq 2,Lorenzo Silva,SP,Franquia
+2023-11-14,Chocolate Diet,9,13.23,119.07,ChocoFranq 3,Ana Júlia Santos,CE,Online
+2023-03-07,Chocolate Branco,8,12.99,103.92,ChocoFranq 8,Marcela Dias,PR,Franquia
+2023-07-05,Chocolate Branco,1,48.97,48.97,ChocoFranq 8,Leandro Moreira,RS,Online
+2023-11-24,Chocolate Recheado,5,44.46,222.3,ChocoFranq 3,Fernando Silva,SC,Online
+2023-02-27,Chocolate Com Morango,2,29.29,58.58,ChocoFranq 4,Rafael Moura,RJ,Online
+2024-01-11,Chocolate Meio Amargo,3,18.5,55.5,ChocoFranq 10,Davi Lucas Costa,PR,Franquia
+2023-06-21,Chocolate Com Caramelo,2,47.53,95.06,ChocoFranq 4,Olivia da Mota,PR,Online
+2023-09-26,Chocolate Vegano,9,12.31,110.79,ChocoFranq 6,Leandro Oliveira,SC,Franquia
+2023-03-26,Chocolate Diet,10,38.53,385.3,ChocoFranq 3,Isadora Moura,MG,Online
+2023-09-05,Chocolate Zero Açúcar,14,25.19,352.66,ChocoFranq 5,Valentina Teixeira,PE,Franquia
+2023-02-18,Chocolate Com Menta,12,6.12,73.44,ChocoFranq 8,Ana Júlia Santos,DF,Online
+2023-12-23,Chocolate Recheado,1,5.59,5.59,ChocoFranq 2,Davi Lucas Costa,MG,Franquia
+2023-05-01,Chocolate Vegano,17,22.47,381.99,ChocoFranq 3,Davi Lucca da Cunha,PR,Online
+2023-05-14,Chocolate Branco,14,28.96,405.44,ChocoFranq 3,Leandro Oliveira,RJ,Franquia
+2023-01-16,Chocolate Branco,10,31.24,312.4,ChocoFranq 5,Leandro Oliveira,PE,Franquia
+2023-02-05,Chocolate Com Caramelo,12,31.84,382.08,ChocoFranq 2,Davi Lucas Costa,RS,Franquia
+2024-04-13,Chocolate 70% Cacau,5,10.78,53.9,ChocoFranq 1,Rafael Moura,SP,Franquia
+2023-01-25,Chocolate Com Morango,20,22.9,458.0,ChocoFranq 7,Rafael Moura,BA,Franquia
+2023-04-08,Chocolate Com Castanha,4,43.29,173.16,ChocoFranq 8,Davi Lucas Costa,BA,Franquia
+2023-12-31,Chocolate Vegano,15,21.69,325.35,ChocoFranq 8,Calebe Freitas,DF,Franquia
+2024-04-18,Chocolate Recheado,4,28.2,112.8,ChocoFranq 2,João Gabriel Cavalcanti,SC,Online
+2024-05-07,Chocolate Com Castanha,2,18.25,36.5,ChocoFranq 2,Alexandre Freitas,MG,Online
+2023-08-31,Chocolate Com Avelã,14,13.98,195.72,ChocoFranq 3,Henrique Araújo,DF,Online
+2023-11-01,Chocolate Com Caramelo,6,21.56,129.36,ChocoFranq 3,Henrique Araújo,RS,Online
+2023-07-28,Chocolate Com Morango,5,23.92,119.6,ChocoFranq 10,Leandro Moreira,RS,Franquia
+2023-04-23,Chocolate Com Castanha,20,47.58,951.6,ChocoFranq 4,Henrique Araújo,MG,Franquia
+2023-10-10,Chocolate Branco,16,40.53,648.48,ChocoFranq 3,Isaac Costa,MG,Online
+2023-11-18,Chocolate Ao Leite,19,35.63,676.97,ChocoFranq 5,Leandro Oliveira,PE,Franquia
+2023-12-24,Chocolate Vegano,10,49.86,498.6,ChocoFranq 3,Olivia da Mota,BA,Franquia
+2023-12-08,Chocolate Com Menta,19,28.26,536.94,ChocoFranq 10,Calebe Freitas,RS,Online
+2023-12-10,Chocolate Trufado,16,49.7,795.2,ChocoFranq 7,Nicolas Rezende,CE,Online
+2024-01-19,Chocolate Com Morango,3,43.32,129.96,ChocoFranq 2,Nicole Rodrigues,BA,Online
+2023-10-05,Chocolate Com Menta,5,40.63,203.15,ChocoFranq 4,Nicolas Rezende,RS,Online
+2023-08-04,Chocolate Ao Leite,9,21.72,195.48,ChocoFranq 6,Nicole Rodrigues,DF,Online
+2023-10-12,Chocolate Vegano,13,36.61,475.93,ChocoFranq 7,Lorenzo Silva,RS,Online
+2023-06-05,Chocolate Recheado,5,40.2,201.0,ChocoFranq 2,Nicolas Rezende,BA,Online
+2024-03-16,Chocolate 70% Cacau,11,41.83,460.13,ChocoFranq 10,Lorenzo Silva,PR,Franquia
+2024-02-09,Chocolate Branco,15,43.08,646.2,ChocoFranq 8,Henrique Araújo,PR,Online
+2023-07-15,Chocolate Branco,18,39.78,716.04,ChocoFranq 4,Henrique Araújo,PE,Online
+2023-03-26,Chocolate Com Morango,16,24.66,394.56,ChocoFranq 7,Isaac Costa,CE,Online
+2024-01-17,Chocolate Recheado,15,45.88,688.2,ChocoFranq 2,Juliana Pinto,SC,Online
+2023-04-11,Chocolate Meio Amargo,4,45.82,183.28,ChocoFranq 9,Lorenzo Silva,DF,Online
+2023-02-13,Chocolate Meio Amargo,4,45.14,180.56,ChocoFranq 1,Valentina Teixeira,SP,Franquia
+2023-05-26,Chocolate Com Castanha,11,48.55,534.05,ChocoFranq 8,Sr. Breno Silva,RS,Franquia
+2024-04-05,Chocolate Vegano,1,6.23,6.23,ChocoFranq 1,Juliana Farias,CE,Online
+2024-02-17,Chocolate Trufado,1,15.02,15.02,ChocoFranq 3,Luiz Gustavo Carvalho,BA,Online
+2023-05-04,Chocolate Com Avelã,16,10.51,168.16,ChocoFranq 10,Davi Lucas Costa,DF,Online
+2023-10-21,Chocolate Diet,17,39.84,677.28,ChocoFranq 9,Alexandre Freitas,SC,Franquia
+2023-11-13,Chocolate Com Castanha,17,37.16,631.72,ChocoFranq 1,Isadora Moura,SP,Franquia
+2024-02-09,Chocolate Com Amêndoas,18,21.62,389.16,ChocoFranq 3,Rafael Moura,RS,Franquia
+2023-07-16,Chocolate Com Morango,18,11.05,198.9,ChocoFranq 8,Leandro Oliveira,BA,Online
+2023-05-08,Chocolate Meio Amargo,5,47.59,237.95,ChocoFranq 6,Leandro Moreira,RJ,Online
+2024-04-29,Chocolate 70% Cacau,2,48.19,96.38,ChocoFranq 7,Davi Lucca da Cunha,PR,Online
+2023-05-20,Chocolate Com Avelã,5,31.06,155.3,ChocoFranq 4,Rafael Moura,RJ,Online
+2023-11-09,Chocolate Com Castanha,16,35.99,575.84,ChocoFranq 7,João Gabriel Cavalcanti,PR,Franquia
+2023-05-14,Chocolate Vegano,12,12.26,147.12,ChocoFranq 6,Marcela Dias,CE,Online
+2023-12-15,Chocolate Diet,6,22.07,132.42,ChocoFranq 6,Alexandre Freitas,SP,Franquia
+2023-02-02,Chocolate Trufado,11,42.47,467.17,ChocoFranq 2,Lorenzo Silva,SP,Franquia
+2024-02-08,Chocolate Meio Amargo,2,9.37,18.74,ChocoFranq 10,Davi Lucca da Cunha,SC,Online
+2024-01-22,Chocolate Zero Açúcar,20,47.1,942.0,ChocoFranq 9,Catarina Farias,RS,Franquia
+2023-02-16,Chocolate 70% Cacau,13,31.88,414.44,ChocoFranq 5,Catarina Farias,SC,Franquia
+2023-09-09,Chocolate Com Amêndoas,19,21.02,399.38,ChocoFranq 8,Kamilly Sales,RS,Online
+2024-05-13,Chocolate Meio Amargo,10,27.76,277.6,ChocoFranq 8,Isaac Costa,MG,Franquia
+2023-05-30,Chocolate Com Morango,19,13.63,258.97,ChocoFranq 10,Maria Fernanda Costa,CE,Franquia
+2024-05-09,Chocolate Com Amêndoas,20,15.6,312.0,ChocoFranq 2,Guilherme Porto,SP,Franquia
+2023-03-06,Chocolate Meio Amargo,4,40.95,163.8,ChocoFranq 4,Leandro Oliveira,BA,Online
+2023-01-27,Chocolate Branco,11,27.8,305.8,ChocoFranq 2,João Gabriel Cavalcanti,SP,Online
+2023-05-22,Chocolate 70% Cacau,2,11.49,22.98,ChocoFranq 3,Dr. Ryan Caldeira,RJ,Franquia
+2023-10-12,Chocolate Diet,17,26.31,447.27,ChocoFranq 2,João Gabriel Cavalcanti,SC,Franquia
+2023-06-15,Chocolate Com Morango,19,20.83,395.77,ChocoFranq 4,Maria Fernanda Costa,PE,Online
+2023-03-19,Chocolate Zero Açúcar,10,24.17,241.7,ChocoFranq 4,Rafaela Peixoto,SC,Franquia
+2024-01-04,Chocolate Com Caramelo,11,44.95,494.45,ChocoFranq 7,Leandro Oliveira,DF,Online
+2023-05-28,Chocolate 70% Cacau,20,10.2,204.0,ChocoFranq 7,Dr. Enzo Gabriel Fogaça,SC,Franquia
+2023-08-18,Chocolate Diet,8,32.12,256.96,ChocoFranq 8,Olivia da Mota,DF,Franquia
+2023-09-11,Chocolate Com Avelã,20,36.69,733.8,ChocoFranq 8,Juliana Pinto,RS,Online
+2023-12-14,Chocolate Com Castanha,10,37.86,378.6,ChocoFranq 5,Davi Lucca da Cunha,SP,Online
+2024-02-25,Chocolate Com Morango,11,13.94,153.34,ChocoFranq 10,Valentina Teixeira,CE,Online
+2023-02-07,Chocolate Com Morango,20,11.53,230.6,ChocoFranq 9,Davi Lucca da Cunha,MG,Franquia
+2023-11-08,Chocolate Com Amêndoas,3,49.76,149.28,ChocoFranq 8,Lorenzo Silva,RS,Franquia
+2023-06-01,Chocolate Trufado,3,38.36,115.08,ChocoFranq 2,Guilherme Porto,CE,Online
+2023-08-14,Chocolate Com Castanha,12,49.44,593.28,ChocoFranq 8,Catarina Farias,PR,Online
+2023-06-04,Chocolate Com Morango,19,8.07,153.33,ChocoFranq 9,Leandro Oliveira,CE,Online
+2024-02-27,Chocolate Com Amêndoas,3,15.39,46.17,ChocoFranq 9,Marcela Dias,PE,Franquia
+2024-01-30,Chocolate Com Morango,6,23.46,140.76,ChocoFranq 7,Fernando Silva,PR,Online
+2023-10-17,Chocolate Meio Amargo,14,26.25,367.5,ChocoFranq 2,Guilherme Porto,MG,Franquia
+2024-04-05,Chocolate Meio Amargo,13,37.45,486.85,ChocoFranq 8,Valentina Teixeira,SP,Franquia
+2023-11-09,Chocolate Com Menta,19,35.4,672.6,ChocoFranq 1,Olivia da Mota,SP,Online
+2024-04-07,Chocolate Zero Açúcar,18,33.77,607.86,ChocoFranq 5,Luiz Gustavo Carvalho,SP,Online
+2023-02-22,Chocolate Com Avelã,16,37.73,603.68,ChocoFranq 3,Fernando Silva,RJ,Online
+2024-02-28,Chocolate Com Castanha,19,24.36,462.84,ChocoFranq 4,Maria Fernanda Costa,DF,Franquia
+2023-08-19,Chocolate Com Caramelo,20,20.53,410.6,ChocoFranq 2,Olivia da Mota,RS,Online
+2023-11-17,Chocolate Recheado,14,10.98,153.72,ChocoFranq 4,Luiz Gustavo Carvalho,CE,Online
+2023-07-31,Chocolate Com Morango,3,19.29,57.87,ChocoFranq 5,Leandro Moreira,PR,Franquia
+2024-04-21,Chocolate Recheado,3,22.77,68.31,ChocoFranq 8,Leandro Moreira,MG,Franquia
+2023-10-22,Chocolate Com Caramelo,7,15.4,107.8,ChocoFranq 2,Sr. Breno Silva,SP,Franquia
+2023-04-01,Chocolate Recheado,9,25.69,231.21,ChocoFranq 2,Dr. Ryan Caldeira,CE,Online
+2023-06-07,Chocolate Com Amêndoas,14,24.34,340.76,ChocoFranq 10,Maria Fernanda Costa,PR,Franquia
+2023-08-07,Chocolate Zero Açúcar,15,49.61,744.15,ChocoFranq 2,Davi Lucas Costa,MG,Online
+2023-12-18,Chocolate Com Avelã,5,30.79,153.95,ChocoFranq 2,Henrique Araújo,DF,Franquia
+2023-04-02,Chocolate Com Amêndoas,10,32.6,326.0,ChocoFranq 1,João Gabriel Cavalcanti,PE,Franquia
+2024-01-17,Chocolate Recheado,16,45.0,720.0,ChocoFranq 1,Marcela Dias,PR,Online
+2023-09-14,Chocolate Trufado,20,43.33,866.6,ChocoFranq 10,Olivia da Mota,RS,Franquia
+2023-04-26,Chocolate Ao Leite,1,14.35,14.35,ChocoFranq 2,Davi Lucas Costa,SP,Online
+2024-01-19,Chocolate Com Morango,4,36.47,145.88,ChocoFranq 8,Dr. Ryan Caldeira,SP,Franquia
+2024-05-13,Chocolate Meio Amargo,8,43.23,345.84,ChocoFranq 10,Alexandre Freitas,BA,Online
+2023-12-08,Chocolate 70% Cacau,13,23.02,299.26,ChocoFranq 4,Sr. Breno Silva,SC,Online
+2024-04-09,Chocolate Recheado,2,32.13,64.26,ChocoFranq 1,Calebe Freitas,CE,Franquia
+2024-04-26,Chocolate Com Morango,20,30.55,611.0,ChocoFranq 7,Catarina Farias,CE,Franquia
+2023-06-27,Chocolate Com Castanha,14,39.49,552.86,ChocoFranq 9,Maria Fernanda Costa,SC,Online
+2023-10-09,Chocolate 70% Cacau,6,38.95,233.7,ChocoFranq 1,Kamilly Sales,MG,Franquia
+2023-06-26,Chocolate Com Castanha,20,13.75,275.0,ChocoFranq 2,Nicole Rodrigues,MG,Online
+2024-02-18,Chocolate Trufado,5,15.49,77.45,ChocoFranq 5,Rafaela Peixoto,SP,Online
+2024-01-28,Chocolate Branco,19,31.64,601.16,ChocoFranq 2,Dr. Ryan Caldeira,PE,Franquia
+2023-07-05,Chocolate Branco,8,35.69,285.52,ChocoFranq 6,Isaac Costa,PE,Online
+2023-12-25,Chocolate Diet,11,15.09,165.99,ChocoFranq 5,Fernando Silva,DF,Online
+2023-04-16,Chocolate Ao Leite,12,42.7,512.4,ChocoFranq 10,Rafaela Peixoto,MG,Franquia
+2023-05-28,Chocolate Vegano,20,26.03,520.6,ChocoFranq 7,Maria Fernanda Costa,DF,Franquia
+2023-09-19,Chocolate Meio Amargo,14,48.13,673.82,ChocoFranq 4,Juliana Pinto,RJ,Franquia
+2023-11-02,Chocolate Meio Amargo,18,13.49,242.82,ChocoFranq 2,Henrique Araújo,SC,Online
+2023-01-21,Chocolate Com Menta,17,19.5,331.5,ChocoFranq 8,Dr. Ryan Caldeira,PE,Online
+2023-10-30,Chocolate Com Castanha,1,30.34,30.34,ChocoFranq 1,Juliana Farias,SP,Online
+2024-04-23,Chocolate Com Morango,15,19.0,285.0,ChocoFranq 4,Calebe Freitas,MG,Franquia
+2024-01-18,Chocolate Com Castanha,11,48.89,537.79,ChocoFranq 9,Nicolas Rezende,BA,Franquia
+2023-04-12,Chocolate Recheado,18,15.97,287.46,ChocoFranq 7,Henrique Araújo,SC,Franquia
+2023-12-12,Chocolate Branco,11,8.84,97.24,ChocoFranq 7,João Gabriel Cavalcanti,PR,Online
+2023-08-14,Chocolate Com Caramelo,11,22.88,251.68,ChocoFranq 4,João Gabriel Cavalcanti,MG,Online
+2023-08-17,Chocolate Com Amêndoas,13,10.06,130.78,ChocoFranq 9,Nicolas Rezende,DF,Online
+2023-01-18,Chocolate Diet,14,33.09,463.26,ChocoFranq 1,Lorenzo Silva,PE,Franquia
+2023-10-28,Chocolate Ao Leite,20,12.27,245.4,ChocoFranq 9,Isadora Moura,DF,Online
+2023-11-11,Chocolate Vegano,2,32.04,64.08,ChocoFranq 2,Alexandre Freitas,RS,Franquia
+2023-01-28,Chocolate Com Avelã,4,42.09,168.36,ChocoFranq 9,Valentina Teixeira,SP,Online
+2023-02-10,Chocolate Com Caramelo,20,11.72,234.4,ChocoFranq 8,Luiz Gustavo Carvalho,BA,Online
+2023-01-07,Chocolate Com Castanha,17,41.86,711.62,ChocoFranq 10,Juliana Pinto,MG,Franquia
+2024-04-27,Chocolate Recheado,8,36.76,294.08,ChocoFranq 2,Maria Fernanda Costa,BA,Franquia
+2024-03-06,Chocolate Trufado,10,10.4,104.0,ChocoFranq 2,Leandro Moreira,PE,Online
+2024-02-18,Chocolate Meio Amargo,19,27.95,531.05,ChocoFranq 3,Luiz Gustavo Carvalho,MG,Online
+2023-09-09,Chocolate Zero Açúcar,13,27.9,362.7,ChocoFranq 6,Lorenzo Silva,CE,Online
+2023-06-20,Chocolate Com Menta,5,27.73,138.65,ChocoFranq 6,Juliana Farias,SP,Franquia
+2023-11-15,Chocolate Ao Leite,18,36.21,651.78,ChocoFranq 4,Guilherme Porto,MG,Online
+2024-05-11,Chocolate Vegano,15,7.64,114.6,ChocoFranq 10,Davi Lucas Costa,BA,Franquia
+2023-06-19,Chocolate Com Avelã,5,17.88,89.4,ChocoFranq 5,Leandro Moreira,RS,Online
+2023-07-13,Chocolate Trufado,20,13.84,276.8,ChocoFranq 4,Rafaela Peixoto,PR,Online
+2023-12-24,Chocolate Com Morango,12,18.66,223.92,ChocoFranq 5,Juliana Pinto,MG,Franquia
+2024-03-15,Chocolate Ao Leite,11,14.21,156.31,ChocoFranq 3,Sr. Breno Silva,PR,Online
+2023-08-27,Chocolate Trufado,2,29.09,58.18,ChocoFranq 10,Olivia da Mota,MG,Online
+2023-02-20,Chocolate Com Caramelo,19,19.31,366.89,ChocoFranq 4,Leandro Moreira,RJ,Online
+2023-05-29,Chocolate Com Caramelo,6,26.21,157.26,ChocoFranq 8,Nicole Rodrigues,DF,Franquia
+2024-04-10,Chocolate Recheado,13,35.18,457.34,ChocoFranq 1,Juliana Farias,CE,Online
+2023-05-17,Chocolate Recheado,11,36.41,400.51,ChocoFranq 3,Marcela Dias,BA,Online
+2024-01-06,Chocolate Com Caramelo,10,20.43,204.3,ChocoFranq 10,Leandro Moreira,SC,Franquia
+2023-03-03,Chocolate Vegano,12,43.47,521.64,ChocoFranq 9,Juliana Pinto,SP,Online
+2023-10-12,Chocolate Recheado,19,26.03,494.57,ChocoFranq 2,Rafaela Peixoto,SP,Online
+2024-04-13,Chocolate Zero Açúcar,1,7.87,7.87,ChocoFranq 5,Isadora Moura,SC,Online
+2023-12-15,Chocolate Com Menta,5,24.88,124.4,ChocoFranq 9,Fernando Silva,PR,Franquia
+2023-02-21,Chocolate Com Caramelo,1,37.82,37.82,ChocoFranq 4,Marcela Dias,PR,Franquia
+2023-01-16,Chocolate Com Avelã,2,45.35,90.7,ChocoFranq 2,Fernando Silva,BA,Franquia
+2023-04-29,Chocolate Com Avelã,3,21.97,65.91,ChocoFranq 4,Davi Lucca da Cunha,RS,Online
+2023-05-11,Chocolate Com Castanha,4,41.6,166.4,ChocoFranq 7,Isaac Costa,DF,Franquia
+2023-03-16,Chocolate Com Menta,1,48.61,48.61,ChocoFranq 2,Catarina Farias,BA,Franquia
+2024-03-04,Chocolate Trufado,19,25.08,476.52,ChocoFranq 2,Rafael Moura,RS,Online
+2024-03-19,Chocolate 70% Cacau,8,32.46,259.68,ChocoFranq 7,Lorenzo Silva,RJ,Online
+2023-11-26,Chocolate Recheado,9,16.7,150.3,ChocoFranq 3,Henrique Araújo,RJ,Franquia
+2023-05-15,Chocolate Com Caramelo,7,46.19,323.33,ChocoFranq 7,Dr. Enzo Gabriel Fogaça,CE,Online
+2023-12-26,Chocolate Com Menta,2,35.17,70.34,ChocoFranq 10,Kamilly Sales,DF,Franquia
+2023-12-15,Chocolate Com Castanha,19,25.47,483.93,ChocoFranq 8,Rafael Moura,DF,Franquia
+2023-01-13,Chocolate Vegano,3,29.38,88.14,ChocoFranq 9,Maria Fernanda Costa,MG,Franquia
+2023-10-08,Chocolate Recheado,4,25.22,100.88,ChocoFranq 5,Luiz Gustavo Carvalho,RS,Franquia
+2023-05-15,Chocolate 70% Cacau,7,20.23,141.61,ChocoFranq 10,Rafael Moura,PR,Franquia
+2024-04-02,Chocolate Trufado,6,24.77,148.62,ChocoFranq 7,Rafaela Peixoto,DF,Franquia
+2023-06-01,Chocolate Trufado,5,22.9,114.5,ChocoFranq 5,Davi Lucca da Cunha,PE,Franquia
+2023-06-06,Chocolate Com Caramelo,12,37.9,454.8,ChocoFranq 6,Davi Lucas Costa,SP,Online
+2024-02-19,Chocolate Com Castanha,13,16.13,209.69,ChocoFranq 3,Sr. Breno Silva,RJ,Franquia
+2023-10-02,Chocolate Com Avelã,3,10.38,31.14,ChocoFranq 1,Nicolas Rezende,CE,Franquia
+2023-02-14,Chocolate Meio Amargo,17,23.89,406.13,ChocoFranq 6,Davi Lucca da Cunha,SP,Franquia
+2023-09-14,Chocolate Com Castanha,11,40.96,450.56,ChocoFranq 9,Guilherme Porto,RS,Online
+2024-02-12,Chocolate Meio Amargo,17,17.94,304.98,ChocoFranq 8,Maria Fernanda Costa,RS,Online
+2024-02-14,Chocolate Com Menta,3,30.26,90.78,ChocoFranq 8,Dr. Ryan Caldeira,BA,Franquia
+2023-09-04,Chocolate Com Morango,11,48.35,531.85,ChocoFranq 5,Leandro Oliveira,SC,Online
+2024-03-01,Chocolate Zero Açúcar,13,44.12,573.56,ChocoFranq 2,Leandro Oliveira,DF,Franquia
+2023-09-13,Chocolate Com Menta,8,17.94,143.52,ChocoFranq 8,João Gabriel Cavalcanti,CE,Franquia
+2024-05-03,Chocolate Recheado,8,12.84,102.72,ChocoFranq 2,Ana Júlia Santos,MG,Online
+2023-10-30,Chocolate Com Morango,2,37.54,75.08,ChocoFranq 10,Rafaela Peixoto,BA,Franquia
+2024-02-02,Chocolate Com Caramelo,18,41.63,749.34,ChocoFranq 9,Dr. Enzo Gabriel Fogaça,MG,Franquia
+2024-02-09,Chocolate Com Menta,2,45.7,91.4,ChocoFranq 5,Rafaela Peixoto,PE,Online
+2024-03-06,Chocolate Meio Amargo,18,16.79,302.22,ChocoFranq 8,Lorenzo Silva,BA,Online
+2023-06-19,Chocolate Com Amêndoas,10,21.34,213.4,ChocoFranq 8,Juliana Pinto,MG,Online
+2023-10-07,Chocolate 70% Cacau,4,41.21,164.84,ChocoFranq 4,Juliana Farias,PE,Online
+2023-01-08,Chocolate Vegano,18,13.96,251.28,ChocoFranq 9,Maria Fernanda Costa,CE,Franquia
+2024-02-17,Chocolate Recheado,7,14.01,98.07,ChocoFranq 2,Luiz Gustavo Carvalho,RS,Online
+2023-10-06,Chocolate Diet,7,42.27,295.89,ChocoFranq 4,Juliana Farias,SC,Online
+2023-02-13,Chocolate Com Caramelo,2,43.82,87.64,ChocoFranq 10,Lorenzo Silva,SC,Online
+2024-01-11,Chocolate Com Castanha,2,40.97,81.94,ChocoFranq 5,Nicolas Rezende,RJ,Franquia
+2024-01-26,Chocolate Branco,8,9.71,77.68,ChocoFranq 7,Rafael Moura,RS,Online
+2023-09-30,Chocolate Diet,5,34.23,171.15,ChocoFranq 8,Catarina Farias,PE,Online
+2023-02-11,Chocolate Branco,16,22.4,358.4,ChocoFranq 3,Calebe Freitas,BA,Franquia
+2024-01-09,Chocolate Ao Leite,20,44.84,896.8,ChocoFranq 7,Nicolas Rezende,DF,Online
+2023-09-03,Chocolate Com Castanha,19,39.02,741.38,ChocoFranq 10,Davi Lucas Costa,RS,Online
+2023-08-03,Chocolate Trufado,19,9.92,188.48,ChocoFranq 4,Fernando Silva,PR,Franquia
+2023-05-04,Chocolate Com Morango,4,44.9,179.6,ChocoFranq 8,Luiz Gustavo Carvalho,SC,Online
+2023-01-01,Chocolate Com Avelã,1,15.87,15.87,ChocoFranq 4,Olivia da Mota,RS,Online
+2024-02-27,Chocolate Com Castanha,9,5.6,50.4,ChocoFranq 1,Fernando Silva,RJ,Online
+2023-01-02,Chocolate Meio Amargo,9,15.08,135.72,ChocoFranq 5,Luiz Gustavo Carvalho,SP,Franquia
+2023-12-09,Chocolate Meio Amargo,8,36.34,290.72,ChocoFranq 10,Nicole Rodrigues,PR,Online
+2023-12-31,Chocolate Trufado,8,7.92,63.36,ChocoFranq 1,Leandro Moreira,BA,Franquia
+2024-03-11,Chocolate Meio Amargo,18,33.78,608.04,ChocoFranq 7,Nicole Rodrigues,PE,Franquia
+2024-04-30,Chocolate Vegano,15,15.87,238.05,ChocoFranq 7,Dr. Enzo Gabriel Fogaça,SP,Online
+2023-12-15,Chocolate Com Morango,9,36.86,331.74,ChocoFranq 8,Lorenzo Silva,CE,Online
+2024-02-28,Chocolate 70% Cacau,8,34.37,274.96,ChocoFranq 7,Guilherme Porto,CE,Franquia
+2023-09-24,Chocolate Zero Açúcar,2,29.17,58.34,ChocoFranq 7,Olivia da Mota,RJ,Online
+2023-03-20,Chocolate Com Amêndoas,15,49.88,748.2,ChocoFranq 6,Davi Lucca da Cunha,RS,Franquia
+2024-04-14,Chocolate Com Morango,9,49.52,445.68,ChocoFranq 4,Leandro Moreira,CE,Franquia
+2023-07-31,Chocolate Diet,9,6.5,58.5,ChocoFranq 5,Catarina Farias,RJ,Franquia
+2023-03-07,Chocolate Com Morango,16,24.46,391.36,ChocoFranq 7,Maria Fernanda Costa,SP,Franquia
+2023-01-16,Chocolate Com Morango,19,6.42,121.98,ChocoFranq 3,Marcela Dias,DF,Franquia
+2023-01-17,Chocolate Vegano,17,27.94,474.98,ChocoFranq 8,Ana Júlia Santos,PR,Franquia
+2023-03-02,Chocolate Trufado,16,13.2,211.2,ChocoFranq 5,Davi Lucca da Cunha,BA,Franquia
+2024-01-04,Chocolate Com Amêndoas,20,7.47,149.4,ChocoFranq 4,Rafael Moura,RJ,Online
+2023-03-18,Chocolate Recheado,12,48.42,581.04,ChocoFranq 5,Valentina Teixeira,CE,Online
+2023-08-05,Chocolate 70% Cacau,5,21.11,105.55,ChocoFranq 3,Juliana Pinto,CE,Online
+2023-01-05,Chocolate Diet,10,31.08,310.8,ChocoFranq 6,Alexandre Freitas,RS,Franquia
+2023-04-07,Chocolate Branco,20,43.16,863.2,ChocoFranq 5,Lorenzo Silva,MG,Franquia
+2023-04-13,Chocolate Com Caramelo,1,12.01,12.01,ChocoFranq 7,Maria Fernanda Costa,MG,Franquia
+2024-04-02,Chocolate Branco,8,17.37,138.96,ChocoFranq 9,Davi Lucca da Cunha,RJ,Online
+2024-02-19,Chocolate Branco,20,16.29,325.8,ChocoFranq 7,Rafael Moura,SC,Online
+2023-09-27,Chocolate Com Caramelo,19,37.54,713.26,ChocoFranq 10,João Gabriel Cavalcanti,PR,Online
+2023-07-22,Chocolate Com Caramelo,8,7.92,63.36,ChocoFranq 10,Alexandre Freitas,DF,Franquia
+2023-12-01,Chocolate Diet,15,37.69,565.35,ChocoFranq 5,Calebe Freitas,MG,Online
+2024-03-23,Chocolate Com Amêndoas,5,41.13,205.65,ChocoFranq 3,Henrique Araújo,DF,Online
+2023-08-14,Chocolate Diet,19,5.68,107.92,ChocoFranq 7,Catarina Farias,RS,Franquia
+2024-02-17,Chocolate Recheado,8,14.69,117.52,ChocoFranq 8,Marcela Dias,CE,Online
+2023-03-25,Chocolate Com Menta,10,46.08,460.8,ChocoFranq 8,João Gabriel Cavalcanti,RJ,Online
+2023-08-25,Chocolate Diet,11,41.16,452.76,ChocoFranq 3,Olivia da Mota,RS,Franquia
+2023-05-05,Chocolate Branco,12,37.83,453.96,ChocoFranq 10,Rafael Moura,RS,Online
+2023-05-26,Chocolate Com Amêndoas,20,46.73,934.6,ChocoFranq 1,Kamilly Sales,RJ,Online
+2024-04-16,Chocolate Zero Açúcar,18,6.78,122.04,ChocoFranq 8,Rafaela Peixoto,DF,Franquia
+2023-06-14,Chocolate Vegano,15,7.47,112.05,ChocoFranq 2,Luiz Gustavo Carvalho,PR,Online
+2024-01-17,Chocolate Com Amêndoas,15,27.26,408.9,ChocoFranq 8,Davi Lucas Costa,RS,Online
+2023-09-23,Chocolate Diet,8,31.32,250.56,ChocoFranq 10,Catarina Farias,RJ,Online
+2023-10-23,Chocolate Vegano,13,20.11,261.43,ChocoFranq 1,Isadora Moura,RS,Franquia
+2024-03-01,Chocolate Com Menta,17,48.33,821.61,ChocoFranq 7,Lorenzo Silva,SC,Online
+2023-07-04,Chocolate Com Amêndoas,16,12.57,201.12,ChocoFranq 3,Juliana Pinto,CE,Franquia
+2023-01-30,Chocolate Recheado,11,45.44,499.84,ChocoFranq 3,Isadora Moura,PR,Online
+2023-11-03,Chocolate Meio Amargo,17,23.89,406.13,ChocoFranq 10,Ana Júlia Santos,DF,Franquia
+2024-03-21,Chocolate Vegano,13,32.95,428.35,ChocoFranq 9,Fernando Silva,SP,Franquia
+2023-03-12,Chocolate Com Menta,15,27.11,406.65,ChocoFranq 10,Rafael Moura,PR,Online
+2023-01-20,Chocolate Com Avelã,6,31.32,187.92,ChocoFranq 2,Kamilly Sales,SC,Online
+2023-11-14,Chocolate Com Caramelo,3,31.38,94.14,ChocoFranq 5,Henrique Araújo,SP,Franquia
+2023-11-23,Chocolate Com Caramelo,12,33.13,397.56,ChocoFranq 1,João Gabriel Cavalcanti,RJ,Online
+2023-04-07,Chocolate Zero Açúcar,14,23.14,323.96,ChocoFranq 5,Nicolas Rezende,CE,Online
+2023-08-31,Chocolate Com Amêndoas,13,7.43,96.59,ChocoFranq 8,Maria Fernanda Costa,PR,Franquia
+2024-02-27,Chocolate Ao Leite,2,28.22,56.44,ChocoFranq 9,Luiz Gustavo Carvalho,CE,Franquia
+2024-03-01,Chocolate Trufado,13,46.05,598.65,ChocoFranq 10,Dr. Enzo Gabriel Fogaça,SC,Franquia
+2024-03-02,Chocolate Com Avelã,6,47.82,286.92,ChocoFranq 10,Ana Júlia Santos,PE,Franquia
+2023-01-27,Chocolate Diet,16,40.07,641.12,ChocoFranq 10,Leandro Moreira,SP,Online
+2023-01-14,Chocolate Com Castanha,14,21.72,304.08,ChocoFranq 10,Juliana Farias,BA,Franquia
+2024-02-01,Chocolate Meio Amargo,19,15.2,288.8,ChocoFranq 5,Olivia da Mota,PR,Online
+2023-12-30,Chocolate Meio Amargo,15,24.11,361.65,ChocoFranq 5,Leandro Oliveira,RJ,Franquia
